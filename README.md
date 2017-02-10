@@ -1,7 +1,25 @@
+##TODO: 
+1. create sub headers with more specificity
+2. make sure all bookmarks are properly added
+3. delete or re-create the bookmarks, start using this as a main source
 # learning_resources
-Personal list of learning resources for anything that interests me. I try to add only important links, some lists may be small but they are surely helpful. Each category might contain a variety of tutorials, courses and practical projects. Add "related" after each category label and it might help to clarify it's intention.
+Personal list of learning resources for anything that interests me. 
 
 #Programming (high and low level languages)
+* http://halls-of-valhalla.org/beta/challenges
+* https://codefights.com/
+* https://github.com/karan/Projects
+* http://skullcode.com/
+* https://projecteuler.net/
+* https://www.codeeval.com/
+* https://www.topcoder.com/getting-started/
+* https://www.codechef.com/
+* https://www.hackerrank.com/
+* https://www.hackerearth.com/
+* http://www.pythonchallenge.com/
+* https://www.codehunt.com/
+* https://www.codewars.com/
+* http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
 * https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 * http://www.studytonight.com/library/
 * http://littleosbook.github.io/
@@ -9,6 +27,7 @@ Personal list of learning resources for anything that interests me. I try to add
 * http://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://www.coursera.org/specializations/algorithms
 * http://cs61a.org/
+* http://corewar.co.uk/
 * https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
 * http://www.cs.princeton.edu/courses/archive/spr08/cos217/schedule.html
 * https://www.ops-class.org/slides/2016-01-25-intro/
@@ -32,6 +51,8 @@ Personal list of learning resources for anything that interests me. I try to add
 * https://accu.org/index.php/book_reviews_redirect
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 * https://github.com/open-source-society
+* http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
+* https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true
 
 #Linux, bash and the linux environment
 * http://ryanstutorials.net/linuxtutorial/
@@ -43,6 +64,14 @@ Personal list of learning resources for anything that interests me. I try to add
 * http://cb.vu/unixtoolbox.xhtml
 
 #Hacking
+* https://w3challs.com/
+* https://www.hackthissite.org/
+* https://io.netgarage.org/
+* http://hack.darkn3ss.com/
+* https://ctf365.com/
+* http://abctf.xyz/
+* https://www.vulnhub.com/
+* https://www.cybrary.it/0p3n/beginners-guide-list-of-tutoriallearning-resources/
 * http://www.securitytube.net/
 * https://trailofbits.github.io/ctf/
 * https://www.cybrary.it/
@@ -65,6 +94,8 @@ Personal list of learning resources for anything that interests me. I try to add
 * http://bugmenot.com/
 * https://www.virustotal.com/
 * http://seclists.org/
+* http://roothack.org/
+* http://canyouhack.us/
 * http://routerpwn.com/
 * http://practicalcryptography.com/
 * https://in-addr.nl/security-links.php
@@ -74,9 +105,20 @@ Personal list of learning resources for anything that interests me. I try to add
 * https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-development
 * http://pastebin.com/raw/0SNSvyjJ
 * http://pastebin.com/pm1WLXQj
+* https://www.enigmagroup.org/
+* http://www.itsecgames.com/
+* https://xss-game.appspot.com/
+* https://hack.me/
+* http://overthewire.org/wargames/
+* https://exploit-exercises.com/
+* http://smashthestack.org/
 * http://security.cs.rpi.edu/courses/binexp-spring2015/
 * https://www.soldierx.com/tutorials/Buffer-Overflow-Exploitation-Beginners
 * https://handbookproject.github.io/
+* http://3564020356.org/deserve.htm
+* https://0x0539.net/
+* https://holidayhackchallenge.com/2016/
+* http://www.hackertest.net/
 
 #Vulnerability databases
 * http://0day.today/
@@ -90,7 +132,7 @@ Personal list of learning resources for anything that interests me. I try to add
 * https://www.bigendiansmalls.com/category/security/reverse-engineering/
 * https://beginners.re/RE4B-EN.pdf
 * https://tacnetsol.wistia.com/projects/9srmKf6e02
-
+* http://reversing.kr/
 #Front end
 * https://www.freecodecamp.com/
 * https://css-tricks.com/pseudo-element-roundup/
