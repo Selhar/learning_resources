@@ -1,22 +1,8 @@
 # learning_resources
 Personal list of learning resources for anything that interests me. I try to add only important links, some lists may be small but they are surely helpful. Each category might contain a variety of tutorials, courses and practical projects. Add "related" after each category label and it might help to clarify it's intention.
 
-Front end
---
-* https://www.freecodecamp.com/
-* https://css-tricks.com/pseudo-element-roundup/
-* https://www.kirupa.com/react/introducing_react.htm
-* http://exploringjs.com/es6/
-* https://thenounproject.com/
-* http://www.cupcakeipsum.com/
-* https://www.toptal.com/designers/subtlepatterns/
-* https://surge.sh/
-* https://fonts.google.com/
-* http://www.theodinproject.com/
-* https://github.com/markerikson/react-redux-links
-
-Programming (high and low level languages)
--- 
+#Programming (high and low level languages)
+* https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 * http://www.studytonight.com/library/
 * http://littleosbook.github.io/
 * http://www.brokenthorn.com/Resources/
@@ -47,14 +33,7 @@ Programming (high and low level languages)
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 * https://github.com/open-source-society
 
-Reverse engineering
---
-* https://www.bigendiansmalls.com/category/security/reverse-engineering/
-* https://beginners.re/RE4B-EN.pdf
-* https://tacnetsol.wistia.com/projects/9srmKf6e02
-
-Linux, bash and the linux environment
---
+#Linux, bash and the linux environment
 * http://ryanstutorials.net/linuxtutorial/
 * http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine
 * https://www.linux.com/learn/vim-101-beginners-guide-vim
@@ -63,27 +42,7 @@ Linux, bash and the linux environment
 * http://www.tldp.org/guides.html
 * http://cb.vu/unixtoolbox.xhtml
 
-Vulnerability databases
---
-* http://0day.today/
-* https://cwe.mitre.org/data/index.html
-* https://github.com/offensive-security/exploit-database
-* https://www.rapid7.com/db/
-* https://www.exploit-db.com/google-hacking-database/
-* https://www.vigilante.pw/
-Open source projects for beginners
---
-* http://www.firsttimersonly.com/
-* http://up-for-grabs.net/#/
-* https://openhatch.org/
-* https://debgen.simplylinux.ch/
-
-Finding work
---
-* https://www.interviewbit.com/
-
-Hacking
---
+#Hacking
 * http://www.securitytube.net/
 * https://trailofbits.github.io/ctf/
 * https://www.cybrary.it/
@@ -118,3 +77,38 @@ Hacking
 * http://security.cs.rpi.edu/courses/binexp-spring2015/
 * https://www.soldierx.com/tutorials/Buffer-Overflow-Exploitation-Beginners
 * https://handbookproject.github.io/
+
+#Vulnerability databases
+* http://0day.today/
+* https://cwe.mitre.org/data/index.html
+* https://github.com/offensive-security/exploit-database
+* https://www.rapid7.com/db/
+* https://www.exploit-db.com/google-hacking-database/
+* https://www.vigilante.pw/
+
+#Reverse engineering
+* https://www.bigendiansmalls.com/category/security/reverse-engineering/
+* https://beginners.re/RE4B-EN.pdf
+* https://tacnetsol.wistia.com/projects/9srmKf6e02
+
+#Front end
+* https://www.freecodecamp.com/
+* https://css-tricks.com/pseudo-element-roundup/
+* https://www.kirupa.com/react/introducing_react.htm
+* http://exploringjs.com/es6/
+* https://thenounproject.com/
+* http://www.cupcakeipsum.com/
+* https://www.toptal.com/designers/subtlepatterns/
+* https://surge.sh/
+* https://fonts.google.com/
+* http://www.theodinproject.com/
+* https://github.com/markerikson/react-redux-links
+
+#Open source projects for beginners
+* http://www.firsttimersonly.com/
+* http://up-for-grabs.net/#/
+* https://openhatch.org/
+* https://debgen.simplylinux.ch/
+
+#Finding work
+* https://www.interviewbit.com/
