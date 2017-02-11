@@ -60,11 +60,34 @@ Personal list of learning resources for anything that interests me.
 * https://www.linux.com/learn/vim-101-beginners-guide-vim
 * https://www.tutorialspoint.com/unix/
 * http://learnshell.org/
+* https://github.com/alebcay/awesome-shell
 * http://www.tldp.org/guides.html
 * http://cb.vu/unixtoolbox.xhtml
 
 #Hacking
+* https://github.com/sbilly/awesome-security
 * https://w3challs.com/
+* https://github.com/zbetcheckin/Security_list
+* https://github.com/bt3gl/My-Gray-Hacker-Resources
+* https://github.com/nixawk/pentest-wiki
+* https://github.com/gradiuscypher/infosec_getting_started
+* https://github.com/xairy/linux-kernel-exploitation
+* https://github.com/ngalongc/bug-bounty-reference
+* https://github.com/paragonie/awesome-appsec
+* https://github.com/djadmin/awesome-bug-bounty
+* https://github.com/apsdehal/awesome-ctf
+* https://github.com/joe-shenouda/awesome-cyber-skills
+* https://github.com/FabioBaroni/awesome-exploit-development
+* https://github.com/secfigo/Awesome-Fuzzing
+* https://github.com/carpedm20/awesome-hacking
+* https://github.com/paralax/awesome-honeypots
+* https://github.com/onlurking/awesome-infosec
+* https://github.com/enaqx/awesome-pentest
+* https://github.com/ngalongc/bug-bounty-reference
+* https://github.com/infoslack/awesome-web-hacking
+* https://github.com/enddo/awesome-windows-exploitation
+* https://github.com/0x90/wifi-arsenal
+* https://github.com/danielmiessler/SecLists
 * https://www.hackthissite.org/
 * https://io.netgarage.org/
 * http://hack.darkn3ss.com/
