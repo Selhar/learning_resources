@@ -2,6 +2,8 @@
 1. create sub headers with more specificity
 2. make sure all bookmarks are properly added
 3. delete or re-create the bookmarks, start using this as a main source
+4. Review all links and remove links to other lists, take whatever is good from each list and flatten this one
+
 # learning_resources
 Personal list of learning resources for anything that interests me. 
 
