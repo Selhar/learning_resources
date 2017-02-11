@@ -67,6 +67,7 @@ Personal list of learning resources for anything that interests me.
 * http://cb.vu/unixtoolbox.xhtml
 
 #Hacking
+* https://www.defcon.org/html/links/book-list.html
 * https://github.com/sbilly/awesome-security
 * https://w3challs.com/
 * https://github.com/zbetcheckin/Security_list
