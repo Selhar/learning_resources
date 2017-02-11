@@ -70,6 +70,8 @@ Personal list of learning resources for anything that interests me.
 * https://www.defcon.org/html/links/book-list.html
 * https://github.com/sbilly/awesome-security
 * https://w3challs.com/
+* http://pastebin.com/raw/0SNSvyjJ
+* http://pastebin.com/raw/cRYvK4jb
 * https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/
 * https://github.com/zbetcheckin/Security_list
 * https://github.com/bt3gl/My-Gray-Hacker-Resources
