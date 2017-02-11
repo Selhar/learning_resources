@@ -177,3 +177,16 @@ Personal list of learning resources for anything that interests me.
 
 #Finding work
 * https://www.interviewbit.com/
+* https://weworkremotely.com/
+* http://stackoverflow.com/jobs
+* https://www.fiverr.com/
+* https://www.hackerone.com/
+* https://wearehirable.com/
+* https://hasjob.co/
+* https://www.launchcode.org/
+* https://github.com/lukasz-madon/awesome-remote-job
+* https://jobs.github.com/positions?description=&location=remote
+* https://github.com/yanirs/established-remote
+* https://github.com/DyegoCosta/trabalhando-remoto
+* https://bugcrowd.com/
+* https://www.synack.com/
