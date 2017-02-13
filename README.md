@@ -5,6 +5,7 @@
 4. Review all links and remove links to other lists, take whatever is good from each list and flatten this one
 5. Make more subfields
 6. Too much info, trim some later, after doing step 3
+7. Add links to main headers
 
 # Programming
 ### Introduction to languages (and regex)
