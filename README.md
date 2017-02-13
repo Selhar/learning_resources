@@ -11,8 +11,16 @@ Personal list of learning resources for anything that interests me.
 
 # Mathematics
 * http://cs.wheaton.edu/~tvandrun/dmfp/
+* http://web.stanford.edu/class/cs103/
 
 # Programming
+* https://see.stanford.edu/Course/CS106B
+* https://see.stanford.edu/Course/CS107
+* https://courses2.cit.cornell.edu/info4302_2012fa/
+* https://see.stanford.edu/Course/CS106A
+* http://online.stanford.edu/course/computer-science-101-self-paced
+* http://berkeley-cs61as.github.io/
+* http://www.seas.upenn.edu/~cis500/cis500-f14/index.html
 * http://rosettacode.org/wiki/Rosetta_Code
 * https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 * http://www.studytonight.com/library/
@@ -31,7 +39,8 @@ Personal list of learning resources for anything that interests me.
 * https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html
 * http://www.seas.upenn.edu/~cis194/fall16/
 * http://www.cs.cornell.edu/courses/cs5142/2013fa/
-Rust bitch, take a look
+take a look later
+* http://video.bilkent.edu.tr/course_videos.php?courseid=10
 * http://cis198-2016s.github.io/
 * http://www.cs.umd.edu/class/spring2015/cmsc430/
 * http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php
@@ -48,6 +57,13 @@ Rust bitch, take a look
 * http://www.itu.dk/people/sestoft/itu/PCPP/E2015/
 * https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html
 * https://www.cl.cam.ac.uk/teaching/1516/L28/
+* https://github.com/mikeizbicki/ucr-cs100
+* http://philipmjohnson.org/ics314f13/
+
+### Game dev
+* http://ocw.tufts.edu/Course/75
+* http://www.cs.cornell.edu/courses/cs3152/2014sp/
+* http://www.cs.cornell.edu/courses/cs4152/2014sp/
 
 ### Algorithms and data structures
 * http://web.stanford.edu/class/cs97si/
@@ -83,7 +99,7 @@ Rust bitch, take a look
 * https://courses.engr.illinois.edu/cs241/sp2016/index.html
 * https://courses.engr.illinois.edu/cs425/fa2014/index.html
 * http://www.cs.cornell.edu/courses/cs5412/2014sp/
-OS in rust bitch, take a look later 
+take a look later 
 * http://rust-class.org/index.html 
 * http://www.cs.cornell.edu/courses/cs3410/2016fa/
 * http://www.cs.cornell.edu/courses/cs4410/2014fa/
@@ -155,6 +171,7 @@ OS in rust bitch, take a look later
 * https://w3challs.com/
 * http://pastebin.com/raw/0SNSvyjJ
 * http://pastebin.com/raw/cRYvK4jb
+* https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/
 * https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/
 * https://github.com/zbetcheckin/Security_list
 * https://github.com/bt3gl/My-Gray-Hacker-Resources
@@ -224,6 +241,8 @@ OS in rust bitch, take a look later
 * http://overthewire.org/wargames/
 * https://exploit-exercises.com/
 * http://smashthestack.org/
+* http://www-inst.eecs.berkeley.edu/~cs161/sp15/
+* http://www.icir.org/vern/cs261n-Sp14/
 * http://security.cs.rpi.edu/courses/binexp-spring2015/
 * https://www.soldierx.com/tutorials/Buffer-Overflow-Exploitation-Beginners
 * https://handbookproject.github.io/
@@ -231,6 +250,8 @@ OS in rust bitch, take a look later
 * https://0x0539.net/
 * https://holidayhackchallenge.com/2016/
 * http://www.hackertest.net/
+* https://github.com/RPISEC/Malware
+* https://github.com/RPISEC/MBE
 
 # Vulnerability databases
 * http://0day.today/
