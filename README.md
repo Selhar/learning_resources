@@ -10,38 +10,32 @@
 Personal list of learning resources for anything that interests me.
 
 # Programming
-* http://c-faq.com/
-* http://web.stanford.edu/class/cs97si/
-* https://see.stanford.edu/Course/CS106B
-* https://see.stanford.edu/Course/CS107
-* https://courses2.cit.cornell.edu/info4302_2012fa/
-* https://see.stanford.edu/Course/CS106A
-* http://online.stanford.edu/course/computer-science-101-self-paced
-* http://berkeley-cs61as.github.io/
-* http://www.seas.upenn.edu/~cis500/cis500-f14/index.html
-* http://rosettacode.org/wiki/Rosetta_Code
-* https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-* http://www.studytonight.com/library/
-* https://www.coursera.org/specializations/algorithms
-* http://cs61a.org/
-* http://corewar.co.uk/
-* https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
-* http://codeschool.org/
-* http://interactivepython.org/courselib/static/pythonds/index.html
-* https://automatetheboringstuff.com/
-* https://www.sololearn.com/
-* https://www.codesdope.com/
-* http://www-inst.eecs.berkeley.edu/~cs61c/sp15/
-* http://www.cgl.uwaterloo.ca/wmcowan/teaching/cs452/s12/
-* https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html
-* https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html
-* http://www.seas.upenn.edu/~cis194/fall16/
-* http://www.cs.cornell.edu/courses/cs5142/2013fa/
-take a look later
-* http://video.bilkent.edu.tr/course_videos.php?courseid=10
-* http://cis198-2016s.github.io/
-* http://www.cs.umd.edu/class/spring2015/cmsc430/
-* http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php
+
+* [Solutions to programming problems in multiple languages](http://rosettacode.org/wiki/Rosetta_Code)
+
+* [C language FAQ, good explanations](http://c-faq.com/)
+
+* [Video tutorials for multiple languages and CS aspects (OS, Python, Unix, etc..)](http://codeschool.org/)
+* [Lots of guides (git, mongodb, java, C++ etc)](http://www.studytonight.com/library/)
+* [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+
+* [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
+* [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
+* [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
+* [Practical python book, about automating daily tasks](https://automatetheboringstuff.com/)
+* [Programming paradigms](https://see.stanford.edu/Course/CS107)
+* [A group of courses about algorithms and it's practical application, brety gud](https://www.coursera.org/specializations/algorithms)
+* [SICP in python](http://cs61a.org/)
+* [Interactive courses for a bunch of languages 1](https://www.sololearn.com/)
+* [Interactive courses for a bunch of languages 2](https://www.codesdope.com/)
+* [Introduction to programming languages](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html)
+* [Principles of compiler design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
+* [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
+* [Scripting Languages](http://www.cs.cornell.edu/courses/cs5142/2013fa/)
+* [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
+* [Rust programming](http://cis198-2016s.github.io/)
+* [Introduction to compilers](http://www.cs.umd.edu/class/spring2015/cmsc430/)
+* [Functional programming](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php)
 * https://web.stanford.edu/class/cs143/
 * https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/
 * http://www.scs.stanford.edu/14sp-cs240h/
@@ -131,6 +125,7 @@ take a look later
 * http://www.pythonchallenge.com/
 * https://www.codehunt.com/
 * https://www.codewars.com/
+* http://corewar.co.uk/
 
 # Linux, bash and the linux environment
 * http://ryanstutorials.net/linuxtutorial/
