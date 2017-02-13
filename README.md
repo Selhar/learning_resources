@@ -55,8 +55,8 @@
 ### Algorithms and data structures
 * [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Group of courses about the practical application of algorithms](https://www.coursera.org/specializations/algorithms)
-* [Algorithms]http://web.engr.illinois.edu/~jeffe/teaching/algorithms/
-* [Data Representation]https://github.com/aaronbloomfield/pdr
+* [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
+* [Data Representation](https://github.com/aaronbloomfield/pdr)
 * [Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 * [Advanced algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm)
@@ -77,7 +77,7 @@
 * [GPU Programming](http://courses.cms.caltech.edu/cs179/)
 * [Systems programming](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
 * [Rust systems programming](http://rust-class.org/index.html )
-* [Hack the kernel]https://www.ops-class.org/
+* [Hack the kernel](https://www.ops-class.org/)
 
 ### Challenges and exercises
 * [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
