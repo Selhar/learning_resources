@@ -7,10 +7,12 @@
 # learning_resources
 Personal list of learning resources for anything that interests me. 
 
-# Programming (high and low level languages)
-* https://github.com/karan/Projects
+# Programming
+* http://rosettacode.org/wiki/Rosetta_Code
+* https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
-## Challenges and exercises
+### Challenges and exercises
+* https://github.com/karan/Projects
 * http://halls-of-valhalla.org/beta/challenges
 * https://codefights.com/
 * http://skullcode.com/
@@ -23,8 +25,6 @@ Personal list of learning resources for anything that interests me.
 * http://www.pythonchallenge.com/
 * https://www.codehunt.com/
 * https://www.codewars.com/
-* http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
-* https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 * http://www.studytonight.com/library/
 * http://littleosbook.github.io/
 * http://www.brokenthorn.com/Resources/
