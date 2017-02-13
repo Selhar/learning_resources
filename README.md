@@ -7,13 +7,11 @@
 6. Too much info, trim some later, after doing step 3
 
 # learning_resources
-Personal list of learning resources for anything that interests me. 
-
-# Mathematics
-* http://cs.wheaton.edu/~tvandrun/dmfp/
-* http://web.stanford.edu/class/cs103/
+Personal list of learning resources for anything that interests me.
 
 # Programming
+* http://c-faq.com/
+* http://web.stanford.edu/class/cs97si/
 * https://see.stanford.edu/Course/CS106B
 * https://see.stanford.edu/Course/CS107
 * https://courses2.cit.cornell.edu/info4302_2012fa/
@@ -59,6 +57,12 @@ take a look later
 * https://www.cl.cam.ac.uk/teaching/1516/L28/
 * https://github.com/mikeizbicki/ucr-cs100
 * http://philipmjohnson.org/ics314f13/
+* http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+* http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html
+* https://regexone.com/
+* https://gcc.godbolt.org/
+* http://regexr.com/
+* https://accu.org/index.php/book_reviews_redirect
 
 ### Game dev
 * http://ocw.tufts.edu/Course/75
@@ -66,7 +70,6 @@ take a look later
 * http://www.cs.cornell.edu/courses/cs4152/2014sp/
 
 ### Algorithms and data structures
-* http://web.stanford.edu/class/cs97si/
 * http://theory.stanford.edu/~tim/w16/w16.html
 * http://web.engr.illinois.edu/~jeffe/teaching/algorithms/
 * http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html
@@ -78,7 +81,6 @@ take a look later
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm
-* 
 
 ### Network programming
 * http://www.binarytides.com/python-socket-programming-tutorial/
@@ -102,6 +104,7 @@ take a look later
 take a look later 
 * http://rust-class.org/index.html 
 * http://www.cs.cornell.edu/courses/cs3410/2016fa/
+* http://emulator101.com/
 * http://www.cs.cornell.edu/courses/cs4410/2014fa/
 * http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php
 * http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php
@@ -110,10 +113,9 @@ take a look later
 * http://dcg.ethz.ch/lectures/podc_allstars/
 * http://15418.courses.cs.cmu.edu/spring2015/
 
-
-
 ### Web dev
-
+* https://learn.saylor.org/course/index.php?categoryid=9
+* http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/
 
 ### Challenges and exercises
 * https://github.com/karan/Projects
@@ -129,23 +131,6 @@ take a look later
 * http://www.pythonchallenge.com/
 * https://www.codehunt.com/
 * https://www.codewars.com/
-
-* https://github.com/prakhar1989/awesome-courses
-* https://learn.saylor.org/course/index.php?categoryid=9
-* http://web.stanford.edu/class/cs97si/
-* http://c-faq.com/
-* http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
-* http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/
-* http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html
-* http://emulator101.com/
-* https://regexone.com/
-* https://gcc.godbolt.org/
-* http://regexr.com/
-* https://accu.org/index.php/book_reviews_redirect
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
-* https://github.com/open-source-society
-* http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
-* https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true
 
 # Linux, bash and the linux environment
 * http://ryanstutorials.net/linuxtutorial/
@@ -286,6 +271,10 @@ take a look later
 * https://openhatch.org/
 * https://debgen.simplylinux.ch/
 
+# Mathematics
+* http://cs.wheaton.edu/~tvandrun/dmfp/
+* http://web.stanford.edu/class/cs103/
+
 # Finding work
 * https://www.interviewbit.com/
 * https://weworkremotely.com/
@@ -301,3 +290,8 @@ take a look later
 * https://github.com/DyegoCosta/trabalhando-remoto
 * https://bugcrowd.com/
 * https://www.synack.com/
+
+# Useful links that cover too much ground
+* http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+* https://github.com/open-source-society
