@@ -53,74 +53,50 @@ Personal list of learning resources for anything that interests me.
 ### Tools
 * [C/C++ to ASM](https://gcc.godbolt.org/)
 * [regex validation](http://regexr.com/)
-* [book reviews](https://accu.org/index.php/book_reviews_redirect)
+* [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
 
 ### Algorithms and data structures
 * [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [A group of courses about algorithms and it's practical application, brety gud](https://www.coursera.org/specializations/algorithms)
-* http://theory.stanford.edu/~tim/w16/w16.html
-* http://web.engr.illinois.edu/~jeffe/teaching/algorithms/
-* http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html
-* https://github.com/aaronbloomfield/pdr
-* http://www.cs.cornell.edu/courses/cs4820/2014sp/
-* http://www-scf.usc.edu/~csci104/20142/lectures/
-* http://courses.cs.washington.edu/courses/cse331/15sp/
-* http://www3.cs.stonybrook.edu/~skiena/373/
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm
+* [Group of courses about the practical application of algorithms](https://www.coursera.org/specializations/algorithms)
+* [Algorithms]http://web.engr.illinois.edu/~jeffe/teaching/algorithms/
+* [Data Representation]https://github.com/aaronbloomfield/pdr
+* [Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+* [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+* [Advanced algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm)
 
 ### Network programming
-* http://www.binarytides.com/python-socket-programming-tutorial/
-* http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/
-* http://www.cs.cornell.edu/courses/cs5114/2013sp/index.php
+* [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
+* [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
+* [Network Programming Languages](http://www.cs.cornell.edu/courses/cs5114/2013sp/index.php)
 
 ### OS development and systems programming
-* http://littleosbook.github.io/
-* http://www.brokenthorn.com/Resources/
-* http://pages.cs.wisc.edu/~remzi/OSTEP/
-* http://www.cs.princeton.edu/courses/archive/spr08/cos217/schedule.html
-* https://www.ops-class.org/slides/2016-01-25-intro/
-* http://www.projectoberon.com/
-* http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php
-* https://courseware.stanford.edu/pg/courses/lectures/371747
-* https://cs162.eecs.berkeley.edu/
-* http://courses.cms.caltech.edu/cs179/
-* https://courses.engr.illinois.edu/cs241/sp2016/index.html
-* https://courses.engr.illinois.edu/cs425/fa2014/index.html
-* http://www.cs.cornell.edu/courses/cs5412/2014sp/
-take a look later 
-* http://rust-class.org/index.html 
-* http://www.cs.cornell.edu/courses/cs3410/2016fa/
-* http://emulator101.com/
-* http://www.cs.cornell.edu/courses/cs4410/2014fa/
-* http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php
-* http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php
-* http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php
-* https://www.ops-class.org/
-* http://dcg.ethz.ch/lectures/podc_allstars/
-* http://15418.courses.cs.cmu.edu/spring2015/
-
-### Web dev
-* https://learn.saylor.org/course/index.php?categoryid=9
-* http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/
+* [Emulators 101]http://emulator101.com/
+* [OS dev book](http://littleosbook.github.io/)
+* [OS dev book 2](http://www.brokenthorn.com/Resources/)
+* [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [OS dev book 4](http://www.projectoberon.com/)
+* [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
+* [Operating Systems and Systems Programming](https://cs162.eecs.berkeley.edu/)
+* [GPU Programming](http://courses.cms.caltech.edu/cs179/)
+* [Systems programming](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
+* [Rust systems programming](http://rust-class.org/index.html )
+* [Hack the kernel]https://www.ops-class.org/
 
 ### Challenges and exercises
 * [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
-* https://github.com/karan/Projects
-* http://halls-of-valhalla.org/beta/challenges
-* https://codefights.com/
-* http://skullcode.com/
-* https://projecteuler.net/
-* https://www.codeeval.com/
-* https://www.topcoder.com/getting-started/
-* https://www.codechef.com/
-* https://www.hackerrank.com/
-* https://www.hackerearth.com/
-* http://www.pythonchallenge.com/
-* https://www.codehunt.com/
-* https://www.codewars.com/
-* http://corewar.co.uk/
+* [Math exercises using programming](https://projecteuler.net/)
+* [Project ideas](https://github.com/karan/Projects)
+* [Compete 1v1](https://codefights.com/)
+* [Skullcode, one day i'll do this motherfucker](http://skullcode.com/)
+* [Coding contest](https://www.codeeval.com/)
+* [Coding contest 2](https://www.topcoder.com/getting-started/)
+* [Coding contest 3](https://www.codechef.com/)
+* [Coding contest 4](https://www.hackerrank.com/)
+* [Coding contest 5](https://www.hackerearth.com/)
+* [Python challenge](http://www.pythonchallenge.com/)
+* [I think this is just a batch of exercises, not sure, polished tho](https://www.codehunt.com/)
+* [Exercises](https://www.codewars.com/)
+* [Low level programming exercises](http://corewar.co.uk/)
 
 # Linux, bash and the linux environment
 * http://ryanstutorials.net/linuxtutorial/
@@ -145,6 +121,7 @@ take a look later
 * https://github.com/sbilly/awesome-security
 * https://w3challs.com/
 * http://pastebin.com/raw/0SNSvyjJ
+* http://halls-of-valhalla.org/beta/challenges
 * http://pastebin.com/raw/cRYvK4jb
 * https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/
 * https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/
@@ -285,3 +262,4 @@ take a look later
 * http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 * https://github.com/open-source-society
+* https://learn.saylor.org/course/index.php?categoryid=9
