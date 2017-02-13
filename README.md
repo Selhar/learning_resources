@@ -10,60 +10,54 @@
 Personal list of learning resources for anything that interests me.
 
 # Programming
-
-* [Solutions to programming problems in multiple languages](http://rosettacode.org/wiki/Rosetta_Code)
-
-* [C language FAQ, good explanations](http://c-faq.com/)
-
-* [Video tutorials for multiple languages and CS aspects (OS, Python, Unix, etc..)](http://codeschool.org/)
-* [Lots of guides (git, mongodb, java, C++ etc)](http://www.studytonight.com/library/)
+### Introduction to languages (and regex)
 * [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
-
-* [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
-* [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
-* [Practical python book, about automating daily tasks](https://automatetheboringstuff.com/)
-* [Programming paradigms](https://see.stanford.edu/Course/CS107)
-* [A group of courses about algorithms and it's practical application, brety gud](https://www.coursera.org/specializations/algorithms)
-* [SICP in python](http://cs61a.org/)
-* [Interactive courses for a bunch of languages 1](https://www.sololearn.com/)
-* [Interactive courses for a bunch of languages 2](https://www.codesdope.com/)
-* [Introduction to programming languages](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html)
-* [Principles of compiler design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
-* [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
-* [Scripting Languages](http://www.cs.cornell.edu/courses/cs5142/2013fa/)
-* [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
+* [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Rust programming](http://cis198-2016s.github.io/)
-* [Introduction to compilers](http://www.cs.umd.edu/class/spring2015/cmsc430/)
-* [Functional programming](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php)
-* https://web.stanford.edu/class/cs143/
-* https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/
-* http://www.scs.stanford.edu/14sp-cs240h/
-* https://courses.engr.illinois.edu/cs421/fa2014/
-* http://www.cs.cornell.edu/courses/cs3110/2014fa/course_info.php
-* http://matt.might.net/teaching/compilers/spring-2015/
-* http://www.cs.cornell.edu/courses/cs6118/2012fa/
-* http://pgbovine.net/cpython-internals.htm
-* http://courses.cs.washington.edu/courses/cse341/16sp/
-* http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html
-* http://www.itu.dk/people/sestoft/itu/PCPP/E2015/
-* https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html
-* https://www.cl.cam.ac.uk/teaching/1516/L28/
-* https://github.com/mikeizbicki/ucr-cs100
-* http://philipmjohnson.org/ics314f13/
-* http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
-* http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html
-* https://regexone.com/
-* https://gcc.godbolt.org/
-* http://regexr.com/
-* https://accu.org/index.php/book_reviews_redirect
+* [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
+* [Guides for multiple languages](http://www.studytonight.com/library/)
+* [Guides for multiple languages 2](https://www.sololearn.com/)
+* [Guides for multiple languages 3](https://www.codesdope.com/)
+* [Video tutorials for multiple languages](http://codeschool.org/)
+* [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
+* [Regex](https://regexone.com/)
 
-### Game dev
-* http://ocw.tufts.edu/Course/75
-* http://www.cs.cornell.edu/courses/cs3152/2014sp/
-* http://www.cs.cornell.edu/courses/cs4152/2014sp/
+### Programming paradigms 
+* [Programming paradigms](https://see.stanford.edu/Course/CS107)
+* [Functional programming](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php)
+* [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
+* [Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1516/L28/)
+
+### How languages work
+* [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
+* [Introduction to programming languages](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html)
+* [C language FAQ, good explanations](http://c-faq.com/)
+* [Design of programming languages](http://www.cs.cornell.edu/courses/cs6118/2012fa/)
+
+### Compilers
+* [Principles of compiler design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
+* [Compiler construction](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html)
+* [Compilers](http://www.cs.umd.edu/class/spring2015/cmsc430/)
+* [Compilers 2](https://web.stanford.edu/class/cs143/)
+* [Compilers 3](http://matt.might.net/teaching/compilers/spring-2015/)
+
+### Software development, design and architecture
+* [Practical python book, about automating daily tasks](https://automatetheboringstuff.com/)
+* [SICP in python](http://cs61a.org/)
+* [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
+* [Practical concurrent and parallel programming](http://www.itu.dk/people/sestoft/itu/PCPP/E2015/)
+* [Adventures in Advanced Symbolic Programming](https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html)
+* [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
+* [Software Engineering I](http://philipmjohnson.org/ics314f13/)
+
+### Tools
+* [C/C++ to ASM](https://gcc.godbolt.org/)
+* [regex validation](http://regexr.com/)
+* [book reviews](https://accu.org/index.php/book_reviews_redirect)
 
 ### Algorithms and data structures
+* [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
+* [A group of courses about algorithms and it's practical application, brety gud](https://www.coursera.org/specializations/algorithms)
 * http://theory.stanford.edu/~tim/w16/w16.html
 * http://web.engr.illinois.edu/~jeffe/teaching/algorithms/
 * http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html
@@ -112,6 +106,7 @@ take a look later
 * http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/
 
 ### Challenges and exercises
+* [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 * https://github.com/karan/Projects
 * http://halls-of-valhalla.org/beta/challenges
 * https://codefights.com/
