@@ -31,7 +31,7 @@ Personal list of learning resources for anything that interests me.
 * https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html
 * http://www.seas.upenn.edu/~cis194/fall16/
 * http://www.cs.cornell.edu/courses/cs5142/2013fa/
-Rust bitch, take a look \/
+Rust bitch, take a look
 * http://cis198-2016s.github.io/
 * http://www.cs.umd.edu/class/spring2015/cmsc430/
 * http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php
@@ -83,7 +83,7 @@ Rust bitch, take a look \/
 * https://courses.engr.illinois.edu/cs241/sp2016/index.html
 * https://courses.engr.illinois.edu/cs425/fa2014/index.html
 * http://www.cs.cornell.edu/courses/cs5412/2014sp/
-OS in rust bitch, take a look later \/
+OS in rust bitch, take a look later 
 * http://rust-class.org/index.html 
 * http://www.cs.cornell.edu/courses/cs3410/2016fa/
 * http://www.cs.cornell.edu/courses/cs4410/2014fa/
