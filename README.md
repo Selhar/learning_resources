@@ -1,4 +1,4 @@
-##TODO: 
+## TODO: 
 1. create sub headers with more specificity
 2. make sure all bookmarks are properly added
 3. delete or re-create the bookmarks, start using this as a main source
@@ -7,10 +7,12 @@
 # learning_resources
 Personal list of learning resources for anything that interests me. 
 
-#Programming (high and low level languages)
+# Programming (high and low level languages)
+* https://github.com/karan/Projects
+
+## Challenges and exercises
 * http://halls-of-valhalla.org/beta/challenges
 * https://codefights.com/
-* https://github.com/karan/Projects
 * http://skullcode.com/
 * https://projecteuler.net/
 * https://www.codeeval.com/
@@ -56,7 +58,7 @@ Personal list of learning resources for anything that interests me.
 * http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
 * https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true
 
-#Linux, bash and the linux environment
+# Linux, bash and the linux environment
 * http://ryanstutorials.net/linuxtutorial/
 * http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine
 * https://www.linux.com/learn/vim-101-beginners-guide-vim
@@ -66,7 +68,7 @@ Personal list of learning resources for anything that interests me.
 * http://www.tldp.org/guides.html
 * http://cb.vu/unixtoolbox.xhtml
 
-#Hacking
+# Hacking
 * https://www.defcon.org/html/links/book-list.html
 * https://github.com/sbilly/awesome-security
 * https://w3challs.com/
@@ -149,7 +151,7 @@ Personal list of learning resources for anything that interests me.
 * https://holidayhackchallenge.com/2016/
 * http://www.hackertest.net/
 
-#Vulnerability databases
+# Vulnerability databases
 * http://0day.today/
 * https://cwe.mitre.org/data/index.html
 * https://github.com/offensive-security/exploit-database
@@ -157,12 +159,12 @@ Personal list of learning resources for anything that interests me.
 * https://www.exploit-db.com/google-hacking-database/
 * https://www.vigilante.pw/
 
-#Reverse engineering
+# Reverse engineering
 * https://www.bigendiansmalls.com/category/security/reverse-engineering/
 * https://beginners.re/RE4B-EN.pdf
 * https://tacnetsol.wistia.com/projects/9srmKf6e02
 * http://reversing.kr/
-#Front end
+# Front end
 * https://www.freecodecamp.com/
 * https://css-tricks.com/pseudo-element-roundup/
 * https://www.kirupa.com/react/introducing_react.htm
@@ -175,13 +177,13 @@ Personal list of learning resources for anything that interests me.
 * http://www.theodinproject.com/
 * https://github.com/markerikson/react-redux-links
 
-#Open source projects for beginners
+# Open source projects for beginners
 * http://www.firsttimersonly.com/
 * http://up-for-grabs.net/#/
 * https://openhatch.org/
 * https://debgen.simplylinux.ch/
 
-#Finding work
+# Finding work
 * https://www.interviewbit.com/
 * https://weworkremotely.com/
 * http://stackoverflow.com/jobs
