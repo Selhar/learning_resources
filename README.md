@@ -6,9 +6,6 @@
 5. Make more subfields
 6. Too much info, trim some later, after doing step 3
 
-# learning_resources
-Personal list of learning resources for anything that interests me.
-
 # Programming
 ### Introduction to languages (and regex)
 * [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
