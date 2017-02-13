@@ -67,7 +67,7 @@
 * [Network Programming Languages](http://www.cs.cornell.edu/courses/cs5114/2013sp/index.php)
 
 ### OS development and systems programming
-* [Emulators 101]http://emulator101.com/
+* [Emulators 101](http://emulator101.com/)
 * [OS dev book](http://littleosbook.github.io/)
 * [OS dev book 2](http://www.brokenthorn.com/Resources/)
 * [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
