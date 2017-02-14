@@ -217,7 +217,8 @@
 * https://tacnetsol.wistia.com/projects/9srmKf6e02
 * http://reversing.kr/
 
-# Front end
+# Web dev
+* https://tinypng.com/
 * https://www.freecodecamp.com/
 * https://css-tricks.com/pseudo-element-roundup/
 * https://www.kirupa.com/react/introducing_react.htm
