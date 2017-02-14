@@ -218,6 +218,7 @@
 * http://reversing.kr/
 
 # Web dev
+* https://css-tricks.com/centering-css-complete-guide/
 * https://tinypng.com/
 * https://www.freecodecamp.com/
 * https://css-tricks.com/pseudo-element-roundup/
