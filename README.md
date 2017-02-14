@@ -218,6 +218,7 @@
 * http://reversing.kr/
 
 # Web dev
+* https://search.google.com/search-console/mobile-friendly
 * https://css-tricks.com/centering-css-complete-guide/
 * https://tinypng.com/
 * https://www.freecodecamp.com/
