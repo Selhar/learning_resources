@@ -97,6 +97,7 @@
 * [Low level programming exercises](http://corewar.co.uk/)
 
 # Linux, bash and the linux environment
+* http://www.linuxfromscratch.org/lfs/view/stable/
 * http://ryanstutorials.net/linuxtutorial/
 * http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine
 * https://www.linux.com/learn/vim-101-beginners-guide-vim
