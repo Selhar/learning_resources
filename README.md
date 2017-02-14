@@ -115,6 +115,7 @@
 * https://inst.eecs.berkeley.edu/~cs168/fa14/
 
 # Hacking
+* https://www.owasp.org/index.php/Category:OWASP_Guide_Project
 * https://www.defcon.org/html/links/book-list.html
 * https://github.com/sbilly/awesome-security
 * https://w3challs.com/
