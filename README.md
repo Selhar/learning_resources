@@ -218,6 +218,7 @@
 * http://reversing.kr/
 
 # Web dev
+* http://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before
 * http://validator.w3.org/
 * https://search.google.com/search-console/mobile-friendly
 * https://css-tricks.com/centering-css-complete-guide/
