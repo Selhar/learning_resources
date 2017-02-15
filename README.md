@@ -116,6 +116,7 @@
 * https://inst.eecs.berkeley.edu/~cs168/fa14/
 
 # Hacking
+* [wayback machine](https://archive.org/)
 * https://www.owasp.org/index.php/Category:OWASP_Guide_Project
 * https://www.defcon.org/html/links/book-list.html
 * https://github.com/sbilly/awesome-security
