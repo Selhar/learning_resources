@@ -116,6 +116,10 @@
 * https://inst.eecs.berkeley.edu/~cs168/fa14/
 
 # Hacking
+* https://github.com/kurobeats/pentest-bookmarks/
+* https://github.com/juandecarrion/awesome-self-hosted
+* https://www.mediafire.com/folder/y952n2935ocnf/Documents
+* https://cybersecuritybase.github.io/
 * [wayback machine](https://archive.org/)
 * https://www.owasp.org/index.php/Category:OWASP_Guide_Project
 * https://www.defcon.org/html/links/book-list.html
