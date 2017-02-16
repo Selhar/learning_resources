@@ -107,7 +107,7 @@
 
 # Hacking and infosec
 ### Learning material
-* [Books and articles for download ILLLEEEGGAAALLLLLYYYY]https://www.mediafire.com/folder/y952n2935ocnf/Documents
+* [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [Introduction to software security](https://cybersecuritybase.github.io/)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
@@ -144,9 +144,7 @@
 * [Webscantest](http://www.webscantest.com/)
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
 * [wayback machine](https://archive.org/)
-
 * https://github.com/sbilly/awesome-security
-
 * https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/
 * https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/
 * https://github.com/zbetcheckin/Security_list
