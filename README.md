@@ -105,9 +105,21 @@
 # Networks
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-# Hacking
+# Hacking and infosec
+### Blogs
+* [a](http://carnal0wnage.attackresearch.com/)
+* [a](http://www.gnucitizen.org/blog/hacking-linksys-ip-cameras-pt-6/index.html)
+* [a](http://www.darknet.org.uk/)
+* [a](http://blog.portswigger.net/)
+* [a](http://pentestmonkey.net/blog)
+* [a](http://www.darkoperator.com/)
+* [a](http://www.tssci-security.com/)
+* [a](https://blog.skullsecurity.org/)
+* [a](https://www.commonexploits.com/)
+* [a](http://sirdarckcat.blogspot.com.br/)
+* [a](https://www.trustwave.com/Resources/SpiderLabs-Blog/)
 * https://github.com/kurobeats/pentest-bookmarks/
-* https://github.com/juandecarrion/awesome-self-hosted
+* [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
 * https://www.mediafire.com/folder/y952n2935ocnf/Documents
 * https://cybersecuritybase.github.io/
 * [wayback machine](https://archive.org/)
