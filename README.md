@@ -11,43 +11,32 @@
 ### Introduction to languages (and regex)
 * [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-* [Rust programming](http://cis198-2016s.github.io/)
+* [Javascript, i refuse to label as the pretentious title it has](https://github.com/getify/You-Dont-Know-JS)
+* [Rust introduction book](http://rust-lang.github.io/book/ch01-00-introduction.html)
+* [Regex](https://regexone.com/)
 * [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
 * [Guides for multiple languages](http://www.studytonight.com/library/)
 * [Guides for multiple languages 2](https://www.sololearn.com/)
 * [Guides for multiple languages 3](https://www.codesdope.com/)
 * [Video tutorials for multiple languages](http://codeschool.org/)
 * [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
-* [Regex](https://regexone.com/)
-* [Javascript, i refuse to label as the pretentious title it has](https://github.com/getify/You-Dont-Know-JS)
+* [Introduction to python and simple automation](https://automatetheboringstuff.com/)
 
 ### Programming paradigms 
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
-* [Functional programming](http://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php)
 * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
-* [Advanced Functional Programming](https://www.cl.cam.ac.uk/teaching/1516/L28/)
 
 ### How languages work
 * [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
-* [Introduction to programming languages](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html)
 * [C language FAQ, good explanations](http://c-faq.com/)
-* [Design of programming languages](http://www.cs.cornell.edu/courses/cs6118/2012fa/)
 
 ### Compilers
-* [Principles of compiler design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
-* [Compiler construction](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html)
 * [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-* [Compilers](http://www.cs.umd.edu/class/spring2015/cmsc430/)
-* [Compilers 2](https://web.stanford.edu/class/cs143/)
-* [Compilers 3](http://matt.might.net/teaching/compilers/spring-2015/)
 
 ### Software development, design and architecture
 * [Software architecture and design](https://br.udacity.com/course/software-architecture-design--ud821/)
-* [Practical python book, about automating daily tasks](https://automatetheboringstuff.com/)
 * [SICP in python](http://cs61a.org/)
 * [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
-* [Practical concurrent and parallel programming](http://www.itu.dk/people/sestoft/itu/PCPP/E2015/)
-* [Adventures in Advanced Symbolic Programming](https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html)
 * [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
 * [Software Engineering I](http://philipmjohnson.org/ics314f13/)
 
@@ -63,15 +52,12 @@
 * [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Group of courses about the practical application of algorithms](https://www.coursera.org/specializations/algorithms)
 * [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
-* [Data Representation](https://github.com/aaronbloomfield/pdr)
 * [Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
-* [Advanced algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm)
 
 ### Network programming
 * [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
 * [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
-* [Network Programming Languages](http://www.cs.cornell.edu/courses/cs5114/2013sp/index.php)
 
 ### OS development and systems programming
 * [Emulators 101](http://emulator101.com/)
@@ -80,10 +66,10 @@
 * [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [OS dev book 4](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
-
+--
 * [Operating Systems and Systems Programming](https://cs162.eecs.berkeley.edu/)
 * [Video: Operating systems and systems programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
-
+--
 * [GPU Programming](http://courses.cms.caltech.edu/cs179/)
 * [Systems programming](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
 * [Rust systems programming](http://rust-class.org/index.html )
