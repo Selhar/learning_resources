@@ -258,6 +258,9 @@
 * https://fonts.google.com/
 * http://www.theodinproject.com/
 * https://github.com/markerikson/react-redux-links
+* http://gratisography.com/
+* https://unsplash.com/
+* http://www.metmuseum.org/art/collection/#!?perPage=20&showOnly=openaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0
 
 # Open source
 * http://www.firsttimersonly.com/
