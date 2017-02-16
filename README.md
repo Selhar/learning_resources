@@ -108,13 +108,16 @@
 # Hacking and infosec
 ### Learning material
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
+* [Books for download](https://yadi.sk/d/Fkww0QKbuTdVF)
 * [Introduction to software security](https://cybersecuritybase.github.io/)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
+* [Reading list](http://dfir.org/?q=node/8)
 
 ### Writeups and proofs of concept
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
+* [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
 
 ### Challenges and exercises
 * [w3Challs](https://w3challs.com/)
@@ -138,7 +141,7 @@
 * [naked security](https://nakedsecurity.sophos.com/)
 
 ### Forums and imageboards
-* [iack this site's forum](http://www.hackthissite.org/forums/index.php)
+* [hack this site's forum](http://www.hackthissite.org/forums/index.php)
 * [intosec](https://intosec.org/)
 * [greysec](https://greysec.net/index.php)
 * [sinisterly](https://sinister.ly/index.php)
@@ -150,9 +153,9 @@
 * [Webscantest](http://www.webscantest.com/)
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
 * [wayback machine](https://archive.org/)
-* https://github.com/sbilly/awesome-security
-* https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/
-* https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/
+* [Pentesting tools](https://github.com/sbilly/awesome-security)
+
+### unordered
 * https://github.com/zbetcheckin/Security_list
 * https://github.com/bt3gl/My-Gray-Hacker-Resources
 * https://github.com/nixawk/pentest-wiki
@@ -288,6 +291,11 @@
 * http://web.stanford.edu/class/cs103/
 
 # Finding work
+* https://firebounty.com/
+* http://bugsheet.com/directory
+* https://www.openbugbounty.org/
+* https://www.zerodium.com/
+* [Resumé tips](https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/)
 * https://www.interviewbit.com/
 * https://weworkremotely.com/
 * http://stackoverflow.com/jobs
@@ -309,3 +317,4 @@
 * https://github.com/open-source-society
 * https://learn.saylor.org/course/index.php?categoryid=9
 * [Cheat sheets](http://www.cheat-sheets.org/)
+* [Free computer science books](https://github.com/vhf/free-programming-books)
