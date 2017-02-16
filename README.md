@@ -242,12 +242,12 @@
 * http://www.theodinproject.com/
 * https://github.com/markerikson/react-redux-links
 
-# Open source projects for beginners
+# Open source
 * http://www.firsttimersonly.com/
 * http://up-for-grabs.net/#/
 * https://openhatch.org/
 * https://debgen.simplylinux.ch/
-
+* https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 # Mathematics
 * http://cs.wheaton.edu/~tvandrun/dmfp/
 * http://web.stanford.edu/class/cs103/
