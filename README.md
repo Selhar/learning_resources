@@ -99,14 +99,11 @@
 * [Useful tips and tricks for unix](http://cb.vu/unixtoolbox.xhtml)
 
 # Databases
-* https://sites.google.com/site/cs186spring2015/
-* http://15721.courses.cs.cmu.edu/spring2016/
-* https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about
-* https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0
+* [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+* [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 
 # Networks
-* https://inst.eecs.berkeley.edu/~cs168/fa14/
-* https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about
+* [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
 # Hacking
 * https://github.com/kurobeats/pentest-bookmarks/
