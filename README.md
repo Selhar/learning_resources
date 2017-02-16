@@ -66,10 +66,8 @@
 * [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [OS dev book 4](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
---
-* [Operating Systems and Systems Programming](https://cs162.eecs.berkeley.edu/)
+* [Reading material: Operating Systems and Systems Programming](https://cs162.eecs.berkeley.edu/)
 * [Video: Operating systems and systems programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
---
 * [GPU Programming](http://courses.cms.caltech.edu/cs179/)
 * [Systems programming](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
 * [Rust systems programming](http://rust-class.org/index.html )
