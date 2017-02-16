@@ -15,10 +15,11 @@
 * [Rust introduction book](http://rust-lang.github.io/book/ch01-00-introduction.html)
 * [Regex](https://regexone.com/)
 * [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
-* [Guides for multiple languages](http://www.studytonight.com/library/)
-* [Guides for multiple languages 2](https://www.sololearn.com/)
-* [Guides for multiple languages 3](https://www.codesdope.com/)
-* [Video tutorials for multiple languages](http://codeschool.org/)
+* [Introduction to a bunch of languages](http://www.studytonight.com/library/)
+* [Introduction to a bunch of languages 2](https://www.sololearn.com/)
+* [Introduction to a bunch of languages 3](https://www.codesdope.com/)
+* [Introduction to a bunch of languages 4](https://www.learnpython.org/)
+* [Introduction to a bunch of languages 5](http://codeschool.org/)
 * [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Introduction to python and simple automation](https://automatetheboringstuff.com/)
 * [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
@@ -87,16 +88,15 @@
 * [Low level programming exercises](http://corewar.co.uk/)
 
 # Linux, bash and the linux environment
-* http://www.linuxfromscratch.org/lfs/view/stable/
-* http://ryanstutorials.net/linuxtutorial/
-* http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine
-* https://www.linux.com/learn/vim-101-beginners-guide-vim
-* https://www.tutorialspoint.com/unix/
-* http://learnshell.org/
-* https://github.com/alebcay/awesome-shell
-* http://www.tldp.org/guides.html
-* http://cb.vu/unixtoolbox.xhtml
-* http://www.cs.cornell.edu/courses/cs2043/2014sp/
+* [Create a linux distro from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+* [Introduction to linux and the linux environment](http://ryanstutorials.net/linuxtutorial/)
+* [Installing any distro on any computer](http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine)
+* [Introduction to vim](https://www.linux.com/learn/vim-101-beginners-guide-vim)
+* [Introduction to Unix](https://www.tutorialspoint.com/unix/)
+* [Introduction to the shell](http://learnshell.org/)
+* [Tools and extensions for shells](https://github.com/alebcay/awesome-shell)
+* [Curated guides and tutorials for the linux environment](http://www.tldp.org/guides.html)
+* [Useful tips and tricks for unix](http://cb.vu/unixtoolbox.xhtml)
 
 # Databases
 * https://sites.google.com/site/cs186spring2015/
