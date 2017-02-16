@@ -111,12 +111,15 @@
 * [Introduction to software security](https://cybersecuritybase.github.io/)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
+
 ### Writeups and proofs of concept
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
+
 ### Challenges and exercises
 * [w3Challs](https://w3challs.com/)
 * [Halls of valhalla](http://halls-of-valhalla.org/beta/challenges)
+
 ### Blogs
 * [carnal0wnage](http://carnal0wnage.attackresearch.com/)
 * [darknet](http://www.darknet.org.uk/)
@@ -127,11 +130,13 @@
 * [SpiderLabs](https://www.trustwave.com/Resources/SpiderLabs-Blog/)
 * [OSVDB](https://blog.osvdb.org/)
 * [krebs on security](http://krebsonsecurity.com/)
+
 ### News
 * [insecure magazine](https://www.helpnetsecurity.com/insecuremag-archive/)
 * [packetstorm](https://packetstormsecurity.com/news/)
 * [dark reading](http://www.darkreading.com/)
 * [naked security](https://nakedsecurity.sophos.com/)
+
 ### Forums and imageboards
 * [iack this site's forum](http://www.hackthissite.org/forums/index.php)
 * [intosec](https://intosec.org/)
@@ -140,6 +145,7 @@
 * [v3rmillion](https://v3rmillion.net/)
 * [Lainchan](https://lainchan.org/sec/index.html)
 * [8ch's cyber](https://8ch.net/cyber/index.html)
+
 ### Tools and services
 * [Webscantest](http://www.webscantest.com/)
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
