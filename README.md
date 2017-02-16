@@ -8,7 +8,7 @@
 7. Add links to main headers
 
 # Programming
-### Introduction to languages (and regex)
+### Programming languages introductions and related material
 * [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Javascript, i refuse to label as the pretentious title it has](https://github.com/getify/You-Dont-Know-JS)
@@ -21,6 +21,7 @@
 * [Video tutorials for multiple languages](http://codeschool.org/)
 * [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Introduction to python and simple automation](https://automatetheboringstuff.com/)
+* [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 
 ### Programming paradigms 
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
@@ -61,32 +62,27 @@
 
 ### OS development and systems programming
 * [Emulators 101](http://emulator101.com/)
+* [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
+* [Operating Systems and Systems Programming - Video classes](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+* [Hack the kernel](https://www.ops-class.org/)
 * [OS dev book](http://littleosbook.github.io/)
 * [OS dev book 2](http://www.brokenthorn.com/Resources/)
 * [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [OS dev book 4](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
-* [Reading material: Operating Systems and Systems Programming](https://cs162.eecs.berkeley.edu/)
-* [Video: Operating systems and systems programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
-* [GPU Programming](http://courses.cms.caltech.edu/cs179/)
-* [Systems programming](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
-* [Rust systems programming](http://rust-class.org/index.html )
-* [Hack the kernel](https://www.ops-class.org/)
 
 ### Challenges and exercises
-* [Codingame](https://www.codingame.com/home)
-* [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
-* [Math exercises using programming](https://projecteuler.net/)
-* [Project ideas](https://github.com/karan/Projects)
-* [Compete 1v1](https://codefights.com/)
-* [Skullcode, one day i'll do this motherfucker](http://skullcode.com/)
 * [Coding contest](https://www.codeeval.com/)
 * [Coding contest 2](https://www.topcoder.com/getting-started/)
 * [Coding contest 3](https://www.codechef.com/)
 * [Coding contest 4](https://www.hackerrank.com/)
 * [Coding contest 5](https://www.hackerearth.com/)
-* [Python challenge](http://www.pythonchallenge.com/)
+* [Compete 1v1](https://codefights.com/)
 * [I think this is just a batch of exercises, not sure, polished tho](https://www.codehunt.com/)
+* [Skullcode, one day i'll do this motherfucker](http://skullcode.com/)
+* [Codingame](https://www.codingame.com/home)
+* [Math exercises using programming](https://projecteuler.net/)
+* [Python challenge](http://www.pythonchallenge.com/)
 * [Exercises](https://www.codewars.com/)
 * [Low level programming exercises](http://corewar.co.uk/)
 
