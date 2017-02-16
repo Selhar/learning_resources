@@ -107,17 +107,14 @@
 
 # Hacking and infosec
 ### Blogs
-* [a](http://carnal0wnage.attackresearch.com/)
-* [a](http://www.gnucitizen.org/blog/hacking-linksys-ip-cameras-pt-6/index.html)
-* [a](http://www.darknet.org.uk/)
-* [a](http://blog.portswigger.net/)
-* [a](http://pentestmonkey.net/blog)
-* [a](http://www.darkoperator.com/)
-* [a](http://www.tssci-security.com/)
-* [a](https://blog.skullsecurity.org/)
-* [a](https://www.commonexploits.com/)
-* [a](http://sirdarckcat.blogspot.com.br/)
-* [a](https://www.trustwave.com/Resources/SpiderLabs-Blog/)
+* [carnal0wnage](http://carnal0wnage.attackresearch.com/)
+* [darknet](http://www.darknet.org.uk/)
+* [portswigger](http://blog.portswigger.net/)
+* [darkoperator](http://www.darkoperator.com/)
+* [skullsecurity](https://blog.skullsecurity.org/)
+* [sirdarckcat](http://sirdarckcat.blogspot.com.br/)
+* [SpiderLabs](https://www.trustwave.com/Resources/SpiderLabs-Blog/)
+
 * https://github.com/kurobeats/pentest-bookmarks/
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
 * https://www.mediafire.com/folder/y952n2935ocnf/Documents
