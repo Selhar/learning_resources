@@ -49,6 +49,9 @@
 * [Software Engineering I](http://philipmjohnson.org/ics314f13/)
 
 ### Tools
+* [Firebase, free cloud DB](https://firebase.google.com/)
+* [Mlab, mongodb cloud DB, free](https://mlab.com/)
+* [heroku, deploy stuff](https://dashboard.heroku.com/)
 * [C/C++ to ASM](https://gcc.godbolt.org/)
 * [regex validation](http://regexr.com/)
 * [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
@@ -74,7 +77,10 @@
 * [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [OS dev book 4](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
+
 * [Operating Systems and Systems Programming](https://cs162.eecs.berkeley.edu/)
+* [Video: Operating systems and systems programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+
 * [GPU Programming](http://courses.cms.caltech.edu/cs179/)
 * [Systems programming](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
 * [Rust systems programming](http://rust-class.org/index.html )
@@ -225,6 +231,8 @@
 * http://reversing.kr/
 
 # Web dev
+* https://www.wirify.com/
+* https://www.materialpalette.com/
 * http://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before
 * http://validator.w3.org/
 * https://search.google.com/search-console/mobile-friendly
