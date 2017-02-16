@@ -106,6 +106,17 @@
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
 # Hacking and infosec
+### Learning material
+* [Books and articles for download ILLLEEEGGAAALLLLLYYYY]https://www.mediafire.com/folder/y952n2935ocnf/Documents
+* [Introduction to software security](https://cybersecuritybase.github.io/)
+* [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
+* [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
+###### Writeups and proofs of concept
+* [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
+* [hack back 2](http://pastebin.com/raw/cRYvK4jb)
+### Challenges and exercises
+* [w3Challs](https://w3challs.com/)
+* [Halls of valhalla](http://halls-of-valhalla.org/beta/challenges)
 ### Blogs
 * [carnal0wnage](http://carnal0wnage.attackresearch.com/)
 * [darknet](http://www.darknet.org.uk/)
@@ -114,19 +125,28 @@
 * [skullsecurity](https://blog.skullsecurity.org/)
 * [sirdarckcat](http://sirdarckcat.blogspot.com.br/)
 * [SpiderLabs](https://www.trustwave.com/Resources/SpiderLabs-Blog/)
-
-* https://github.com/kurobeats/pentest-bookmarks/
+* [OSVDB](https://blog.osvdb.org/)
+* [krebs on security](http://krebsonsecurity.com/)
+### News
+* [insecure magazine](https://www.helpnetsecurity.com/insecuremag-archive/)
+* [packetstorm](https://packetstormsecurity.com/news/)
+* [dark reading](http://www.darkreading.com/)
+* [naked security](https://nakedsecurity.sophos.com/)
+### Forums and imageboards
+* [iack this site's forum](http://www.hackthissite.org/forums/index.php)
+* [intosec](https://intosec.org/)
+* [greysec](https://greysec.net/index.php)
+* [sinisterly](https://sinister.ly/index.php)
+* [v3rmillion](https://v3rmillion.net/)
+* [Lainchan](https://lainchan.org/sec/index.html)
+* [8ch's cyber](https://8ch.net/cyber/index.html)
+### Tools and services
+* [Webscantest](http://www.webscantest.com/)
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
-* https://www.mediafire.com/folder/y952n2935ocnf/Documents
-* https://cybersecuritybase.github.io/
 * [wayback machine](https://archive.org/)
-* https://www.owasp.org/index.php/Category:OWASP_Guide_Project
-* https://www.defcon.org/html/links/book-list.html
+
 * https://github.com/sbilly/awesome-security
-* https://w3challs.com/
-* http://pastebin.com/raw/0SNSvyjJ
-* http://halls-of-valhalla.org/beta/challenges
-* http://pastebin.com/raw/cRYvK4jb
+
 * https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/
 * https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/
 * https://github.com/zbetcheckin/Security_list
@@ -216,6 +236,11 @@
 * https://www.rapid7.com/db/
 * https://www.exploit-db.com/google-hacking-database/
 * https://www.vigilante.pw/
+* [National vulnerability db](https://nvd.nist.gov/)
+* [CVE details](http://www.cvedetails.com/)
+* [CVE](http://cve.mitre.org/)
+* [cx security](https://cxsecurity.com/)
+* [secunia research](https://secuniaresearch.flexerasoftware.com/community/research/)
 
 # Reverse engineering
 * https://www.bigendiansmalls.com/category/security/reverse-engineering/
@@ -279,3 +304,4 @@
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 * https://github.com/open-source-society
 * https://learn.saylor.org/course/index.php?categoryid=9
+* [Cheat sheets](http://www.cheat-sheets.org/)
