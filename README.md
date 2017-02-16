@@ -111,7 +111,7 @@
 * [Introduction to software security](https://cybersecuritybase.github.io/)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
-###### Writeups and proofs of concept
+### Writeups and proofs of concept
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
 ### Challenges and exercises
