@@ -19,6 +19,7 @@
 * [Video tutorials for multiple languages](http://codeschool.org/)
 * [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Regex](https://regexone.com/)
+* [Javascript, i refuse to label as the pretentious title it has](https://github.com/getify/You-Dont-Know-JS)
 
 ### Programming paradigms 
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
@@ -35,11 +36,13 @@
 ### Compilers
 * [Principles of compiler design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
 * [Compiler construction](http://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html)
+* [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [Compilers](http://www.cs.umd.edu/class/spring2015/cmsc430/)
 * [Compilers 2](https://web.stanford.edu/class/cs143/)
 * [Compilers 3](http://matt.might.net/teaching/compilers/spring-2015/)
 
 ### Software development, design and architecture
+* [Software architecture and design](https://br.udacity.com/course/software-architecture-design--ud821/)
 * [Practical python book, about automating daily tasks](https://automatetheboringstuff.com/)
 * [SICP in python](http://cs61a.org/)
 * [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
@@ -87,6 +90,7 @@
 * [Hack the kernel](https://www.ops-class.org/)
 
 ### Challenges and exercises
+* [Codingame](https://www.codingame.com/home)
 * [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 * [Math exercises using programming](https://projecteuler.net/)
 * [Project ideas](https://github.com/karan/Projects)
@@ -117,9 +121,12 @@
 # Databases
 * https://sites.google.com/site/cs186spring2015/
 * http://15721.courses.cs.cmu.edu/spring2016/
+* https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about
+* https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0
 
 # Networks
 * https://inst.eecs.berkeley.edu/~cs168/fa14/
+* https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about
 
 # Hacking
 * https://github.com/kurobeats/pentest-bookmarks/
@@ -231,6 +238,8 @@
 * http://reversing.kr/
 
 # Web dev
+* [HTML and CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [Sass tutorial](http://www.sassshop.com/)
 * https://www.wirify.com/
 * https://www.materialpalette.com/
 * http://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before
