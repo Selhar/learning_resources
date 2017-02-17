@@ -156,6 +156,7 @@
 * [Pentesting tools](https://github.com/sbilly/awesome-security)
 
 ### unordered
+* http://www.pentest-standard.org/index.php/Main_Page
 * https://github.com/zbetcheckin/Security_list
 * https://github.com/bt3gl/My-Gray-Hacker-Resources
 * https://github.com/nixawk/pentest-wiki
