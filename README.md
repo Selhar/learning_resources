@@ -258,6 +258,7 @@
 * http://reversing.kr/
 
 # Web dev
+* https://zellwk.com/blog/understanding-css-box-sizing/
 * [HTML and CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Sass tutorial](http://www.sassshop.com/)
 * https://www.wirify.com/
