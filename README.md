@@ -139,6 +139,7 @@
 * [packetstorm](https://packetstormsecurity.com/news/)
 * [dark reading](http://www.darkreading.com/)
 * [naked security](https://nakedsecurity.sophos.com/)
+* [malc0de](http://www.malc0de.org/)
 
 ### Forums and imageboards
 * [hack this site's forum](http://www.hackthissite.org/forums/index.php)
