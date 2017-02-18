@@ -258,8 +258,9 @@
 * http://reversing.kr/
 
 # Web dev
+* [basics of color theory](https://www.colormatters.com/color-and-design/basic-color-theory)
 * [color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
-* https://zellwk.com/blog/understanding-css-box-sizing/
+* [understanding css box sizing](https://zellwk.com/blog/understanding-css-box-sizing/)
 * [HTML and CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Sass tutorial](http://www.sassshop.com/)
 * https://www.wirify.com/
