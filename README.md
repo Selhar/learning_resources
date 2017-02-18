@@ -258,6 +258,7 @@
 * http://reversing.kr/
 
 # Web dev
+* [color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
 * https://zellwk.com/blog/understanding-css-box-sizing/
 * [HTML and CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Sass tutorial](http://www.sassshop.com/)
