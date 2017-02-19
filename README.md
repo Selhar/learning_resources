@@ -50,6 +50,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [C/C++ to ASM](https://gcc.godbolt.org/)
 * [regex validation](http://regexr.com/)
 * [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
+* http://codepad.org/
 
 ### Algorithms and data structures
 * [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
@@ -153,6 +154,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [v3rmillion](https://v3rmillion.net/)
 * [Lainchan](https://lainchan.org/sec/index.html)
 * [8ch's cyber](https://8ch.net/cyber/index.html)
+* [cracking forum](http://crackingforum.com/index.php)
 
 ### Tools and services
 * [Webscantest](http://www.webscantest.com/)
@@ -191,10 +193,62 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.cachedpages.com/
 * https://archive.fo/
 
-### unordered
+### (more) unordered
 * https://ctftime.org/
 * https://github.com/ctfs
+* https://github.com/Cugu/awesome-forensics
 * https://github.com/Laxa/HackingTools
+* http://www.cfreds.nist.gov/
+* http://www.dfrws.org/dfrws-forensic-challenge-2016
+* https://en.wikipedia.org/wiki/List_of_file_signatures
+* http://www.filesignatures.net/index.php?page=all
+* http://www.garykessler.net/library/file_sigs.html
+* https://forensiccontrol.com/resources/free-software/
+* http://www.forensickb.com/2008/01/forensic-practical.html
+* http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+* http://www.deftlinux.net/package-list/
+* https://packages.debian.org/jessie-backports/forensics-all
+* http://www.dfir.training/index.php/tools/
+* http://dftt.sourceforge.net/
+* http://forensicswiki.org/wiki/Tools
+* http://toolcatalog.nist.gov/populated_taxonomy/index.php
+* https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf
+* http://www.cftt.nist.gov/software_write_block.htm
+* https://github.com/msuhanov/Linux-write-blocker
+* https://zythom.blogspot.com.br/2007/02/les-outils-dun-expert-judiciaire.html
+* http://www.freeshells.info/
+* http://devio.us/
+* http://shells.red-pill.eu/
+* http://map.norsecorp.com/#/helps
+* https://www.flightradar24.com/-13.22,-38.52/7
+* http://www.mockaroo.com/
+* https://hashcat.net/wiki/doku.php?id=example_hashes
+* https://www.hurl.it/
+* https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Draft/Rootkits.md
+* http://sandsprite.com/shellcode_2_exe.php
+* https://isc.sans.edu/diary/
+* http://oss-security.openwall.org/wiki/
+* http://seclist.us/
+* http://explainshell.com/
+* https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+* https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+* https://github.com/future-architect/vuls
+* http://www.ipvoid.com/
+* http://ipv4info.com/
+* https://honeynet.org/project
+* http://www.blacklistalert.org/
+* http://www.nothink.org/honeypots.php
+* http://whatismyipaddress.com/blacklist-check/
+* https://www.host-tracker.com/
+* http://www.leakedin.com/
+* https://mrwhite.biz/
+* http://www.insecam.org/
+* https://mrwhite.biz/
+* https://github.com/alex/what-happens-when
+* https://github.com/RPISEC/Malware
+* http://www.malware-traffic-analysis.net/training-exercises.html
+* https://fumalwareanalysis.blogspot.com.br/p/malware-analysis-tutorials-reverse.html
+* https://practicalmalwareanalysis.com/labs/
 * https://github.com/zardus/ctf-tools
 * https://github.com/Nakiami/mellivora
 * https://github.com/balidani/tinyctf-platform
@@ -237,6 +291,41 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://howto.hackallthethings.com/
 * http://captf.com/practice-ctf/
 * http://opensecuritytraining.info/Training.html
+* http://www.lockpickguide.com/
+* https://www.youtube.com/user/bosnianbill/videos
+* http://en.getairmail.com/
+* https://10minutemail.com/10MinuteMail/index.html?dswid=9337
+* http://www.dnsbl.info/dnsbl-database-check.php
+* https://github.com/pentestgeek/phishing-frenzy
+* http://spammimic.com/encode.cgi
+* https://github.com/laramies/theHarvester
+* https://github.com/stamparm/maltrail
+* https://www.elastic.co/products/beats/packetbeat
+* https://github.com/stamparm/tsusen
+* http://lcamtuf.coredump.cx/p0f3/
+* http://malc0de.com/database/
+* http://malwaredb.malekal.com/
+* http://cybercrime-tracker.net/
+* http://malshare.com/
+* https://totalhash.cymru.com/
+* http://vxvault.net/ViriList.php
+* https://www.botnets.fr/wiki/Main_Page
+* http://www.exposedbotnets.com/
+* http://cybertracker.malwarehunterteam.com/
+* https://zeustracker.abuse.ch/
+* https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
+* https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu
+* https://ransomwaretracker.abuse.ch/tracker/
+* https://contagiodump.blogspot.com.br/
+* https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
+* https://ransomwaretracker.abuse.ch/tracker/
+* https://virusshare.com/
+* http://www.virusign.com/
+* https://www.malwaredomainlist.com/
+* 
+* 
+* 
+* 
 * https://ssd.eff.org/en
 * https://greysec.net/showthread.php?tid=560
 * https://greysec.net/showthread.php?tid=559
