@@ -194,6 +194,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://archive.fo/
 
 ### (more) unordered
+* https://github.com/zbetcheckin/Security_list
 * https://ctftime.org/
 * https://github.com/ctfs
 * https://github.com/Cugu/awesome-forensics
@@ -322,10 +323,17 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://virusshare.com/
 * http://www.virusign.com/
 * https://www.malwaredomainlist.com/
-* 
-* 
-* 
-* 
+* http://www.malware.pl/
+* http://minotauranalysis.com/
+* https://www.scumware.org/
+* https://malware.lu/
+* https://archive.org/details/malwaremuseum
+* http://www.offensivecomputing.net/
+* http://www.malwaredomains.com/
+* https://github.com/krmaxwell/maltrieve
+* https://github.com/0day1day/mwcrawler
+* http://thezoo.morirt.com/
+* https://stixproject.github.io/
 * https://ssd.eff.org/en
 * https://greysec.net/showthread.php?tid=560
 * https://greysec.net/showthread.php?tid=559
