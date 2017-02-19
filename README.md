@@ -119,6 +119,9 @@
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
 * [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
 
+### Articles and documentation
+* [pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
+
 ### Challenges and exercises
 * [w3Challs](https://w3challs.com/)
 * [Halls of valhalla](http://halls-of-valhalla.org/beta/challenges)
@@ -155,16 +158,57 @@
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
 * [wayback machine](https://archive.org/)
 * [Pentesting tools](https://github.com/sbilly/awesome-security)
+* [pentest cheatsheets](https://zeltser.com/cheat-sheets/#)
+* [pentest cheatsheet 2](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+* [pentest cheatsheet 3](https://github.com/jshaw87/Cheatsheets)
+* [sqli cheatsheet](http://websec.ca/kb/sql_injection)
+* http://bgp.he.net/
+* https://www.rbls.org/
+* http://www.urlvoid.com/
+* http://urlquery.net/
+* https://www.virustotal.com/#url
+* https://www.google.com/transparencyreport/safebrowsing/diagnostic/
+* https://www.robtex.com/dns/
+* https://www.netcraft.com/
+* http://www.dnsstuff.com/
+* http://www.tcpiputils.com/
+* http://www.threatlog.com/
+* https://intodns.com/
+* https://sitecheck.sucuri.net/
+* https://www.whatsmydns.net/
+* http://www.trustedsource.org/
+* https://mxtoolbox.com/SuperTool.aspx#
+* http://www.isithacked.com/
+* https://www.threatminer.org/
+* https://dnsdumpster.com/
+* https://builtwith.com/
+* https://whois.domaintools.com/
+* https://www.expireddomains.net/backorder-expired-domains/
+* https://zeltser.com/lookup-malicious-websites/
+* https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
+* http://cachedview.com/
+* http://www.cachedpages.com/
+* https://archive.fo/
 
 ### unordered
-* http://www.pentest-standard.org/index.php/Main_Page
-* https://github.com/zbetcheckin/Security_list
+* https://ctftime.org/
+* https://github.com/ctfs
+* https://github.com/Laxa/HackingTools
+* https://github.com/zardus/ctf-tools
+* https://github.com/Nakiami/mellivora
+* https://github.com/balidani/tinyctf-platform
+* https://highon.coffee/blog/lfi-cheat-sheet/
+* http://packetlife.net/library/cheat-sheets/
+* https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
 * https://github.com/bt3gl/My-Gray-Hacker-Resources
 * https://github.com/nixawk/pentest-wiki
+* https://github.com/meirwah/awesome-incident-response/
+* https://github.com/hslatman/awesome-threat-intelligence
+* https://github.com/sroberts/awesome-iocs
 * https://github.com/gradiuscypher/infosec_getting_started
 * https://github.com/xairy/linux-kernel-exploitation
-* https://github.com/ngalongc/bug-bounty-reference
 * https://github.com/paragonie/awesome-appsec
+* https://github.com/rshipp/awesome-malware-analysis/
 * https://github.com/djadmin/awesome-bug-bounty
 * https://github.com/apsdehal/awesome-ctf
 * https://github.com/joe-shenouda/awesome-cyber-skills
@@ -174,7 +218,6 @@
 * https://github.com/paralax/awesome-honeypots
 * https://github.com/onlurking/awesome-infosec
 * https://github.com/enaqx/awesome-pentest
-* https://github.com/ngalongc/bug-bounty-reference
 * https://github.com/infoslack/awesome-web-hacking
 * https://github.com/enddo/awesome-windows-exploitation
 * https://github.com/0x90/wifi-arsenal
@@ -247,9 +290,23 @@
 * https://www.vigilante.pw/
 * [National vulnerability db](https://nvd.nist.gov/)
 * [CVE details](http://www.cvedetails.com/)
-* [CVE](http://cve.mitre.org/)
+* [CVE mitre](http://cve.mitre.org/)
 * [cx security](https://cxsecurity.com/)
 * [secunia research](https://secuniaresearch.flexerasoftware.com/community/research/)
+* http://seclists.org/fulldisclosure/
+* https://www.seebug.org/
+* http://seclists.org/fulldisclosure/
+* https://www.vulnerability-lab.com/
+* https://vuldb.com/?archive.2016
+* https://vulners.com/search?query=order:published
+* https://www.rapid7.com/db/modules/
+* http://www.exploitalert.com/
+* http://www.securityfocus.com/vulnerabilities
+* https://cve.mitre.org/compatible/country.html
+* https://nmap.org/mailman/listinfo/fulldisclosure
+* http://seclists.org/
+* https://lists.debian.org/debian-security-announce/
+* https://www.first.org/cvss/calculator/3.0
 
 # Reverse engineering
 * https://www.bigendiansmalls.com/category/security/reverse-engineering/
