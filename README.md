@@ -1,3 +1,4 @@
+The idea is to have a curated list of learning resources. Currently sorting through mud, should take a while.
 ## TODO: 
 1. create sub headers with more specificity
 2. make sure all bookmarks are properly added
