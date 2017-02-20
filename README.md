@@ -157,6 +157,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [cracking forum](http://crackingforum.com/index.php)
 
 ### Tools and services
+* [temporary email](https://10minutemail.com/10MinuteMail/index.html?dswid=9337)
 * [Webscantest](http://www.webscantest.com/)
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
 * [wayback machine](https://archive.org/)
@@ -295,7 +296,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.lockpickguide.com/
 * https://www.youtube.com/user/bosnianbill/videos
 * http://en.getairmail.com/
-* https://10minutemail.com/10MinuteMail/index.html?dswid=9337
 * http://www.dnsbl.info/dnsbl-database-check.php
 * https://github.com/pentestgeek/phishing-frenzy
 * http://spammimic.com/encode.cgi
