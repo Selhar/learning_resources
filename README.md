@@ -413,6 +413,18 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://reversing.kr/
 
 # Web dev
+### icon fonts
+* http://sixrevisions.com/resources/free-icon-fonts/
+* http://zurb.com/playground/foundation-icons
+* http://tenbytwenty.com/?xxxx_posts=sosa
+* http://fontawesome.io/
+* http://icons.marekventur.com/
+* http://fontstruct.com/fontstructions/show/352362/ikoo
+* http://www.fontfabric.com/social-media-icons-pack/
+* https://medialoot.com/item/signify-free-icon-font/
+* https://thenounproject.com/
+
+### unordered
 * [basics of color theory](https://www.colormatters.com/color-and-design/basic-color-theory)
 * [color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
 * [understanding css box sizing](https://zellwk.com/blog/understanding-css-box-sizing/)
