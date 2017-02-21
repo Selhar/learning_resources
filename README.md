@@ -459,6 +459,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://openhatch.org/
 * https://debgen.simplylinux.ch/
 * https://github.com/freeCodeCamp/how-to-contribute-to-open-source
+
 # Mathematics
 * http://cs.wheaton.edu/~tvandrun/dmfp/
 * http://web.stanford.edu/class/cs103/
