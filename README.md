@@ -422,7 +422,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://fontstruct.com/fontstructions/show/352362/ikoo
 * http://www.fontfabric.com/social-media-icons-pack/
 * https://medialoot.com/item/signify-free-icon-font/
-* https://thenounproject.com/
+* [The noun project](https://thenounproject.com/)
 
 ### unordered
 * http://youmightnotneedjquery.com/
