@@ -425,6 +425,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [The noun project](https://thenounproject.com/)
 
 ### unordered
+* https://daneden.github.io/animate.css/
 * http://youmightnotneedjquery.com/
 * [basics of color theory](https://www.colormatters.com/color-and-design/basic-color-theory)
 * [color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
