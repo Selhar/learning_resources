@@ -453,6 +453,8 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://gratisography.com/
 * https://unsplash.com/
 * http://www.metmuseum.org/art/collection/#!?perPage=20&showOnly=openaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0
+* http://mydevice.io/devices/
+* https://github.com/aFarkas/lazysizes
 
 # Open source
 * http://www.firsttimersonly.com/
