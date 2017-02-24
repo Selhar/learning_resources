@@ -455,6 +455,14 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.metmuseum.org/art/collection/#!?perPage=20&showOnly=openaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0
 * http://mydevice.io/devices/
 * https://github.com/aFarkas/lazysizes
+* http://cssreference.io/
+* http://htmlreference.io/
+* https://developer.mozilla.org/en-US/
+* https://gtmetrix.com/
+* http://petercollingridge.appspot.com/svg-optimiser
+* http://yoksel.github.io/url-encoder/
+* http://jsonformatter.org/
+* http://geojson.io/#map=2/20.0/0.0
 
 # Open source
 * http://www.firsttimersonly.com/
