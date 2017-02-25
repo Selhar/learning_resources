@@ -117,6 +117,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Reading list](http://dfir.org/?q=node/8)
 
 ### Writeups and proofs of concept
+* [CTF writeups](https://github.com/ctfs)
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
 * [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
@@ -193,14 +194,13 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://cachedview.com/
 * http://www.cachedpages.com/
 * https://archive.fo/
+* [CTF time](https://ctftime.org/)
 
-### (more) unordered
-* https://github.com/zbetcheckin/Security_list
-* https://ctftime.org/
-* https://github.com/ctfs
+### Lists
 * https://github.com/Cugu/awesome-forensics
 * https://github.com/Laxa/HackingTools
-* http://www.cfreds.nist.gov/
+* [List just like my own. Pretty good so i didn't scrape it](https://github.com/zbetcheckin/Security_list)
+### Forensics
 * http://www.dfrws.org/dfrws-forensic-challenge-2016
 * https://en.wikipedia.org/wiki/List_of_file_signatures
 * http://www.filesignatures.net/index.php?page=all
@@ -208,8 +208,10 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://forensiccontrol.com/resources/free-software/
 * http://www.forensickb.com/2008/01/forensic-practical.html
 * http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-* http://www.deftlinux.net/package-list/
-* https://packages.debian.org/jessie-backports/forensics-all
+
+### Unordered
+* http://www.cfreds.nist.gov/
+
 * http://www.dfir.training/index.php/tools/
 * http://dftt.sourceforge.net/
 * http://forensicswiki.org/wiki/Tools
