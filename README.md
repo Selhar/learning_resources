@@ -489,7 +489,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://wearehirable.com/
 * https://hasjob.co/
 * https://www.launchcode.org/
-* https://github.com/lukasz-madon/awesome-remote-job
+* [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
 * https://jobs.github.com/positions?description=&location=remote
 * https://github.com/yanirs/established-remote
 * https://github.com/DyegoCosta/trabalhando-remoto
