@@ -121,6 +121,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
 * [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
+* https://www.ashleymadison.com/hack/
 
 ### Articles and documentation
 * [pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
