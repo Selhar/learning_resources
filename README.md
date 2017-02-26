@@ -364,7 +364,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://reversing.kr/
 
 # Web dev
-### icon fonts
 * http://sixrevisions.com/resources/free-icon-fonts/
 * http://zurb.com/playground/foundation-icons
 * http://tenbytwenty.com/?xxxx_posts=sosa
@@ -374,8 +373,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.fontfabric.com/social-media-icons-pack/
 * https://medialoot.com/item/signify-free-icon-font/
 * [The noun project](https://thenounproject.com/)
-
-### unordered
 * https://daneden.github.io/animate.css/
 * http://youmightnotneedjquery.com/
 * [basics of color theory](https://www.colormatters.com/color-and-design/basic-color-theory)
