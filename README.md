@@ -364,6 +364,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://reversing.kr/
 
 # Web dev
+* http://marksheet.io/
 * http://sixrevisions.com/resources/free-icon-fonts/
 * http://zurb.com/playground/foundation-icons
 * http://tenbytwenty.com/?xxxx_posts=sosa
