@@ -51,6 +51,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [regex validation](http://regexr.com/)
 * [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
 * http://codepad.org/
+* http://www.mockaroo.com/
 
 ### Algorithms and data structures
 * [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
@@ -122,7 +123,9 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
 * [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
 * https://www.ashleymadison.com/hack/
-
+* http://www.programdevelop.com/5408113/
+* http://www.programdevelop.com/5409574/
+* http://www.programdevelop.com/5408212/
 ### Articles and documentation
 * [pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
 
@@ -140,6 +143,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [SpiderLabs](https://www.trustwave.com/Resources/SpiderLabs-Blog/)
 * [OSVDB](https://blog.osvdb.org/)
 * [krebs on security](http://krebsonsecurity.com/)
+* [Handler's diary](https://isc.sans.edu/diary/)
 
 ### News
 * [insecure magazine](https://www.helpnetsecurity.com/insecuremag-archive/)
@@ -196,11 +200,16 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.cachedpages.com/
 * https://archive.fo/
 * [CTF time](https://ctftime.org/)
+* http://map.norsecorp.com/#/helps
+* http://www.freeshells.info/
+* https://www.hurl.it/
 
 ### Lists
 * https://github.com/Cugu/awesome-forensics
 * https://github.com/Laxa/HackingTools
 * [List just like my own. Pretty good so i didn't scrape it](https://github.com/zbetcheckin/Security_list)
+* [Rootkits](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Draft/Rootkits.md)
+
 ### Forensics
 * http://www.dfrws.org/dfrws-forensic-challenge-2016
 * https://en.wikipedia.org/wiki/List_of_file_signatures
@@ -209,29 +218,12 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://forensiccontrol.com/resources/free-software/
 * http://www.forensickb.com/2008/01/forensic-practical.html
 * http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
-
-### Unordered
 * http://www.cfreds.nist.gov/
-
-* http://www.dfir.training/index.php/tools/
-* http://dftt.sourceforge.net/
 * http://forensicswiki.org/wiki/Tools
 * http://toolcatalog.nist.gov/populated_taxonomy/index.php
-* https://blogs.sans.org/computer-forensics/files/2012/06/SANS-Digital-Forensics-and-Incident-Response-Poster-2012.pdf
-* http://www.cftt.nist.gov/software_write_block.htm
-* https://github.com/msuhanov/Linux-write-blocker
-* https://zythom.blogspot.com.br/2007/02/les-outils-dun-expert-judiciaire.html
-* http://www.freeshells.info/
-* http://devio.us/
-* http://shells.red-pill.eu/
-* http://map.norsecorp.com/#/helps
-* https://www.flightradar24.com/-13.22,-38.52/7
-* http://www.mockaroo.com/
-* https://hashcat.net/wiki/doku.php?id=example_hashes
-* https://www.hurl.it/
-* https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Draft/Rootkits.md
-* http://sandsprite.com/shellcode_2_exe.php
-* https://isc.sans.edu/diary/
+
+### Unordered
+* http://www.dfir.training/index.php/tools/
 * http://oss-security.openwall.org/wiki/
 * http://seclist.us/
 * http://explainshell.com/
