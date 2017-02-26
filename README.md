@@ -1,15 +1,10 @@
 The idea is to have a curated list of learning resources. Currently sorting through mud, should take a while.
 ## TODO: 
-1. create sub headers with more specificity
-2. make sure all bookmarks are properly added
-3. delete or re-create the bookmarks, start using this as a main source
-4. Review all links and remove links to other lists, take whatever is good from each list and flatten this one
-5. Make more subfields
-6. Too much info, trim some later, after doing step 3
-7. Add links to main headers
+1. Trim the list down to the actually good links
+2. After the list is trimmed, create sub sections for specificity
+3. Create a header linking to each subsection
 
 # Programming
-### Programming languages introductions and related material
 * [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Javascript, i refuse to label as the pretentious title it has](https://github.com/getify/You-Dont-Know-JS)
@@ -24,26 +19,16 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Introduction to python and simple automation](https://automatetheboringstuff.com/)
 * [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
-
-### Programming paradigms 
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
 * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
-
-### How languages work
 * [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
 * [C language FAQ, good explanations](http://c-faq.com/)
-
-### Compilers
 * [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-
-### Software development, design and architecture
 * [Software architecture and design](https://br.udacity.com/course/software-architecture-design--ud821/)
 * [SICP in python](http://cs61a.org/)
 * [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 * [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
 * [Software Engineering I](http://philipmjohnson.org/ics314f13/)
-
-### Tools
 * [Firebase, free cloud DB](https://firebase.google.com/)
 * [Mlab, mongodb cloud DB, free](https://mlab.com/)
 * [heroku, deploy stuff](https://dashboard.heroku.com/)
@@ -52,19 +37,13 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
 * http://codepad.org/
 * http://www.mockaroo.com/
-
-### Algorithms and data structures
 * [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Group of courses about the practical application of algorithms](https://www.coursera.org/specializations/algorithms)
 * [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
 * [Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
-
-### Network programming
 * [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
 * [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
-
-### OS development and systems programming
 * [Emulators 101](http://emulator101.com/)
 * [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
 * [Operating Systems and Systems Programming - Video classes](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
@@ -74,8 +53,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [OS dev book 4](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
-
-### Challenges and exercises
 * [Coding contest](https://www.codeeval.com/)
 * [Coding contest 2](https://www.topcoder.com/getting-started/)
 * [Coding contest 3](https://www.codechef.com/)
@@ -109,15 +86,15 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
 # Hacking and infosec
-### Learning material
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [Books for download](https://yadi.sk/d/Fkww0QKbuTdVF)
 * [Introduction to software security](https://cybersecuritybase.github.io/)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
 * [Reading list](http://dfir.org/?q=node/8)
-
-### Writeups and proofs of concept
+* http://explainshell.com/
+* https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+* https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
 * [CTF writeups](https://github.com/ctfs)
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
@@ -126,14 +103,9 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.programdevelop.com/5408113/
 * http://www.programdevelop.com/5409574/
 * http://www.programdevelop.com/5408212/
-### Articles and documentation
 * [pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
-
-### Challenges and exercises
 * [w3Challs](https://w3challs.com/)
 * [Halls of valhalla](http://halls-of-valhalla.org/beta/challenges)
-
-### Blogs
 * [carnal0wnage](http://carnal0wnage.attackresearch.com/)
 * [darknet](http://www.darknet.org.uk/)
 * [portswigger](http://blog.portswigger.net/)
@@ -144,15 +116,12 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [OSVDB](https://blog.osvdb.org/)
 * [krebs on security](http://krebsonsecurity.com/)
 * [Handler's diary](https://isc.sans.edu/diary/)
-
-### News
+* http://seclist.us/
 * [insecure magazine](https://www.helpnetsecurity.com/insecuremag-archive/)
 * [packetstorm](https://packetstormsecurity.com/news/)
 * [dark reading](http://www.darkreading.com/)
 * [naked security](https://nakedsecurity.sophos.com/)
 * [malc0de](http://www.malc0de.org/)
-
-### Forums and imageboards
 * [hack this site's forum](http://www.hackthissite.org/forums/index.php)
 * [intosec](https://intosec.org/)
 * [greysec](https://greysec.net/index.php)
@@ -161,8 +130,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Lainchan](https://lainchan.org/sec/index.html)
 * [8ch's cyber](https://8ch.net/cyber/index.html)
 * [cracking forum](http://crackingforum.com/index.php)
-
-### Tools and services
 * [temporary email](https://10minutemail.com/10MinuteMail/index.html?dswid=9337)
 * [Webscantest](http://www.webscantest.com/)
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
@@ -203,14 +170,10 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://map.norsecorp.com/#/helps
 * http://www.freeshells.info/
 * https://www.hurl.it/
-
-### Lists
 * https://github.com/Cugu/awesome-forensics
 * https://github.com/Laxa/HackingTools
 * [List just like my own. Pretty good so i didn't scrape it](https://github.com/zbetcheckin/Security_list)
 * [Rootkits](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Draft/Rootkits.md)
-
-### Forensics
 * http://www.dfrws.org/dfrws-forensic-challenge-2016
 * https://en.wikipedia.org/wiki/List_of_file_signatures
 * http://www.filesignatures.net/index.php?page=all
@@ -221,18 +184,11 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.cfreds.nist.gov/
 * http://forensicswiki.org/wiki/Tools
 * http://toolcatalog.nist.gov/populated_taxonomy/index.php
+* http://www.dfir.training/index.php/tools
 
-### Unordered
-* http://www.dfir.training/index.php/tools/
-* http://oss-security.openwall.org/wiki/
-* http://seclist.us/
-* http://explainshell.com/
-* https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
-* https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+### unchecked
 * https://github.com/future-architect/vuls
 * http://www.ipvoid.com/
-* http://ipv4info.com/
-* https://honeynet.org/project
 * http://www.blacklistalert.org/
 * http://www.nothink.org/honeypots.php
 * http://whatismyipaddress.com/blacklist-check/
