@@ -364,6 +364,8 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://reversing.kr/
 
 # Web dev
+* https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+* https://www.w3schools.com/browsers/browsers_display.asp
 * https://github.com/postcss/autoprefixer
 * http://marksheet.io/
 * http://sixrevisions.com/resources/free-icon-fonts/
