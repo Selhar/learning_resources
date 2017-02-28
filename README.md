@@ -1,15 +1,12 @@
 The idea is to have a curated list of learning resources. Currently sorting through mud, should take a while.
-
 * [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-* [Javascript, i refuse to label as the pretentious title it has](https://github.com/getify/You-Dont-Know-JS)
 * [Rust introduction book](http://rust-lang.github.io/book/ch01-00-introduction.html)
 * [Regex](https://regexone.com/)
 * [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
-* [Introduction to a bunch of languages](http://www.studytonight.com/library/)
 * [Introduction to a bunch of languages 2](https://www.sololearn.com/)
 * [Introduction to a bunch of languages 3](https://www.codesdope.com/)
-* [Introduction to a bunch of languages 4](https://www.learnpython.org/)
+* [Introduction to a bunch of languages 4](https://www.learn-cpp.org/)
 * [Introduction to a bunch of languages 5](http://codeschool.org/)
 * [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Introduction to python and simple automation](https://automatetheboringstuff.com/)
@@ -32,7 +29,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
 * http://codepad.org/
 * http://www.mockaroo.com/
-* [Problem solving with algorithms and data structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Group of courses about the practical application of algorithms](https://www.coursera.org/specializations/algorithms)
 * [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
 * [Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
