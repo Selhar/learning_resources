@@ -1,10 +1,5 @@
 The idea is to have a curated list of learning resources. Currently sorting through mud, should take a while.
-## TODO: 
-1. Trim the list down to the actually good links
-2. After the list is trimmed, create sub sections for specificity
-3. Create a header linking to each subsection
 
-# Programming
 * [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Javascript, i refuse to label as the pretentious title it has](https://github.com/getify/You-Dont-Know-JS)
@@ -66,8 +61,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Python challenge](http://www.pythonchallenge.com/)
 * [Exercises](https://www.codewars.com/)
 * [Low level programming exercises](http://corewar.co.uk/)
-
-# Linux, bash and the linux environment
 * [Create a linux distro from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Introduction to linux and the linux environment](http://ryanstutorials.net/linuxtutorial/)
 * [Installing any distro on any computer](http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine)
@@ -77,15 +70,9 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Tools and extensions for shells](https://github.com/alebcay/awesome-shell)
 * [Curated guides and tutorials for the linux environment](http://www.tldp.org/guides.html)
 * [Useful tips and tricks for unix](http://cb.vu/unixtoolbox.xhtml)
-
-# Databases
 * [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
-
-# Networks
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-
-# Hacking and infosec
 * https://www.shodan.io/
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [Books for download](https://yadi.sk/d/Fkww0QKbuTdVF)
@@ -328,8 +315,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://www.hackertest.net/
 * https://github.com/RPISEC/Malware
 * https://github.com/RPISEC/MBE
-
-# Vulnerability databases
 * http://0day.today/
 * https://cwe.mitre.org/data/index.html
 * https://github.com/offensive-security/exploit-database
@@ -355,14 +340,11 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://seclists.org/
 * https://lists.debian.org/debian-security-announce/
 * https://www.first.org/cvss/calculator/3.0
-
-# Reverse engineering
 * https://www.bigendiansmalls.com/category/security/reverse-engineering/
 * https://beginners.re/RE4B-EN.pdf
 * https://tacnetsol.wistia.com/projects/9srmKf6e02
 * http://reversing.kr/
-
-# Web dev
+* http://logodust.com/?d
 * http://flexboxfroggy.com/
 * https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 * https://www.w3schools.com/browsers/browsers_display.asp
@@ -415,19 +397,13 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://yoksel.github.io/url-encoder/
 * http://jsonformatter.org/
 * http://geojson.io/#map=2/20.0/0.0
-
-# Open source
 * http://www.firsttimersonly.com/
 * http://up-for-grabs.net/#/
 * https://openhatch.org/
 * https://debgen.simplylinux.ch/
 * https://github.com/freeCodeCamp/how-to-contribute-to-open-source
-
-# Mathematics
 * http://cs.wheaton.edu/~tvandrun/dmfp/
 * http://web.stanford.edu/class/cs103/
-
-# Finding work
 * https://firebounty.com/
 * http://bugsheet.com/directory
 * https://www.openbugbounty.org/
@@ -447,8 +423,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://github.com/DyegoCosta/trabalhando-remoto
 * https://bugcrowd.com/
 * https://www.synack.com/
-
-# Useful links that cover too much ground
 * http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 * https://github.com/open-source-society
