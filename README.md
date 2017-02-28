@@ -86,6 +86,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
 # Hacking and infosec
+* https://www.shodan.io/
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [Books for download](https://yadi.sk/d/Fkww0QKbuTdVF)
 * [Introduction to software security](https://cybersecuritybase.github.io/)
@@ -185,8 +186,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * http://forensicswiki.org/wiki/Tools
 * http://toolcatalog.nist.gov/populated_taxonomy/index.php
 * http://www.dfir.training/index.php/tools
-
-### unchecked
 * https://github.com/future-architect/vuls
 * http://www.ipvoid.com/
 * http://www.blacklistalert.org/
