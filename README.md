@@ -411,6 +411,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://www.fiverr.com/
 * https://www.hackerone.com/
 * https://wearehirable.com/
+* [animations](https://greensock.com/)
 * https://hasjob.co/
 * https://www.launchcode.org/
 * [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
