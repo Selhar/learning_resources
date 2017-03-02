@@ -427,3 +427,4 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Cheat sheets](http://www.cheat-sheets.org/)
 * [Free computer science books](https://github.com/vhf/free-programming-books)
 * [Responsive design cheatsheet](http://www.codeply.com/responsive-design-cheatsheet.html)
+* [Responsive typography](http://www.webdesignerdepot.com/2012/10/a-simple-guide-to-responsive-typography/)
