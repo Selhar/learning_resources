@@ -430,3 +430,5 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Responsive typography](http://www.webdesignerdepot.com/2012/10/a-simple-guide-to-responsive-typography/)
 * [front end dev list](https://medium.com/@ravinot/the-ultimate-front-end-development-list-for-2015-5409727c28b4#.el7oroz96)
 * [font fallback](http://ffffallback.com/)
+* [Mobile testing](http://breakpointtester.com/)
+* [Mobile testing](http://responsive.victorcoulon.fr/)
