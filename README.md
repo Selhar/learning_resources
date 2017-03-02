@@ -426,3 +426,4 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * https://learn.saylor.org/course/index.php?categoryid=9
 * [Cheat sheets](http://www.cheat-sheets.org/)
 * [Free computer science books](https://github.com/vhf/free-programming-books)
+* [Responsive design cheatsheet](http://www.codeply.com/responsive-design-cheatsheet.html)
