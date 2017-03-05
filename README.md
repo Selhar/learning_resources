@@ -432,3 +432,4 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [font fallback](http://ffffallback.com/)
 * [Mobile testing](http://breakpointtester.com/)
 * [Mobile testing](http://responsive.victorcoulon.fr/)
+* [material design](https://material.io/)
