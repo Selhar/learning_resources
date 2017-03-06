@@ -98,9 +98,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [sirdarckcat](http://sirdarckcat.blogspot.com.br/)
 * [SpiderLabs](https://www.trustwave.com/Resources/SpiderLabs-Blog/)
 * [OSVDB](https://blog.osvdb.org/)
-* [krebs on security](http://krebsonsecurity.com/)
-* [Handler's diary](https://isc.sans.edu/diary/)
-* http://seclist.us/
+* [security list network](http://seclist.us/)
 * [insecure magazine](https://www.helpnetsecurity.com/insecuremag-archive/)
 * [packetstorm](https://packetstormsecurity.com/news/)
 * [dark reading](http://www.darkreading.com/)
@@ -123,48 +121,41 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [pentest cheatsheet 2](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 * [pentest cheatsheet 3](https://github.com/jshaw87/Cheatsheets)
 * [sqli cheatsheet](http://websec.ca/kb/sql_injection)
-* http://bgp.he.net/
-* https://www.rbls.org/
-* http://www.urlvoid.com/
-* http://urlquery.net/
-* https://www.virustotal.com/#url
-* https://www.google.com/transparencyreport/safebrowsing/diagnostic/
-* https://www.robtex.com/dns/
-* https://www.netcraft.com/
-* http://www.dnsstuff.com/
-* http://www.tcpiputils.com/
-* http://www.threatlog.com/
-* https://intodns.com/
-* https://sitecheck.sucuri.net/
-* https://www.whatsmydns.net/
-* http://www.trustedsource.org/
-* https://mxtoolbox.com/SuperTool.aspx#
-* http://www.isithacked.com/
-* https://www.threatminer.org/
-* https://dnsdumpster.com/
-* https://builtwith.com/
-* https://whois.domaintools.com/
-* https://www.expireddomains.net/backorder-expired-domains/
-* https://zeltser.com/lookup-malicious-websites/
-* https://github.com/rshipp/awesome-malware-analysis/#domain-analysis
-* http://cachedview.com/
-* http://www.cachedpages.com/
-* https://archive.fo/
+* [ip check](http://bgp.he.net/)
+* [ip check](https://www.rbls.org/)
+* [rep check](http://www.urlvoid.com/)
+* [malware check](http://urlquery.net/)
+* [malware check](https://www.virustotal.com/#url)
+* [malware check](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
+* [dns records](https://www.robtex.com/dns/)
+* [ip check](http://www.tcpiputils.com/)
+* [rep check](http://www.threatlog.com/)
+* [dns check](https://intodns.com/)
+* [malware check](https://sitecheck.sucuri.net/)
+* [DNS route lookup](https://www.whatsmydns.net/)
+* [check health of a website](http://www.isithacked.com/)
+* [threat miner](https://www.threatminer.org/)
+* [dns check](https://dnsdumpster.com/)
+* [find what a website is built with](https://builtwith.com/)
+* [whois online](https://whois.domaintools.com/)
+* [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
+* [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
+* [list of domain analysis resources](https://github.com/rshipp/awesome-malware-analysis/#domain-analysis)
+* [cached pages](http://cachedview.com/)
+* [cached pages 2](http://www.cachedpages.com/)
+* [cached pages 3](https://archive.fo/)
 * [CTF time](https://ctftime.org/)
-* http://map.norsecorp.com/#/helps
-* http://www.freeshells.info/
-* https://www.hurl.it/
-* https://github.com/Cugu/awesome-forensics
-* https://github.com/Laxa/HackingTools
-* [List just like my own. Pretty good so i didn't scrape it](https://github.com/zbetcheckin/Security_list)
+* [interactive view of attacks](http://map.norsecorp.com/#/helps)
+* [free shells](http://www.freeshells.info/)
+* [make http requests](https://www.hurl.it/)
+* [forensic resources](https://github.com/Cugu/awesome-forensics)
+* [hacking tools](https://github.com/Laxa/HackingTools)
+* [List similar to this one](https://github.com/zbetcheckin/Security_list)
 * [Rootkits](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Draft/Rootkits.md)
-* http://www.dfrws.org/dfrws-forensic-challenge-2016
-* https://en.wikipedia.org/wiki/List_of_file_signatures
-* http://www.filesignatures.net/index.php?page=all
-* http://www.garykessler.net/library/file_sigs.html
-* https://forensiccontrol.com/resources/free-software/
-* http://www.forensickb.com/2008/01/forensic-practical.html
-* http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+* [file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+* [file signatures 2](http://www.filesignatures.net/index.php?page=all)
+* [file signatures 3](http://www.garykessler.net/library/file_sigs.html)
+* [forensic challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 * http://www.cfreds.nist.gov/
 * http://forensicswiki.org/wiki/Tools
 * http://toolcatalog.nist.gov/populated_taxonomy/index.php
