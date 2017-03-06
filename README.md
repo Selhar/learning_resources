@@ -433,3 +433,4 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Mobile testing](http://breakpointtester.com/)
 * [Mobile testing](http://responsive.victorcoulon.fr/)
 * [material design](https://material.io/)
+* [Understanding redux and flux](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
