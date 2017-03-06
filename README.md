@@ -424,3 +424,4 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Fullstack redux tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [writing a basic react + redux app](http://davidandsuzi.com/writing-a-basic-app-in-redux/)
 * [Redux course by it's creator](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
+* [npm guide](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
