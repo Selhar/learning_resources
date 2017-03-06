@@ -140,7 +140,6 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [whois online](https://whois.domaintools.com/)
 * [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
 * [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
-* [list of domain analysis resources](https://github.com/rshipp/awesome-malware-analysis/#domain-analysis)
 * [cached pages](http://cachedview.com/)
 * [cached pages 2](http://www.cachedpages.com/)
 * [cached pages 3](https://archive.fo/)
@@ -156,53 +155,49 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [file signatures 2](http://www.filesignatures.net/index.php?page=all)
 * [file signatures 3](http://www.garykessler.net/library/file_sigs.html)
 * [forensic challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
-* http://www.cfreds.nist.gov/
-* http://forensicswiki.org/wiki/Tools
-* http://toolcatalog.nist.gov/populated_taxonomy/index.php
-* http://www.dfir.training/index.php/tools
-* https://github.com/future-architect/vuls
-* http://www.ipvoid.com/
-* http://www.blacklistalert.org/
-* http://www.nothink.org/honeypots.php
-* http://whatismyipaddress.com/blacklist-check/
-* https://www.host-tracker.com/
-* http://www.leakedin.com/
-* https://mrwhite.biz/
-* http://www.insecam.org/
-* https://mrwhite.biz/
-* https://github.com/alex/what-happens-when
-* https://github.com/RPISEC/Malware
-* http://www.malware-traffic-analysis.net/training-exercises.html
-* https://fumalwareanalysis.blogspot.com.br/p/malware-analysis-tutorials-reverse.html
-* https://practicalmalwareanalysis.com/labs/
-* https://github.com/zardus/ctf-tools
-* https://github.com/Nakiami/mellivora
-* https://github.com/balidani/tinyctf-platform
-* https://highon.coffee/blog/lfi-cheat-sheet/
-* http://packetlife.net/library/cheat-sheets/
-* https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
-* https://github.com/bt3gl/My-Gray-Hacker-Resources
-* https://github.com/nixawk/pentest-wiki
-* https://github.com/meirwah/awesome-incident-response/
-* https://github.com/hslatman/awesome-threat-intelligence
-* https://github.com/sroberts/awesome-iocs
-* https://github.com/gradiuscypher/infosec_getting_started
-* https://github.com/xairy/linux-kernel-exploitation
-* https://github.com/paragonie/awesome-appsec
-* https://github.com/rshipp/awesome-malware-analysis/
-* https://github.com/djadmin/awesome-bug-bounty
-* https://github.com/apsdehal/awesome-ctf
-* https://github.com/joe-shenouda/awesome-cyber-skills
-* https://github.com/FabioBaroni/awesome-exploit-development
-* https://github.com/secfigo/Awesome-Fuzzing
-* https://github.com/carpedm20/awesome-hacking
-* https://github.com/paralax/awesome-honeypots
-* https://github.com/onlurking/awesome-infosec
-* https://github.com/enaqx/awesome-pentest
-* https://github.com/infoslack/awesome-web-hacking
-* https://github.com/enddo/awesome-windows-exploitation
-* https://github.com/0x90/wifi-arsenal
-* https://github.com/danielmiessler/SecLists
+* [forensic tools](http://www.cfreds.nist.gov/)
+* [forensic tools 2](http://forensicswiki.org/wiki/Tools)
+* [forensic tools 3](http://toolcatalog.nist.gov/populated_taxonomy/index.php)
+* [general tools](http://www.dfir.training/index.php/tools)
+* [vulnerability scanner](https://github.com/future-architect/vuls)
+* [lots of ip checks](http://www.ipvoid.com/)
+* [ip check](http://www.blacklistalert.org/)
+* [honeypots check](http://www.nothink.org/honeypots.php)
+* [check for antispam](http://whatismyipaddress.com/blacklist-check/)
+* [get notified when a host is down](https://www.host-tracker.com/)
+* [dump shop](https://mrwhite.biz/)
+* [watch security cameras](http://www.insecam.org/)
+* [what happens when you type in google and press enter](https://github.com/alex/what-happens-when)
+* [malware development course](https://github.com/RPISEC/Malware)
+* [traffic analysis exercises](http://www.malware-traffic-analysis.net/training-exercises.html)
+* [course: malware analysis: a reverse engineering approach](https://fumalwareanalysis.blogspot.com.br/p/malware-analysis-tutorials-reverse.html)
+* [practical malware analysis](https://practicalmalwareanalysis.com/labs/)
+* [CTF tools](https://github.com/zardus/ctf-tools)
+* [LFI cheatsheet](https://highon.coffee/blog/lfi-cheat-sheet/)
+* [network cheatsheets](http://packetlife.net/library/cheat-sheets/)
+* [Pentest cheatsheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)
+* [Grey hat list](https://github.com/bt3gl/My-Gray-Hacker-Resources)
+* [pentest resource list](https://github.com/nixawk/pentest-wiki)
+* [incident response list](https://github.com/meirwah/awesome-incident-response/)
+* [threat intelligence list](https://github.com/hslatman/awesome-threat-intelligence)
+* [ioc list](https://github.com/sroberts/awesome-iocs)
+* [getting started with infosec](https://github.com/gradiuscypher/infosec_getting_started)
+* [linux kernel exploitation resources](https://github.com/xairy/linux-kernel-exploitation)
+* [appsec list](https://github.com/paragonie/awesome-appsec)
+* [malware analysis list](https://github.com/rshipp/awesome-malware-analysis/)
+* [bug bounty list](https://github.com/djadmin/awesome-bug-bounty)
+* [ctf list](https://github.com/apsdehal/awesome-ctf)
+* [pentesting resources](https://github.com/joe-shenouda/awesome-cyber-skills)
+* [exploit development list](https://github.com/FabioBaroni/awesome-exploit-development)
+* [fuzzing list](https://github.com/secfigo/Awesome-Fuzzing)
+* [hacking list](https://github.com/carpedm20/awesome-hacking)
+* [honeypots list](https://github.com/paralax/awesome-honeypots)
+* [infosec resources](https://github.com/onlurking/awesome-infosec)
+* [pentest](https://github.com/enaqx/awesome-pentest)
+* [pentest](https://github.com/infoslack/awesome-web-hacking)
+* [windows exploit](https://github.com/enddo/awesome-windows-exploitation)
+* [wifi tools](https://github.com/0x90/wifi-arsenal)
+* [sec list](https://github.com/danielmiessler/SecLists)
 * https://www.hackthissite.org/
 * https://io.netgarage.org/
 * http://hack.darkn3ss.com/
