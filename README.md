@@ -426,3 +426,4 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Redux course by it's creator](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
 * [npm guide](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 * [javascript assert library](https://github.com/mjackson/expect)
+* [Accessibility test](https://achecker.ca/checker/index.php)
