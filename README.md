@@ -427,3 +427,8 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [npm guide](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 * [javascript assert library](https://github.com/mjackson/expect)
 * [Accessibility test](https://achecker.ca/checker/index.php)
+* [best google fonts](https://www.typewolf.com/google-fonts)
+* [web design book](https://ebooks.webflow.com/ebook/web-design-101)
+* [color palette generator](http://www.colourco.de/)
+* [palette inspiration](http://www.colourlovers.com/)
+* [palette inspiration](https://www.design-seeds.com/)
