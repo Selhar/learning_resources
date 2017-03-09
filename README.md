@@ -27,8 +27,8 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [C/C++ to ASM](https://gcc.godbolt.org/)
 * [regex validation](http://regexr.com/)
 * [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
-* http://codepad.org/
-* http://www.mockaroo.com/
+* [online interpreter](http://codepad.org/)
+* [Mock data](http://www.mockaroo.com/)
 * [Group of courses about the practical application of algorithms](https://www.coursera.org/specializations/algorithms)
 * [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
 * [Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
@@ -69,24 +69,24 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-* https://www.shodan.io/
+* [iot search engine](https://www.shodan.io/)
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [Books for download](https://yadi.sk/d/Fkww0QKbuTdVF)
 * [Introduction to software security](https://cybersecuritybase.github.io/)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
 * [Reading list](http://dfir.org/?q=node/8)
-* http://explainshell.com/
-* https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
-* https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+* [shell explanations](http://explainshell.com/)
+* [Linux post-op cheatsheet](https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List)
+* [linux blue team list](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
 * [CTF writeups](https://github.com/ctfs)
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
 * [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
-* https://www.ashleymadison.com/hack/
-* http://www.programdevelop.com/5408113/
-* http://www.programdevelop.com/5409574/
-* http://www.programdevelop.com/5408212/
+* [ashley madison hack writeup](https://www.ashleymadison.com/hack/)
+* [rootkits article p.1](http://www.programdevelop.com/5408113/)
+* [rootkits article p.2](http://www.programdevelop.com/5409574/)
+* [rootkits article p.3](http://www.programdevelop.com/5408212/)
 * [pentest standard](http://www.pentest-standard.org/index.php/Main_Page)
 * [w3Challs](https://w3challs.com/)
 * [Halls of valhalla](http://halls-of-valhalla.org/beta/challenges)
@@ -198,121 +198,106 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [windows exploit](https://github.com/enddo/awesome-windows-exploitation)
 * [wifi tools](https://github.com/0x90/wifi-arsenal)
 * [sec list](https://github.com/danielmiessler/SecLists)
-* https://www.hackthissite.org/
-* https://io.netgarage.org/
-* http://hack.darkn3ss.com/
-* https://ctf365.com/
-* http://abctf.xyz/
-* https://www.vulnhub.com/
-* https://www.cybrary.it/0p3n/beginners-guide-list-of-tutoriallearning-resources/
-* http://www.securitytube.net/
-* https://trailofbits.github.io/ctf/
-* https://www.cybrary.it/
-* https://pentesterlab.com/
-* http://howto.hackallthethings.com/
-* http://captf.com/practice-ctf/
-* http://opensecuritytraining.info/Training.html
-* http://www.lockpickguide.com/
-* https://www.youtube.com/user/bosnianbill/videos
-* http://en.getairmail.com/
-* http://www.dnsbl.info/dnsbl-database-check.php
-* https://github.com/pentestgeek/phishing-frenzy
-* http://spammimic.com/encode.cgi
-* https://github.com/laramies/theHarvester
-* https://github.com/stamparm/maltrail
-* https://www.elastic.co/products/beats/packetbeat
-* https://github.com/stamparm/tsusen
-* http://lcamtuf.coredump.cx/p0f3/
-* http://malc0de.com/database/
-* http://malwaredb.malekal.com/
-* http://cybercrime-tracker.net/
-* http://malshare.com/
-* https://totalhash.cymru.com/
-* http://vxvault.net/ViriList.php
-* https://www.botnets.fr/wiki/Main_Page
-* http://www.exposedbotnets.com/
-* http://cybertracker.malwarehunterteam.com/
-* https://zeustracker.abuse.ch/
-* https://github.com/ytisf/theZoo/tree/master/malwares/Binaries
-* https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu
-* https://ransomwaretracker.abuse.ch/tracker/
-* https://contagiodump.blogspot.com.br/
-* https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
-* https://ransomwaretracker.abuse.ch/tracker/
-* https://virusshare.com/
-* http://www.virusign.com/
-* https://www.malwaredomainlist.com/
-* http://www.malware.pl/
-* http://minotauranalysis.com/
-* https://www.scumware.org/
-* https://malware.lu/
-* https://archive.org/details/malwaremuseum
-* http://www.offensivecomputing.net/
-* http://www.malwaredomains.com/
-* https://github.com/krmaxwell/maltrieve
-* https://github.com/0day1day/mwcrawler
-* http://thezoo.morirt.com/
-* https://stixproject.github.io/
-* https://ssd.eff.org/en
-* https://greysec.net/showthread.php?tid=560
-* https://greysec.net/showthread.php?tid=559
-* https://greysec.net/showthread.php?tid=177
-* http://pastebin.com/3Qtw6JQw
-* https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137
-* https://www.soldierx.com/tutorials/Buffer-Overflow-Exploitation-Beginners
-* https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
-* https://forum.bugcrowd.com/t/researcher-resources-thick-client-focused/1772
-* https://forum.bugcrowd.com/t/researcher-resources-mobile-focused/1376 
-* https://forum.bugcrowd.com/t/researcher-resources-tutorials/370
-* https://github.com/hiddenillusion/ipinfo
-* http://bugmenot.com/
-* https://www.virustotal.com/
-* http://seclists.org/
-* http://roothack.org/
-* http://canyouhack.us/
-* http://routerpwn.com/
-* http://practicalcryptography.com/
-* https://in-addr.nl/security-links.php
-* https://www.hackers-arise.com/
-* https://legalhackers.com/
-* http://pastebin.com/raw/cRYvK4jb
-* https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-development
-* http://pastebin.com/raw/0SNSvyjJ
-* http://pastebin.com/pm1WLXQj
-* https://www.enigmagroup.org/
-* http://www.itsecgames.com/
-* https://xss-game.appspot.com/
-* https://hack.me/
-* http://overthewire.org/wargames/
-* https://exploit-exercises.com/
-* http://smashthestack.org/
-* http://www-inst.eecs.berkeley.edu/~cs161/sp15/
-* http://www.icir.org/vern/cs261n-Sp14/
-* http://security.cs.rpi.edu/courses/binexp-spring2015/
-* https://www.soldierx.com/tutorials/Buffer-Overflow-Exploitation-Beginners
-* https://handbookproject.github.io/
-* http://3564020356.org/deserve.htm
-* https://0x0539.net/
-* https://holidayhackchallenge.com/2016/
-* http://www.hackertest.net/
-* https://github.com/RPISEC/Malware
-* https://github.com/RPISEC/MBE
-* http://0day.today/
-* https://cwe.mitre.org/data/index.html
-* https://github.com/offensive-security/exploit-database
-* https://www.rapid7.com/db/
-* https://www.exploit-db.com/google-hacking-database/
-* https://www.vigilante.pw/
+* [Hack this site](https://www.hackthissite.org/)
+* [Wargame, netgarage](https://io.netgarage.org/)
+* [hack_me](http://hack.darkn3ss.com/)
+* [ctf practice](http://abctf.xyz/)
+* [vulnerable vm's](https://www.vulnhub.com/)
+* [security tube](http://www.securitytube.net/)
+* [ctf guide](https://trailofbits.github.io/ctf/)
+* [Cybrary](https://www.cybrary.it/)
+* [pentester lab](https://pentesterlab.com/)
+* [Pentest course](http://howto.hackallthethings.com/)
+* [list of practice ctfs](http://captf.com/practice-ctf/)
+* [Locally hosted classes](http://opensecuritytraining.info/Training.html)
+* [lockpick guides](http://www.lockpickguide.com/)
+* [lockpick video guides](https://www.youtube.com/user/bosnianbill/videos)
+* [temporary email](http://en.getairmail.com/)
+* [check spam](http://www.dnsbl.info/dnsbl-database-check.php)
+* [encode message as spam](http://spammimic.com/encode.cgi)
+* [The harvester, scan for subdomains, emails etc](https://github.com/laramies/theHarvester)
+* [check bunch of blacklists framework](https://github.com/stamparm/maltrail)
+* [network sensor](https://github.com/stamparm/tsusen)
+* [passive IP scanner](http://lcamtuf.coredump.cx/p0f3/)
+* [blacklist](http://malc0de.com/database/)
+* [malware list](http://malwaredb.malekal.com/)
+* [blacklist](http://cybercrime-tracker.net/)
+* [malware repo](http://malshare.com/)
+* [malware sample analysis](https://totalhash.cymru.com/)
+* [malware list](http://vxvault.net/ViriList.php)
+* [botnet wiki](https://www.botnets.fr/wiki/Main_Page)
+* [botnets](http://www.exposedbotnets.com/)
+* [bunch of malware binaries](https://github.com/ytisf/theZoo/tree/master/malwares/Binaries)
+* [malware analysis search](https://cse.google.com/cse/home?cx=011750002002865445766%3Apc60zx1rliu)
+* [malware dump](https://contagiodump.blogspot.com.br/)
+* [ransomware tracker](https://ransomwaretracker.abuse.ch/tracker/)
+* [virushare](https://virusshare.com/)
+* [malware domain list](https://www.malwaredomainlist.com/)
+* [malware](http://www.malware.pl/)
+* [malware](http://minotauranalysis.com/)
+* [malware](https://www.scumware.org/)
+* [malware](https://malware.lu/)
+* [malware museum](https://archive.org/details/malwaremuseum)
+* [malware](http://www.offensivecomputing.net/)
+* [malware](http://www.malwaredomains.com/)
+* [malware crawler](https://github.com/krmaxwell/maltrieve)
+* [malware](http://thezoo.morirt.com/)
+* [some bullshit ass guides, didn't look too deep, polished tho](https://ssd.eff.org/en)
+* [guides, can't label, site in maintenance now](https://greysec.net/showthread.php?tid=560)
+* [guides, can't label, site in maintenance now](https://greysec.net/showthread.php?tid=559)
+* [guides, can't label, site in maintenance now](https://greysec.net/showthread.php?tid=177)
+* [generic exploitation guide](http://pastebin.com/3Qtw6JQw)
+* [list of bounty writeups](https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137)
+* [buffer overflow for beginners](https://www.soldierx.com/tutorials/Buffer-Overflow-Exploitation-Beginners)
+* [How to get into bounties](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
+* [thick client resources](https://forum.bugcrowd.com/t/researcher-resources-thick-client-focused/1772)
+* [mobile resources](ttps://forum.bugcrowd.com/t/researcher-resources-mobile-focused/1376)
+* [tutorials](https://forum.bugcrowd.com/t/researcher-resources-tutorials/370)
+* [get info about an ip](https://github.com/hiddenillusion/ipinfo)
+* [shared logins](http://bugmenot.com/)
+* [virus total, scanner](https://www.virustotal.com/)
+* [seclists](ttp://seclists.org/)
+* [roothack](http://roothack.org/)
+* [canyouhackusbitchboy](http://canyouhack.us/)
+* [router vulns](http://routerpwn.com/)
+* [crypto techniques and guides](http://practicalcryptography.com/)
+* [pentest resources](https://in-addr.nl/security-links.php)
+* [hacker training camp](https://www.hackers-arise.com/)
+* [writeup](http://pastebin.com/raw/cRYvK4jb)
+* [resources to learn exploit dev](https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-development)
+* [writeup](http://pastebin.com/raw/0SNSvyjJ)
+* [writeup](http://pastebin.com/pm1WLXQj)
+* [enigma group](https://www.enigmagroup.org/)
+* [sec games](http://www.itsecgames.com/)
+* [xss game](https://xss-game.appspot.com/)
+* [hackme](https://hack.me/)
+* [wargames](http://overthewire.org/wargames/)
+* [wargames](https://exploit-exercises.com/)
+* [smash the stack](http://smashthestack.org/)
+* [Computer security course](http://www-inst.eecs.berkeley.edu/~cs161/sp15/)
+* [network security course](http://www.icir.org/vern/cs261n-Sp14/)
+* [modern binary exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+* [streamed courses](https://handbookproject.github.io/)
+* [challenges](http://3564020356.org/deserve.htm)
+* [not sure yet, probably challenge](https://0x0539.net/)
+* [challenge](https://holidayhackchallenge.com/2016/)
+* [hack test](http://www.hackertest.net/)
+* [malware analysis course](https://github.com/RPISEC/Malware)
+* [modern binary exploitation course](https://github.com/RPISEC/MBE)
+* [vuln db](http://0day.today/)
+* [vuln db](https://cwe.mitre.org/data/index.html)
+* [vuln db](https://github.com/offensive-security/exploit-database)
+* [vuln db](https://www.rapid7.com/db/)
+* [vuln db](https://www.exploit-db.com/google-hacking-database/)
+* [vuln db](https://www.vigilante.pw/)
 * [National vulnerability db](https://nvd.nist.gov/)
 * [CVE details](http://www.cvedetails.com/)
 * [CVE mitre](http://cve.mitre.org/)
 * [cx security](https://cxsecurity.com/)
 * [secunia research](https://secuniaresearch.flexerasoftware.com/community/research/)
-* http://seclists.org/fulldisclosure/
-* https://www.seebug.org/
-* http://seclists.org/fulldisclosure/
-* https://www.vulnerability-lab.com/
-* https://vuldb.com/?archive.2016
+* [vuln db](https://www.seebug.org/)
+* [VULN DB FFS](https://www.vulnerability-lab.com/)
+* [literally named "vuln db"](https://vuldb.com/?archive.2016)
 * https://vulners.com/search?query=order:published
 * https://www.rapid7.com/db/modules/
 * http://www.exploitalert.com/
@@ -432,3 +417,7 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [color palette generator](http://www.colourco.de/)
 * [palette inspiration](http://www.colourlovers.com/)
 * [palette inspiration](https://www.design-seeds.com/)
+* [font picker](http://fontpair.co/)
+* [font picker](https://femmebot.github.io/google-type/)
+* [browser stats](https://www.w3schools.com/browsers/default.asp)
+* [30 days of js](https://javascript30.com/)
