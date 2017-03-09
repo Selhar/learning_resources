@@ -443,3 +443,8 @@ TODO: Review indexed files
 * [browser stats](https://www.w3schools.com/browsers/default.asp)
 * [Mock up data](http://www.mockaroo.com/)
 * [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
+* [intro to react + redux](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
+* [Codementor tutorials](https://www.codementor.io/tutorial)
+* [Setting up a react environment](https://www.kirupa.com/react/setting_up_react_environment.htm)
+* [When to use webpack and why](http://blog.andrewray.me/webpack-when-to-use-and-why/)
+* [setup a react environment](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel)
