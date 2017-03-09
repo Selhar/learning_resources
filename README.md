@@ -298,103 +298,93 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [vuln db](https://www.seebug.org/)
 * [VULN DB FFS](https://www.vulnerability-lab.com/)
 * [literally named "vuln db"](https://vuldb.com/?archive.2016)
-* https://vulners.com/search?query=order:published
-* https://www.rapid7.com/db/modules/
-* http://www.exploitalert.com/
-* http://www.securityfocus.com/vulnerabilities
-* https://cve.mitre.org/compatible/country.html
-* https://nmap.org/mailman/listinfo/fulldisclosure
-* http://seclists.org/
-* https://lists.debian.org/debian-security-announce/
-* https://www.first.org/cvss/calculator/3.0
-* https://www.bigendiansmalls.com/category/security/reverse-engineering/
-* https://beginners.re/RE4B-EN.pdf
-* https://tacnetsol.wistia.com/projects/9srmKf6e02
-* http://reversing.kr/
-* http://logodust.com/?d
-* http://flexboxfroggy.com/
-* https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
-* https://www.w3schools.com/browsers/browsers_display.asp
-* https://github.com/postcss/autoprefixer
-* http://marksheet.io/
-* http://sixrevisions.com/resources/free-icon-fonts/
-* http://zurb.com/playground/foundation-icons
-* http://tenbytwenty.com/?xxxx_posts=sosa
-* http://fontawesome.io/
-* http://icons.marekventur.com/
-* http://fontstruct.com/fontstructions/show/352362/ikoo
-* http://www.fontfabric.com/social-media-icons-pack/
-* https://medialoot.com/item/signify-free-icon-font/
+* [vuln db](https://vulners.com/search?query=order:published)
+* [vuln db](https://www.rapid7.com/db/modules/)
+* [vuln db](http://www.exploitalert.com/)
+* [vuln db](http://www.securityfocus.com/vulnerabilities)
+* [vuln db](https://cve.mitre.org/compatible/country.html)
+* [vuln db](https://nmap.org/mailman/listinfo/fulldisclosure)
+* [reverse engie guides](https://www.bigendiansmalls.com/category/security/reverse-engineering/)
+* [reverse engie book](https://beginners.re/RE4B-EN.pdf)
+* [reverse engie classes](https://tacnetsol.wistia.com/projects/9srmKf6e02)
+* [reverse engie challenges](http://reversing.kr/)
+* [free logos](http://logodust.com/?d)
+* [flexbox tutorial](http://flexboxfroggy.com/)
+* [media queries for standard devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+* [html/css tutorial](http://marksheet.io/)
+* [icon fonts](http://sixrevisions.com/resources/free-icon-fonts/)
+* [icon fonts](http://zurb.com/playground/foundation-icons)
+* [icon fonts](http://tenbytwenty.com/?xxxx_posts=sosa)
+* [icon fonts](http://fontawesome.io/)
+* [icon fonts](http://icons.marekventur.com/)
+* [icon fonts](http://fontstruct.com/fontstructions/show/352362/ikoo)
+* [icon fonts](http://www.fontfabric.com/social-media-icons-pack/)
+* [icon fonts](https://medialoot.com/item/signify-free-icon-font/)
 * [The noun project](https://thenounproject.com/)
-* https://daneden.github.io/animate.css/
-* http://youmightnotneedjquery.com/
+* [jQuery alternatives in raw JS](http://youmightnotneedjquery.com/)
 * [basics of color theory](https://www.colormatters.com/color-and-design/basic-color-theory)
 * [color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
 * [understanding css box sizing](https://zellwk.com/blog/understanding-css-box-sizing/)
 * [HTML and CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [Sass tutorial](http://www.sassshop.com/)
-* https://www.wirify.com/
-* https://www.materialpalette.com/
-* http://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before
-* http://validator.w3.org/
-* https://search.google.com/search-console/mobile-friendly
-* https://css-tricks.com/centering-css-complete-guide/
-* https://tinypng.com/
-* https://www.freecodecamp.com/
-* https://css-tricks.com/pseudo-element-roundup/
-* https://www.kirupa.com/react/introducing_react.htm
-* http://exploringjs.com/es6/
-* https://thenounproject.com/
-* http://www.cupcakeipsum.com/
-* https://www.toptal.com/designers/subtlepatterns/
-* https://surge.sh/
-* https://fonts.google.com/
-* http://www.theodinproject.com/
-* https://github.com/markerikson/react-redux-links
-* http://gratisography.com/
-* https://unsplash.com/
-* http://www.metmuseum.org/art/collection/#!?perPage=20&showOnly=openaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0
-* http://mydevice.io/devices/
-* https://github.com/aFarkas/lazysizes
-* http://cssreference.io/
-* http://htmlreference.io/
-* https://developer.mozilla.org/en-US/
-* https://gtmetrix.com/
-* http://petercollingridge.appspot.com/svg-optimiser
-* http://yoksel.github.io/url-encoder/
-* http://jsonformatter.org/
-* http://geojson.io/#map=2/20.0/0.0
-* http://www.firsttimersonly.com/
-* http://up-for-grabs.net/#/
-* https://openhatch.org/
-* https://debgen.simplylinux.ch/
-* https://github.com/freeCodeCamp/how-to-contribute-to-open-source
-* http://cs.wheaton.edu/~tvandrun/dmfp/
-* http://web.stanford.edu/class/cs103/
-* https://firebounty.com/
-* http://bugsheet.com/directory
-* https://www.openbugbounty.org/
-* https://www.zerodium.com/
-* [Resumé tips](https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/)
-* https://www.interviewbit.com/
-* https://weworkremotely.com/
-* http://stackoverflow.com/jobs
-* https://www.fiverr.com/
-* https://www.hackerone.com/
-* https://wearehirable.com/
+* [wirify](https://www.wirify.com/)
+* [material design palette](https://www.materialpalette.com/)
+* [technical aspect of webdev](http://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+* [markup validation](http://validator.w3.org/)
+* [check for mobile friendliness](https://search.google.com/search-console/mobile-friendly)
+* [centering in css](https://css-tricks.com/centering-css-complete-guide/)
+* [tiny png](https://tinypng.com/)
+* [freecodecamp](https://www.freecodecamp.com/)
+* [pseudo elements](https://css-tricks.com/pseudo-element-roundup/)
+* [react course](https://www.kirupa.com/react/introducing_react.htm)
+* [ES6 featuers](http://exploringjs.com/es6/)
+* [cupcake ipsum](http://www.cupcakeipsum.com/)
+* [background patterns](https://www.toptal.com/designers/subtlepatterns/)
+* [free host](https://surge.sh/)
+* [google fonts](https://fonts.google.com/)
+* [freecodecamp but ruby](http://www.theodinproject.com/)
+* [react-redux list](https://github.com/markerikson/react-redux-links)
+* [free high res pics](http://gratisography.com/)
+* [free high res pics](https://unsplash.com/)
+* [free high res pics](http://www.metmuseum.org/art/collection/#!?perPage=20&showOnly=openaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0)
+* [popular devices ratios](http://mydevice.io/devices/)
+* [lazy image loader](https://github.com/aFarkas/lazysizes)
+* [CSS visual reference](http://cssreference.io/)
+* [HTML visual reference](http://htmlreference.io/)
+* [mozilla news](https://developer.mozilla.org/en-US/)
+* [analyse site speed](https://gtmetrix.com/)
+* [svg optimizer](http://petercollingridge.appspot.com/svg-optimiser)
+* [URL encoder for svg](http://yoksel.github.io/url-encoder/)
+* [JSON formatter](http://jsonformatter.org/)
+* [beginner friendly open source projects](http://www.firsttimersonly.com/)
+* [beginner friendly open source projects](http://up-for-grabs.net/#/)
+* [beginner friendly open source projects](https://openhatch.org/)
+* [debian repos generator](https://debgen.simplylinux.ch/)
+* [how to contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+* [discrete mathematics and functional programming](http://cs.wheaton.edu/~tvandrun/dmfp/)
+* [mathematical foundations of computing](http://web.stanford.edu/class/cs103/)
+* [bug bounties list](https://firebounty.com/)
+* [bug bounties list](http://bugsheet.com/directory)
+* [bug bounties list](https://www.openbugbounty.org/)
+* [bug bounties](https://www.zerodium.com/)
+* [resume tips](https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/)
+* [practice coding interview](https://www.interviewbit.com/)
+* [job board](https://weworkremotely.com/)
+* [job board](http://stackoverflow.com/jobs)
+* [freelancing](https://www.fiverr.com/)
+* [bug bounties](https://www.hackerone.com/)
+* [freelancing](https://wearehirable.com/)
 * [animations](https://greensock.com/)
-* https://hasjob.co/
-* https://www.launchcode.org/
+* [job board](https://hasjob.co/)
 * [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
-* https://jobs.github.com/positions?description=&location=remote
-* https://github.com/yanirs/established-remote
-* https://github.com/DyegoCosta/trabalhando-remoto
-* https://bugcrowd.com/
-* https://www.synack.com/
-* http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
-* https://github.com/open-source-society
-* https://learn.saylor.org/course/index.php?categoryid=9
+* [github job board](https://jobs.github.com/positions?description=&location=remote)
+* [remote companies list](https://github.com/yanirs/established-remote)
+* [trabalho remoto tutorial](https://github.com/DyegoCosta/trabalhando-remoto)
+* [bug bounties](https://bugcrowd.com/)
+* [bachelors level curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+* [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+* [Open source society](https://github.com/open-source-society)
+* [online courses](https://learn.saylor.org/course/index.php?categoryid=9)
 * [Cheat sheets](http://www.cheat-sheets.org/)
 * [Free computer science books](https://github.com/vhf/free-programming-books)
 * [Responsive design cheatsheet](http://www.codeply.com/responsive-design-cheatsheet.html)
