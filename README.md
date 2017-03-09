@@ -1,75 +1,106 @@
 The idea is to have a curated list of learning resources. Currently sorting through mud, should take a while.
-* [Intro to x86 ASM programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
-* [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-* [Rust introduction book](http://rust-lang.github.io/book/ch01-00-introduction.html)
+TODO: Review indexed files
+
+#Programming
+* [x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+* [x86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [Rust book](https://doc.rust-lang.org/book/)
 * [Regex](https://regexone.com/)
 * [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
-* [Introduction to a bunch of languages 2](https://www.sololearn.com/)
-* [Introduction to a bunch of languages 3](https://www.codesdope.com/)
-* [Introduction to a bunch of languages 4](https://www.learn-cpp.org/)
-* [Introduction to a bunch of languages 5](http://codeschool.org/)
-* [Rosetta stone stone for code](http://rosettacode.org/wiki/Rosetta_Code)
-* [Introduction to python and simple automation](https://automatetheboringstuff.com/)
-* [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
+* [solo learn](https://www.sololearn.com/)
+* [codesdope](https://www.codesdope.com/)
+* [learn c++](https://www.learn-cpp.org/)
+* [code school](http://codeschool.org/)
+* [Automate the boring stuff](https://automatetheboringstuff.com/)
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
 * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
+* [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
+
+###Exercises and contests
+* [Codingame](https://www.codingame.com/home)
+* [30 days of js](https://javascript30.com/)
+* [code eval](https://www.codeeval.com/)
+* [topcoder](https://www.topcoder.com/getting-started/)
+* [codechef](https://www.codechef.com/)
+* [hackerrank](https://www.hackerrank.com/)
+* [hacker earth](https://www.hackerearth.com/)
+* [code fights](https://codefights.com/)
+* [codehunt](https://www.codehunt.com/)
+* [Skullcode](http://skullcode.com/)
+* [project euler](https://projecteuler.net/)
+* [python challenge](http://www.pythonchallenge.com/)
+* [codewards](https://www.codewars.com/)
+* [Corewar](http://corewar.co.uk/)
+
+##Misc and articles
+* [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
 * [C language FAQ, good explanations](http://c-faq.com/)
+* [Computer science book reviews](https://accu.org/index.php/book_reviews_redirect)
+* [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
+
+###Blogs and news 
+* [Nayuki](https://www.nayuki.io/)
+
+###Compilers
 * [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+
+###Software design and architecture
 * [Software architecture and design](https://br.udacity.com/course/software-architecture-design--ud821/)
-* [SICP in python](http://cs61a.org/)
+* [CS61A (sicp in python)](http://cs61a.org/)
 * [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 * [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
-* [Software Engineering I](http://philipmjohnson.org/ics314f13/)
-* [Firebase, free cloud DB](https://firebase.google.com/)
-* [Mlab, mongodb cloud DB, free](https://mlab.com/)
-* [heroku, deploy stuff](https://dashboard.heroku.com/)
-* [C/C++ to ASM](https://gcc.godbolt.org/)
-* [regex validation](http://regexr.com/)
-* [CS book reviews](https://accu.org/index.php/book_reviews_redirect)
-* [online interpreter](http://codepad.org/)
-* [Mock data](http://www.mockaroo.com/)
-* [Group of courses about the practical application of algorithms](https://www.coursera.org/specializations/algorithms)
+* [Software engineering](http://philipmjohnson.org/ics314f13/)
+
+###Tools and services
+* [Firebase](https://firebase.google.com/)
+* [mLab](https://mlab.com/)
+* [Heroku](https://dashboard.heroku.com/)
+* [gcc godbolt](https://gcc.godbolt.org/)
+* [Regexr](http://regexr.com/)
+* [Codepad](http://codepad.org/)
+
+###Algorithms
+* [Stanford Algorithms courses](https://www.coursera.org/specializations/algorithms)
 * [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
-* [Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+* [MIT Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
-* [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
-* [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
+
+###Databases
+* [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+* [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
+
+###OS dev and emulators
 * [Emulators 101](http://emulator101.com/)
 * [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
 * [Operating Systems and Systems Programming - Video classes](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
 * [Hack the kernel](https://www.ops-class.org/)
-* [OS dev book](http://littleosbook.github.io/)
-* [OS dev book 2](http://www.brokenthorn.com/Resources/)
-* [OS dev book 3](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [OS dev book 4](http://www.projectoberon.com/)
+* [Little OS book](http://littleosbook.github.io/)
+* [OS development book](http://www.brokenthorn.com/Resources/)
+* [OS development: three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [Project oberon](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
-* [Coding contest](https://www.codeeval.com/)
-* [Coding contest 2](https://www.topcoder.com/getting-started/)
-* [Coding contest 3](https://www.codechef.com/)
-* [Coding contest 4](https://www.hackerrank.com/)
-* [Coding contest 5](https://www.hackerearth.com/)
-* [Compete 1v1](https://codefights.com/)
-* [I think this is just a batch of exercises, not sure, polished tho](https://www.codehunt.com/)
-* [Skullcode, one day i'll do this motherfucker](http://skullcode.com/)
-* [Codingame](https://www.codingame.com/home)
-* [Math exercises using programming](https://projecteuler.net/)
-* [Python challenge](http://www.pythonchallenge.com/)
-* [Exercises](https://www.codewars.com/)
-* [Low level programming exercises](http://corewar.co.uk/)
-* [Create a linux distro from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
+
+#Linux and the linux environment
+* [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Introduction to linux and the linux environment](http://ryanstutorials.net/linuxtutorial/)
 * [Installing any distro on any computer](http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine)
 * [Introduction to vim](https://www.linux.com/learn/vim-101-beginners-guide-vim)
-* [Introduction to Unix](https://www.tutorialspoint.com/unix/)
-* [Introduction to the shell](http://learnshell.org/)
-* [Tools and extensions for shells](https://github.com/alebcay/awesome-shell)
-* [Curated guides and tutorials for the linux environment](http://www.tldp.org/guides.html)
-* [Useful tips and tricks for unix](http://cb.vu/unixtoolbox.xhtml)
-* [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
-* [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
+* [Tutorialspoint - unix](https://www.tutorialspoint.com/unix/)
+* [learnshell](http://learnshell.org/)
+
+###Tools
+* [Awesome shell](https://github.com/alebcay/awesome-shell)
+* [Linux documentation project guides](http://www.tldp.org/guides.html)
+* [Unix toolbox](http://cb.vu/unixtoolbox.xhtml)
+
+#Networks
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-* [iot search engine](https://www.shodan.io/)
+
+#Hacking
+###Recon
+* [Shodan IOT search engine](https://www.shodan.io/)
+
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [Books for download](https://yadi.sk/d/Fkww0QKbuTdVF)
 * [Introduction to software security](https://cybersecuritybase.github.io/)
@@ -410,4 +441,5 @@ The idea is to have a curated list of learning resources. Currently sorting thro
 * [font picker](http://fontpair.co/)
 * [font picker](https://femmebot.github.io/google-type/)
 * [browser stats](https://www.w3schools.com/browsers/default.asp)
-* [30 days of js](https://javascript30.com/)
+* [Mock up data](http://www.mockaroo.com/)
+* [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
