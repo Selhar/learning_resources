@@ -448,3 +448,6 @@ TODO: Review indexed files
 * [npm 101](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 * [react + redux video tutorial](https://www.youtube.com/watch?v=d0oUGmSE6IY&list=PLJBrYU54JD2pTblB20OmV7GL6H5J-p2g8)
 * [webpack 101](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.ex5te4vku)
+* [webpack 2 video tutorials](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
+* [css loaders](http://freefrontend.com/css-loaders/)
+* [free front end](http://freefrontend.com/index.html)
