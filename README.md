@@ -451,4 +451,7 @@ TODO: Review indexed files
 * [webpack 2 video tutorials](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
 * [css loaders](http://freefrontend.com/css-loaders/)
 * [free front end](http://freefrontend.com/index.html)
-* [zero to hero in react and redux](Zero to Hero with React and Redux)
+* [React + redux tutorial](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+* [Zero to hero in react + redux](https://www.youtube.com/watch?v=F_GEISRSPrY)
+* [page speed insights](https://developers.google.com/speed/pagespeed/insights/)
+* [ihatetomatoes](https://ihatetomatoes.net/)
