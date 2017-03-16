@@ -1,7 +1,7 @@
 The idea is to have a curated list of learning resources. Currently sorting through mud, should take a while.
 TODO: Review indexed files
 
-#Programming
+# Programming
 * [x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Rust book](https://doc.rust-lang.org/book/)
@@ -16,7 +16,7 @@ TODO: Review indexed files
 * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 * [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
 
-###Exercises and contests
+### Exercises and contests
 * [Codingame](https://www.codingame.com/home)
 * [30 days of js](https://javascript30.com/)
 * [code eval](https://www.codeeval.com/)
@@ -32,27 +32,27 @@ TODO: Review indexed files
 * [codewards](https://www.codewars.com/)
 * [Corewar](http://corewar.co.uk/)
 
-##Misc and articles
+## Misc and articles
 * [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
 * [C language FAQ, good explanations](http://c-faq.com/)
 * [Computer science book reviews](https://accu.org/index.php/book_reviews_redirect)
 * [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
 
-###Blogs and news 
+### Blogs and news 
 * [Nayuki](https://www.nayuki.io/)
 
-###Compilers
+### Compilers
 * [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
-###Software design and architecture
+### Software design and architecture
 * [Software architecture and design](https://br.udacity.com/course/software-architecture-design--ud821/)
 * [CS61A (sicp in python)](http://cs61a.org/)
 * [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 * [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
 * [Software engineering](http://philipmjohnson.org/ics314f13/)
 
-###Tools and services
+### Tools and services
 * [Firebase](https://firebase.google.com/)
 * [mLab](https://mlab.com/)
 * [Heroku](https://dashboard.heroku.com/)
@@ -60,17 +60,17 @@ TODO: Review indexed files
 * [Regexr](http://regexr.com/)
 * [Codepad](http://codepad.org/)
 
-###Algorithms
+### Algorithms
 * [Stanford Algorithms courses](https://www.coursera.org/specializations/algorithms)
 * [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
 * [MIT Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 
-###Databases
+### Databases
 * [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 
-###OS dev and emulators
+### OS dev and emulators
 * [Emulators 101](http://emulator101.com/)
 * [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
 * [Operating Systems and Systems Programming - Video classes](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
@@ -81,7 +81,7 @@ TODO: Review indexed files
 * [Project oberon](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
 
-#Linux and the linux environment
+# Linux and the linux environment
 * [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Introduction to linux and the linux environment](http://ryanstutorials.net/linuxtutorial/)
 * [Installing any distro on any computer](http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine)
@@ -89,16 +89,16 @@ TODO: Review indexed files
 * [Tutorialspoint - unix](https://www.tutorialspoint.com/unix/)
 * [learnshell](http://learnshell.org/)
 
-###Tools
+### Tools
 * [Awesome shell](https://github.com/alebcay/awesome-shell)
 * [Linux documentation project guides](http://www.tldp.org/guides.html)
 * [Unix toolbox](http://cb.vu/unixtoolbox.xhtml)
 
-#Networks
+# Networks
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-#Hacking
-###Recon
+# Hacking
+### Recon
 * [Shodan IOT search engine](https://www.shodan.io/)
 
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
@@ -455,3 +455,8 @@ TODO: Review indexed files
 * [Zero to hero in react + redux](https://www.youtube.com/watch?v=F_GEISRSPrY)
 * [page speed insights](https://developers.google.com/speed/pagespeed/insights/)
 * [ihatetomatoes](https://ihatetomatoes.net/)
+* [Programmer competency checklist](http://sijinjoseph.com/programmer-competency-matrix/)
+* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+* [Good quality open source code](https://www.quora.com/Computer-Programming/Where-can-one-find-examples-of-good-quality-open-source-coding/answer/Toby-Thain)
+* [Programming methodology](https://see.stanford.edu/Course/CS106A)
+* [practical color theory] (https://tallys.github.io/color-theory/)
