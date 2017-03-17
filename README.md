@@ -459,4 +459,6 @@ TODO: Review indexed files
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 * [Good quality open source code](https://www.quora.com/Computer-Programming/Where-can-one-find-examples-of-good-quality-open-source-coding/answer/Toby-Thain)
 * [Programming methodology](https://see.stanford.edu/Course/CS106A)
-* [practical color theory] (https://tallys.github.io/color-theory/)
+* [practical color theory](https://tallys.github.io/color-theory/)
+* [web developer 2017 roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [d3 tutorials](https://github.com/d3/d3/wiki/Tutorials)
