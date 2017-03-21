@@ -101,10 +101,13 @@ TODO: Review indexed files
 ### Recon
 * [Shodan IOT search engine](https://www.shodan.io/)
 
+### Generic
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
-* [Books for download](https://yadi.sk/d/Fkww0QKbuTdVF)
-* [Introduction to software security](https://cybersecuritybase.github.io/)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
+
+### courses
+* [Introduction to software security](https://cybersecuritybase.github.io/)
+
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
 * [Reading list](http://dfir.org/?q=node/8)
 * [shell explanations](http://explainshell.com/)
@@ -462,3 +465,7 @@ TODO: Review indexed files
 * [practical color theory](https://tallys.github.io/color-theory/)
 * [web developer 2017 roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [d3 tutorials](https://github.com/d3/d3/wiki/Tutorials)
+* [Preact](https://preactjs.com/)
+* [DNSimple](https://dnsimple.com/)
+* [Stock photos](https://www.pexels.com/)
+* [Stock photos](https://unsplash.com/)
