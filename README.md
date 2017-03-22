@@ -104,11 +104,11 @@ TODO: Review indexed files
 ### Generic
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
+* [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
 
 ### courses
 * [Introduction to software security](https://cybersecuritybase.github.io/)
 
-* [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
 * [Reading list](http://dfir.org/?q=node/8)
 * [shell explanations](http://explainshell.com/)
 * [Linux post-op cheatsheet](https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List)
