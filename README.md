@@ -464,7 +464,6 @@ TODO: Review indexed files
 * [Programming methodology](https://see.stanford.edu/Course/CS106A)
 * [practical color theory](https://tallys.github.io/color-theory/)
 * [web developer 2017 roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [d3 tutorials](https://github.com/d3/d3/wiki/Tutorials)
 * [Preact](https://preactjs.com/)
 * [DNSimple](https://dnsimple.com/)
 * [Stock photos](https://www.pexels.com/)
