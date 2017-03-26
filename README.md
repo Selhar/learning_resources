@@ -469,3 +469,4 @@ TODO: Review indexed files
 * [Stock photos](https://www.pexels.com/)
 * [Stock photos](https://unsplash.com/)
 * [API collection](https://www.programmableweb.com/)
+* [webdev checklist](http://webdevchecklist.com/)
