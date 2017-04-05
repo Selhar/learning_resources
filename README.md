@@ -472,3 +472,6 @@ TODO: Review indexed files
 * [webdev checklist](http://webdevchecklist.com/)
 * [angel.co](https://angel.co/jobs)
 * [Understand node.js asynch calls](https://www.codementor.io/codeforgeek/manage-async-nodejs-callback-example-code-du107q1pn)
+* [Node hero](https://resources.risingstack.com/Node_Hero+-+The+complete+Node.js+tutorial+series+from+RisingStack.pdf)
+* [rising stack](https://blog.risingstack.com/)
+* [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
