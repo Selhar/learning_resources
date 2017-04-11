@@ -1,4 +1,4 @@
-The idea is to have a curated list of learning resources. Currently sorting through mud, should take a while.
+The idea is to have a curated list of learning resources and tools for personal use. Currently sorting through mud, should take a while.  
 TODO: Review indexed files
 
 # Programming
@@ -475,3 +475,5 @@ TODO: Review indexed files
 * [Node hero](https://resources.risingstack.com/Node_Hero+-+The+complete+Node.js+tutorial+series+from+RisingStack.pdf)
 * [rising stack](https://blog.risingstack.com/)
 * [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* [Secure Coding with Node.js](https://www.youtube.com/watch?v=jloaI6ShcD8)
+* [Node security checklist](https://blog.risingstack.com/node-js-security-checklist/)
