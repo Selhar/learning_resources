@@ -477,3 +477,5 @@ TODO: Review indexed files
 * [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [Secure Coding with Node.js](https://www.youtube.com/watch?v=jloaI6ShcD8)
 * [Node security checklist](https://blog.risingstack.com/node-js-security-checklist/)
+* [Understanding test driven development](https://www.youtube.com/watch?v=q5Xd1tmIgec)
+* [Books for devops](http://booksfordevops.com/)
