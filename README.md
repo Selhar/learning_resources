@@ -480,3 +480,5 @@ TODO: Review indexed files
 * [Understanding test driven development](https://www.youtube.com/watch?v=q5Xd1tmIgec)
 * [Books for devops](http://booksfordevops.com/)
 * [starfighter](https://www.starfighters.io/)
+* [exercism](http://exercism.io/)
+* [teach yourself cs](https://teachyourselfcs.com/#programming)
