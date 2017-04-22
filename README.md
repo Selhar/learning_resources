@@ -482,3 +482,4 @@ TODO: Review indexed files
 * [starfighter](https://www.starfighters.io/)
 * [exercism](http://exercism.io/)
 * [teach yourself cs](https://teachyourselfcs.com/#programming)
+* [learn japanese](https://www.tofugu.com/learn-japanese/)
