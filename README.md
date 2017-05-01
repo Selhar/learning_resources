@@ -483,3 +483,6 @@ TODO: Review indexed files
 * [exercism](http://exercism.io/)
 * [teach yourself cs](https://teachyourselfcs.com/#programming)
 * [learn japanese](https://www.tofugu.com/learn-japanese/)
+* [express.js security best practices](https://expressjs.com/en/advanced/best-practice-security.html)
+* [Chai cheatsheet](http://ricostacruz.com/cheatsheets/chai.html)
+* [Mongoose - referencing schema in properties or arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
