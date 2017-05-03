@@ -486,3 +486,5 @@ TODO: Review indexed files
 * [express.js security best practices](https://expressjs.com/en/advanced/best-practice-security.html)
 * [Chai cheatsheet](http://ricostacruz.com/cheatsheets/chai.html)
 * [Mongoose - referencing schema in properties or arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
+* [Choose a license](https://choosealicense.com/)
+* [Getting started with d3.js](http://eyalarubas.com/getting-started-with-d3js.html)
