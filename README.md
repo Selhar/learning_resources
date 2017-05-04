@@ -493,3 +493,4 @@ TODO: Review indexed files
 * [Using d3 tip to add tooltips to a chart](http://bl.ocks.org/Caged/6476579)
 * [Intro to d3.js](https://square.github.io/intro-to-d3/)
 * [Getting started with d3.js](https://www.youtube.com/watch?v=uMd5uP-3s4c)
+* [D3 in depth](http://d3indepth.com/)
