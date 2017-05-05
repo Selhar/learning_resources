@@ -494,3 +494,5 @@ TODO: Review indexed files
 * [Intro to d3.js](https://square.github.io/intro-to-d3/)
 * [Getting started with d3.js](https://www.youtube.com/watch?v=uMd5uP-3s4c)
 * [D3 in depth](http://d3indepth.com/)
+* [Colors.co (palette)](https://coolors.co/)
+* [vanschneider (palette)][http://www.vanschneider.com/colors/]
