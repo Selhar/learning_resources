@@ -19,23 +19,29 @@
 * [code school (it's pretty good, even if the layout is horrible)](http://codeschool.org/)
 * [Automate the boring stuff (python)](https://automatetheboringstuff.com/)
 
-### Programming as a subject
+### Software engineering, design and programming paradigms
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
 * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 * [discrete mathematics and functional programming](http://cs.wheaton.edu/~tvandrun/dmfp/)
+
+### Mathematics
 * [mathematical foundations of computing](http://web.stanford.edu/class/cs103/)
+
+### Practice, challenges and contests
 * [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
-* [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-* [Open source society](https://github.com/open-source-society)
-* [online courses](https://learn.saylor.org/course/index.php?categoryid=9)
 * [Codingame](https://www.codingame.com/home)
-* [30 days of js](https://javascript30.com/)
 * [code eval](https://www.codeeval.com/)
 * [topcoder](https://www.topcoder.com/getting-started/)
-* [practice coding interview](https://www.interviewbit.com/)
 * [codechef](https://www.codechef.com/)
 * [hackerrank](https://www.hackerrank.com/)
 * [hacker earth](https://www.hackerearth.com/)
+* [practice coding interview](https://www.interviewbit.com/)
+
+### Other aggregators
+* [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+* [Open source society](https://github.com/open-source-society)
+* [online courses](https://learn.saylor.org/course/index.php?categoryid=9)
+
 * [code fights](https://codefights.com/)
 * [codehunt](https://www.codehunt.com/)
 * [Skullcode](http://skullcode.com/)
