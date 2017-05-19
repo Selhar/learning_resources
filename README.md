@@ -114,7 +114,9 @@
 
 ### Blogs
 * [Nayuki](https://www.nayuki.io/)
----
+
+-----
+
 # Hacking (unsorted, unlabeled, it's hell out there)
 * [CTF time](https://ctftime.org/)
 * [CTF tools](https://github.com/zardus/ctf-tools)
