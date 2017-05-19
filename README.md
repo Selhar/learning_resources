@@ -1,5 +1,5 @@
 <p align="center">
-	<b>Personal list of learning resources</b>  
+	<b>Personal list of learning resources</b> </br>
     Still not organized, use at your own risk of frustrartion.
 </p>
 
