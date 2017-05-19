@@ -1,12 +1,13 @@
 <p align="center">
 	<b>Personal list of learning resources</b> </br>
-    Still not organized, use at your own risk of frustrartion.
+    Still not organized, use at your own risk of frustration.
 </p>
 
 ---
 
 
 # Computer science
+### Languages
 * [x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Rust book](http://rust-lang.github.io/book/second-edition/index.html)
@@ -14,9 +15,11 @@
 * [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
 * [solo learn](https://www.sololearn.com/)
 * [codesdope](https://www.codesdope.com/)
-* [learn c++](https://www.learn-cpp.org/)
-* [code school](http://codeschool.org/)
-* [Automate the boring stuff](https://automatetheboringstuff.com/)
+* [learn c++/shell/js/java/etc](https://www.learn-cpp.org/)
+* [code school (it's pretty good, even if the layout is horrible)](http://codeschool.org/)
+* [Automate the boring stuff (python)](https://automatetheboringstuff.com/)
+
+### Programming as a subject
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
 * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 * [discrete mathematics and functional programming](http://cs.wheaton.edu/~tvandrun/dmfp/)
