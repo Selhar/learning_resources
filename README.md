@@ -517,3 +517,7 @@
 * [Loading icons](https://loading.io/)
 * [codrops - news, guides, etc](https://tympanus.net/codrops/)
 * [smashing magazine](https://www.smashingmagazine.com/)
+* [favicon generator](http://realfavicongenerator.net/)
+* [can i use](https://caniuse.com/)
+* [what should go in <head>](http://gethead.info/)
+* [safety check](https://observatory.mozilla.org/)
