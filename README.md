@@ -111,6 +111,7 @@
 ### Misc
 * [Computer science book reviews](https://accu.org/index.php/book_reviews_redirect)
 * [what happens when you type in google and press enter](https://github.com/alex/what-happens-when)
+* [software licenses tl;dr](https://tldrlegal.com/)
 
 ### Blogs
 * [Nayuki](https://www.nayuki.io/)
@@ -358,6 +359,8 @@
 * [roothack](http://roothack.org/)
 * [ransomware tracker](https://ransomwaretracker.abuse.ch/tracker/)
 
+---
+
 # Web development (unsorted, unlabeled)
 * [analyse site speed](https://gtmetrix.com/)
 * [svg optimizer](http://petercollingridge.appspot.com/svg-optimiser)
@@ -510,3 +513,7 @@
 * [favicon](https://favicon.io/)
 * [stocksnap](https://stocksnap.io/)
 * [Glitch (just like heroku, except good)](https://glitch.com/)
+* [flat color palette](http://www.flatuicolorpicker.com/)
+* [Loading icons](https://loading.io/)
+* [codrops - news, guides, etc](https://tympanus.net/codrops/)
+* [smashing magazine](https://www.smashingmagazine.com/)
