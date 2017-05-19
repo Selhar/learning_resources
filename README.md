@@ -56,14 +56,14 @@
 ### Other aggregators
 * [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [Open source society](https://github.com/open-source-society)
-* [online courses](https://learn.saylor.org/course/index.php?categoryid=9)
+* [Saylor (bunch of courses)](https://learn.saylor.org/course/index.php?categoryid=9)
 
 ### Open source
 * [how to contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-* [beginner friendly open source projects](http://www.firsttimersonly.com/)
+* [first timers only](http://www.firsttimersonly.com/)
 * [Free computer science books](https://github.com/vhf/free-programming-books)
-* [beginner friendly open source projects](http://up-for-grabs.net/#/)
-* [beginner friendly open source projects](https://openhatch.org/)
+* [up for grabs](http://up-for-grabs.net/#/)
+* [open hatch](https://openhatch.org/)
 * [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
 
 ### Tools and services
@@ -84,7 +84,7 @@
 * [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 
-### Low level stuff (OS dev, emulators, kernel, compilers)
+### Low level stuff
 * [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [Emulators 101](http://emulator101.com/)
 * [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
@@ -114,7 +114,7 @@
 
 ### Blogs
 * [Nayuki](https://www.nayuki.io/)
-
+---
 # Hacking (unsorted, unlabeled, it's hell out there)
 * [CTF time](https://ctftime.org/)
 * [CTF tools](https://github.com/zardus/ctf-tools)
