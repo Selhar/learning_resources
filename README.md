@@ -1,10 +1,17 @@
-The idea is to have a curated list of learning resources and tools for personal use. Currently sorting through mud, should take a while.  
-TODO: Review indexed files
+<p align="center">
+	<b>Personal list of learning resources</b>
+    Still not organized, use at your own risk of frustrartion.
+</p>
 
-# Programming
+<br>
+
+---
+
+
+# Computer science
 * [x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 * [x86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-* [Rust book](https://doc.rust-lang.org/book/)
+* [Rust book](http://rust-lang.github.io/book/second-edition/index.html)
 * [Regex](https://regexone.com/)
 * [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
 * [solo learn](https://www.sololearn.com/)
@@ -20,8 +27,6 @@ TODO: Review indexed files
 * [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [Open source society](https://github.com/open-source-society)
 * [online courses](https://learn.saylor.org/course/index.php?categoryid=9)
-
-### Exercises and contests
 * [Codingame](https://www.codingame.com/home)
 * [30 days of js](https://javascript30.com/)
 * [code eval](https://www.codeeval.com/)
@@ -37,9 +42,6 @@ TODO: Review indexed files
 * [python challenge](http://www.pythonchallenge.com/)
 * [codewards](https://www.codewars.com/)
 * [Corewar](http://corewar.co.uk/)
-
-### Misc and articles
-* [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
 * [C language FAQ, good explanations](http://c-faq.com/)
 * [Computer science book reviews](https://accu.org/index.php/book_reviews_redirect)
@@ -49,21 +51,13 @@ TODO: Review indexed files
 * [Free computer science books](https://github.com/vhf/free-programming-books)
 * [beginner friendly open source projects](http://up-for-grabs.net/#/)
 * [beginner friendly open source projects](https://openhatch.org/)
-
-### Blogs and news 
 * [Nayuki](https://www.nayuki.io/)
-
-### Compilers
 * [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-
-### Software design and architecture
 * [Software architecture and design](https://br.udacity.com/course/software-architecture-design--ud821/)
 * [CS61A (sicp in python)](http://cs61a.org/)
 * [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 * [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
 * [Software engineering](http://philipmjohnson.org/ics314f13/)
-
-### Tools and services
 * [Firebase](https://firebase.google.com/)
 * [mLab](https://mlab.com/)
 * [Heroku](https://dashboard.heroku.com/)
@@ -71,18 +65,12 @@ TODO: Review indexed files
 * [Regexr](http://regexr.com/)
 * [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
 * [Codepad](http://codepad.org/)
-
-### Algorithms
 * [Stanford Algorithms courses](https://www.coursera.org/specializations/algorithms)
 * [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
 * [MIT Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
-
-### Databases
 * [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
-
-### OS dev and emulators
 * [Emulators 101](http://emulator101.com/)
 * [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
 * [Operating Systems and Systems Programming - Video classes](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
@@ -92,29 +80,21 @@ TODO: Review indexed files
 * [OS development: three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Project oberon](http://www.projectoberon.com/)
 * [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
-
-# Linux and the linux environment
 * [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Introduction to linux and the linux environment](http://ryanstutorials.net/linuxtutorial/)
 * [Installing any distro on any computer](http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine)
 * [Introduction to vim](https://www.linux.com/learn/vim-101-beginners-guide-vim)
-* [Tutorialspoint - unix](https://www.tutorialspoint.com/unix/)
 * [debian repos generator](https://debgen.simplylinux.ch/)
 * [shell explanations](http://explainshell.com/)
 * [learnshell](http://learnshell.org/)
-
-### Tools
 * [Awesome shell](https://github.com/alebcay/awesome-shell)
 * [Linux documentation project guides](http://www.tldp.org/guides.html)
 * [Unix toolbox](http://cb.vu/unixtoolbox.xhtml)
-
-# Networks
 * [what happens when you type in google and press enter](https://github.com/alex/what-happens-when)
 * [network cheatsheets](http://packetlife.net/library/cheat-sheets/)
 * [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-# Hacking
-### Challenges and exercises
+
 * [CTF time](https://ctftime.org/)
 * [CTF tools](https://github.com/zardus/ctf-tools)
 * [Halls of valhalla](http://halls-of-valhalla.org/beta/challenges)
@@ -124,8 +104,6 @@ TODO: Review indexed files
 * [Locally hosted classes](http://opensecuritytraining.info/Training.html)
 * [ctf practice](http://abctf.xyz/)
 * [vulnerable vm's](https://www.vulnhub.com/)
-
-### Recon
 * [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
 * [Shodan IOT search engine](https://www.shodan.io/)
 * [cached pages](http://cachedview.com/)
@@ -148,8 +126,6 @@ TODO: Review indexed files
 * [whois](https://whois.domaintools.com/)
 * [portswigger](http://blog.portswigger.net/)
 * [rep check](http://www.threatlog.com/)
-
-### Generic
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [OWASP developer guide](https://www.owasp.org/index.php/Category:OWASP_Guide_Project)
 * [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
@@ -162,8 +138,6 @@ TODO: Review indexed files
 * [pentest cheatsheet 2](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 * [sqli cheatsheet](http://websec.ca/kb/sql_injection)
 * [pentest cheatsheet 3](https://github.com/jshaw87/Cheatsheets)
-
-### Guides, courses and classes
 * [malware development course](https://github.com/RPISEC/Malware)
 * [security tube](http://www.securitytube.net/)
 * [Cybrary](https://www.cybrary.it/)
@@ -171,34 +145,24 @@ TODO: Review indexed files
 * [traffic analysis exercises](http://www.malware-traffic-analysis.net/training-exercises.html)
 * [course: malware analysis: a reverse engineering approach](https://fumalwareanalysis.blogspot.com.br/p/malware-analysis-tutorials-reverse.html)
 * [practical malware analysis](https://practicalmalwareanalysis.com/labs/)
-
-### Articles and writeups
 * [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
 * [CTF writeups](https://github.com/ctfs)
 * [ashley madison hack writeup](https://www.ashleymadison.com/hack/)
 * [getting started with infosec](https://github.com/gradiuscypher/infosec_getting_started)
-
-### Communities
 * [hack this site's forum](http://www.hackthissite.org/forums/index.php)
 * [greysec](https://greysec.net/index.php)
 * [intosec](https://intosec.org/)
-* [Lainchan](https://lainchan.org/sec/index.html)
+* [Lainchan /sec/](https://lainchan.org/sec/index.html)
 * [v3rmillion](https://v3rmillion.net/)
 * [8ch's cyber](https://8ch.net/cyber/index.html)
 * [sinisterly](https://sinister.ly/index.php)
 * [cracking forum](http://crackingforum.com/index.php)
-
-### Tools and services
 * [check spam](http://www.dnsbl.info/dnsbl-database-check.php)
 * [make http requests](https://www.hurl.it/)
 * [temporary email](http://en.getairmail.com/)
 * [encode message as spam](http://spammimic.com/encode.cgi)
 * [temporary email](https://10minutemail.com/10MinuteMail/index.html?dswid=9337)
-
-### misc
 * [interactive view of attacks](http://map.norsecorp.com/#/helps)
-
-### not organized
 * [Reading list](http://dfir.org/?q=node/8)
 * [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
 * [hack back 2](http://pastebin.com/raw/cRYvK4jb)
@@ -371,8 +335,6 @@ TODO: Review indexed files
 * [roothack](http://roothack.org/)
 * [ransomware tracker](https://ransomwaretracker.abuse.ch/tracker/)
 
-# Web dev
-### Tools and services
 * [analyse site speed](https://gtmetrix.com/)
 * [svg optimizer](http://petercollingridge.appspot.com/svg-optimiser)
 * [CSS visual reference](http://cssreference.io/)
@@ -413,13 +375,10 @@ TODO: Review indexed files
 * [npm guide](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 * [popular devices ratios](http://mydevice.io/devices/)
 * [The noun project](https://thenounproject.com/)
-
-### Courses, tutorials and classes
 * [freecodecamp](https://www.freecodecamp.com/)
 * [HTML and CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [material design](https://material.io/)
 * [Redux course](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
-* [flexbox tutorial](http://flexboxfroggy.com/)
 * [basics of color theory](https://www.colormatters.com/color-and-design/basic-color-theory)
 * [understanding css box sizing](https://zellwk.com/blog/understanding-css-box-sizing/)
 * [centering in css](https://css-tricks.com/centering-css-complete-guide/)
@@ -430,8 +389,6 @@ TODO: Review indexed files
 * [freecodecamp but ruby](http://www.theodinproject.com/)
 * [ES6 featuers](http://es6-features.org/)
 * [html/css tutorial](http://marksheet.io/)
-
-### Articles, blog posts and lists
 * [Responsive design cheatsheet](http://www.codeply.com/responsive-design-cheatsheet.html)
 * [Responsive typography](http://www.webdesignerdepot.com/2012/10/a-simple-guide-to-responsive-typography/)
 * [Understanding redux and flux](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
@@ -440,9 +397,6 @@ TODO: Review indexed files
 * [Awesome redux](https://github.com/xgrommx/awesome-redux)
 * [media queries for standard devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 * [writing a basic react + redux app](http://davidandsuzi.com/writing-a-basic-app-in-redux/)
-
-# Work
-### Job boards and freelancing
 * [weworkremotely](https://weworkremotely.com/)
 * [stack overflow jobs](http://stackoverflow.com/jobs)
 * [freelancing](https://www.fiverr.com/)
@@ -453,11 +407,8 @@ TODO: Review indexed files
 * [github job board](https://jobs.github.com/positions?description=&location=remote)
 * [remote companies list](https://github.com/yanirs/established-remote)
 * [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
-
-### Articles
 * [trabalho remoto tutorial](https://github.com/DyegoCosta/trabalhando-remoto)
 * [resume tips](https://tisiphone.net/2016/03/17/the-worst-infosec-resume-ever/)
-
 * [bachelors level curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 * [javascript assert library](https://github.com/mjackson/expect)
 * [best google fonts](https://www.typewolf.com/google-fonts)
@@ -518,5 +469,19 @@ TODO: Review indexed files
 * [Getting started with d3.js](https://www.youtube.com/watch?v=uMd5uP-3s4c)
 * [D3 in depth](http://d3indepth.com/)
 * [Colors.co (palette)](https://coolors.co/)
-* [vanschneider (palette)][http://www.vanschneider.com/colors/]
+* [vanschneider (palette)](http://www.vanschneider.com/colors/)
 * [rust book second ed.](http://rust-lang.github.io/book/second-edition/index.html)
+* [placeholder images](https://placehold.it/)
+* [CRUD in ejs + express + mongo](https://zellwk.com/blog/crud-express-mongodb/)
+* [mlab (free cloud mongodb hosting)](https://mlab.com/)
+* [Sizzy (teste responsive layouts)](http://sizzy.co/)
+* [Free stock images, videos and sounds](http://allthefreestock.com/)
+* [codeyui - design inspiration](https://codemyui.com/)
+* [muz.li](https://muz.li/)
+* [unplash - placeholder images](http://unsplash.it/)
+* [responsive patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
+* [flat icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
+* [colorful icons](http://www.iconsdb.com/)
+* [image compressing](https://compressor.io/compress)
+* [favicon](https://favicon.io/)
+* [stocksnap](https://stocksnap.io/)
