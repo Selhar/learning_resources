@@ -112,6 +112,7 @@
 * [Computer science book reviews](https://accu.org/index.php/book_reviews_redirect)
 * [what happens when you type in google and press enter](https://github.com/alex/what-happens-when)
 * [software licenses tl;dr](https://tldrlegal.com/)
+* [symbolhound - search engine with symbols enabled](http://symbolhound.com/)
 
 ### Blogs
 * [Nayuki](https://www.nayuki.io/)
