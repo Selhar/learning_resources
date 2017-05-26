@@ -523,3 +523,5 @@
 * [what should go in <head>](http://gethead.info/)
 * [safety check](https://observatory.mozilla.org/)
 * [Guide into fullstack dev 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+* [interact js](http://interactjs.io/)
+* [gun.io](https://gun.io/?ref=nodesk)
