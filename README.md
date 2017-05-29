@@ -121,15 +121,17 @@
 ---
 
 # Hacking (unsorted, unlabeled, it's hell out there)
+### Wargames, exercises, competitions and related material
 * [CTF time](https://ctftime.org/)
 * [CTF tools](https://github.com/zardus/ctf-tools)
 * [Halls of valhalla](http://halls-of-valhalla.org/beta/challenges)
 * [Wargame, netgarage](https://io.netgarage.org/)
 * [hack_me](http://hack.darkn3ss.com/)
-* [list of practice ctfs](http://captf.com/practice-ctf/)
-* [Locally hosted classes](http://opensecuritytraining.info/Training.html)
-* [ctf practice](http://abctf.xyz/)
+* [list of ctfs](http://captf.com/practice-ctf/)
+* [Locally hosted classes (forensics, x86, bunch of stuff)](http://opensecuritytraining.info/Training.html)
 * [vulnerable vm's](https://www.vulnhub.com/)
+
+### Not yet organized
 * [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
 * [Shodan IOT search engine](https://www.shodan.io/)
 * [cached pages](http://cachedview.com/)
