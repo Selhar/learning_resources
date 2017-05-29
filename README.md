@@ -129,6 +129,8 @@
 * [hack_me](http://hack.darkn3ss.com/)
 * [list of ctfs](http://captf.com/practice-ctf/)
 * [Locally hosted classes (forensics, x86, bunch of stuff)](http://opensecuritytraining.info/Training.html)
+
+### Tools, boxes and environment-related material
 * [vulnerable vm's](https://www.vulnhub.com/)
 
 ### Not yet organized
