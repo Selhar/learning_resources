@@ -128,26 +128,30 @@
 * [Wargame, netgarage](https://io.netgarage.org/)
 * [hack_me](http://hack.darkn3ss.com/)
 * [list of ctfs](http://captf.com/practice-ctf/)
+
+### Classes, courses, books
 * [Locally hosted classes (forensics, x86, bunch of stuff)](http://opensecuritytraining.info/Training.html)
 
-### Tools, boxes and environment-related material
+### Tools and boxes
 * [vulnerable vm's](https://www.vulnhub.com/)
+* [Virus total](https://www.virustotal.com/#url)
 
-### Not yet organized
+### Recon
+* [The harvester, scan for subdomains, emails etc](https://github.com/laramies/theHarvester)
 * [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
 * [Shodan IOT search engine](https://www.shodan.io/)
-* [cached pages](http://cachedview.com/)
-* [passive IP scanner](http://lcamtuf.coredump.cx/p0f3/)
-* [cached pages 2](http://www.cachedpages.com/)
-* [cached pages 3](https://archive.fo/)
-* [ip check](http://bgp.he.net/)
-* [The harvester, scan for subdomains, emails etc](https://github.com/laramies/theHarvester)
-* [ip check](http://www.tcpiputils.com/)
-* [ip check](https://www.rbls.org/)
+* [cached view)](http://cachedview.com/)
+* [cached pages](http://www.cachedpages.com/)
+* [archive.fo](https://archive.fo/)
+* [P0f ip scanner](http://lcamtuf.coredump.cx/p0f3/)
+* [BGP ip scanner](http://bgp.he.net/)
+* [TCP utils](http://www.tcpiputils.com/)
+* [check ip against blocklists](https://www.rbls.org/)
 * [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
-* [malware check](http://urlquery.net/)
-* [malware check](https://www.virustotal.com/#url)
-* [malware check](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
+* [URL query - Web-based malware index](http://urlquery.net/)
+* [Google's malware index](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
+
+### Not yet organized
 * [rep check](http://www.urlvoid.com/)
 * [dns check](https://dnsdumpster.com/)
 * [DNS route lookup](https://www.whatsmydns.net/)
