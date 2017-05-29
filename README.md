@@ -120,7 +120,7 @@
 
 ---
 
-# Hacking (unsorted, unlabeled, it's hell out there)
+# Hacking (Sorting through it, most of it is unsorted and unlabeled)
 ### Wargames, exercises, competitions and related material
 * [CTF time](https://ctftime.org/)
 * [CTF tools](https://github.com/zardus/ctf-tools)
