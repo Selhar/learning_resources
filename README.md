@@ -535,3 +535,4 @@
 * [interact js](http://interactjs.io/)
 * [gun.io](https://gun.io/?ref=nodesk)
 * [Relay interactive tutorial](https://www.learnrelay.org/)
+* [GraphQL interactive tutorial](https://learngraphql.com/)
