@@ -372,12 +372,18 @@
 ---
 
 # Web development (unsorted, unlabeled)
+
+### Libraries
+* [animations](https://greensock.com/)
+
+### Tools
 * [analyse site speed](https://gtmetrix.com/)
 * [svg optimizer](http://petercollingridge.appspot.com/svg-optimiser)
 * [CSS visual reference](http://cssreference.io/)
 * [HTML visual reference](http://htmlreference.io/)
+
+### Not yet sorted 
 * [Accessibility test](https://achecker.ca/checker/index.php)
-* [animations](https://greensock.com/)
 * [you might not need jquery](http://youmightnotneedjquery.com/)
 * [tiny png](https://tinypng.com/)
 * [find what a website is built with](https://builtwith.com/)
@@ -535,4 +541,9 @@
 * [interact js](http://interactjs.io/)
 * [gun.io](https://gun.io/?ref=nodesk)
 * [Relay interactive tutorial](https://www.learnrelay.org/)
+* [Relay for visual learners](http://sgwilym.github.io/relay-visual-learners/)
+* [React with relay and graphql](https://www.youtube.com/watch?v=Cfna8gwt9h8)
+* [React native + navigator](http://dirtybirds.chloeandisabel.com/development/2015/11/04/react-native-relay-routes.html)
+* [Getting started with react native + relay](http://www.mot.la/2016-05-08-getting-started-with-react-native-and-relay.html)
+* [Getting started with relay](https://auth0.com/blog/getting-started-with-relay/)
 * [GraphQL interactive tutorial](https://learngraphql.com/)
