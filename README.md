@@ -376,14 +376,15 @@
 ### Libraries
 * [animations](https://greensock.com/)
 
-### Tools
-
-
-### Not yet sorted 
+### Performance related tools
 * [analyse site speed](https://gtmetrix.com/)
 * [svg optimizer](http://petercollingridge.appspot.com/svg-optimiser)
+
+### Reference material
 * [CSS visual reference](http://cssreference.io/)
 * [HTML visual reference](http://htmlreference.io/)
+
+### Not yet sorted 
 * [Accessibility test](https://achecker.ca/checker/index.php)
 * [you might not need jquery](http://youmightnotneedjquery.com/)
 * [tiny png](https://tinypng.com/)
