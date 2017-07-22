@@ -550,3 +550,4 @@
 * [Getting started with relay](https://auth0.com/blog/getting-started-with-relay/)
 * [GraphQL interactive tutorial](https://learngraphql.com/)
 * [tired](https://www.indiehackers.com/businesses)
+* [nth child recipes](https://css-tricks.com/useful-nth-child-recipies/)
