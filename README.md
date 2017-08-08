@@ -552,3 +552,6 @@
 * [tired](https://www.indiehackers.com/businesses)
 * [nth child recipes](https://css-tricks.com/useful-nth-child-recipies/)
 * [formspree](https://formspree.io/)
+* [glassdoor](https://www.glassdoor.com)
+* [html and css](https://internetingishard.com/html-and-css/)
+* [fontello](http://fontello.com/)
