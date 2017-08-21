@@ -120,7 +120,16 @@
 
 ---
 
-# Hacking (Sorting through it, most of it is unsorted and unlabeled)
+# Hacking (everything is disorganized and life is meaningless)
+
+### Recon
+* [sitedigger](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx)
+* [GHDB](https://www.exploit-db.com/google-hacking-database/)
+* [Meta goofil](http://www.edge-security.com/metagoofil.php)
+* [HTTrack](https://www.httrack.com/)
+
+
+# fuck everything below here
 ### Wargames, exercises, competitions and related material
 * [CTF time](https://ctftime.org/)
 * [CTF tools](https://github.com/zardus/ctf-tools)
@@ -555,3 +564,4 @@
 * [glassdoor](https://www.glassdoor.com)
 * [html and css](https://internetingishard.com/html-and-css/)
 * [fontello](http://fontello.com/)
+* [icomoon](https://icomoon.io/app/)
