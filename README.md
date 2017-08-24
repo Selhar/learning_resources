@@ -159,6 +159,10 @@
 * [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
 * [URL query - Web-based malware index](http://urlquery.net/)
 * [Google's malware index](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
+* [Shodan](https://www.shodan.io/)
+
+### Vulnerability DBs
+* [NVD](https://nvd.nist.gov/)
 
 ### Not yet organized
 * [rep check](http://www.urlvoid.com/)
