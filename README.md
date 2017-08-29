@@ -127,7 +127,10 @@
 * [GHDB](https://www.exploit-db.com/google-hacking-database/)
 * [Meta goofil](http://www.edge-security.com/metagoofil.php)
 * [HTTrack](https://www.httrack.com/)
-
+* [Zap scanner](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+* [Shodan](https://www.shodan.io/)
+* [Discover](https://github.com/leebaird/discover)
+* [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
 
 # fuck everything below here
 ### Wargames, exercises, competitions and related material
@@ -148,7 +151,6 @@
 ### Recon
 * [The harvester, scan for subdomains, emails etc](https://github.com/laramies/theHarvester)
 * [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
-* [Shodan IOT search engine](https://www.shodan.io/)
 * [cached view)](http://cachedview.com/)
 * [cached pages](http://www.cachedpages.com/)
 * [archive.fo](https://archive.fo/)
@@ -159,7 +161,6 @@
 * [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
 * [URL query - Web-based malware index](http://urlquery.net/)
 * [Google's malware index](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
-* [Shodan](https://www.shodan.io/)
 
 ### Vulnerability DBs
 * [NVD](https://nvd.nist.gov/)
