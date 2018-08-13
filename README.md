@@ -399,6 +399,7 @@
 * [HTML visual reference](http://htmlreference.io/)
 
 ### Not yet sorted 
+* [Free stock images](https://www.nappy.co/)
 * [Accessibility test](https://achecker.ca/checker/index.php)
 * [you might not need jquery](http://youmightnotneedjquery.com/)
 * [tiny png](https://tinypng.com/)
