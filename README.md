@@ -132,7 +132,6 @@
 * [Discover](https://github.com/leebaird/discover)
 * [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
 
-# fuck everything below here
 ### Wargames, exercises, competitions and related material
 * [CTF time](https://ctftime.org/)
 * [CTF tools](https://github.com/zardus/ctf-tools)
