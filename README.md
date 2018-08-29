@@ -120,7 +120,7 @@
 
 ---
 
-# Hacking (everything is disorganized and life is meaningless)
+# Infosec
 
 ### Recon
 * [sitedigger](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx)
