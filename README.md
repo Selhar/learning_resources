@@ -1,6 +1,6 @@
 <p align="center">
 	<b>Personal list of learning resources</b> </br>
-    Still not organized, use at your own risk of frustration.
+    Mostly curated resources. Ctrl+f a technology or subject and you'll probably find it.
 </p>
 
 ---
