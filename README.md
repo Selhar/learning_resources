@@ -22,6 +22,11 @@
 * [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
 * [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
 
+### Linux / linux related
+* [Bash guide for beginners](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+* [Bash programming guide](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [Bash academy](https://www.bash.academy/)
+
 ### Software engineering, design and programming paradigms
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
 * [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
