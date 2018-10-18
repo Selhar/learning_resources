@@ -1,6 +1,6 @@
 <p align="center">
 	<b>Personal list of learning resources</b> </br>
-    Mostly curated resources. Ctrl+f a technology or subject and you'll probably find it.
+    Mostly curated. Ctrl+f a technology or subject and you'll probably find it.
 </p>
 
 ---
