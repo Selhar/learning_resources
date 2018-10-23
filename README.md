@@ -402,6 +402,10 @@
 * [CSS visual reference](http://cssreference.io/)
 * [HTML visual reference](http://htmlreference.io/)
 
+### Javascript
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Understanding `this` JS keyword](https://toddmotto.com/understanding-the-this-keyword-in-javascript/)
+
 ### Not yet sorted 
 * [Free stock images](https://www.nappy.co/)
 * [Accessibility test](https://achecker.ca/checker/index.php)
