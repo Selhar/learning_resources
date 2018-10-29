@@ -524,6 +524,8 @@
 * [github job board](https://jobs.github.com/positions?description=&location=remote)
 * [remote companies list](https://github.com/yanirs/established-remote)
 * [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
+* [trampos.co(PT-BR)](https://trampos.co/oportunidades?lc=home%20office)
+* [empresas remotas brasileiras](https://github.com/lerrua/remote-jobs-brazil)
 * [trabalho remoto(PT-BR)](https://github.com/DyegoCosta/trabalhando-remoto)
 * [Recebendo/declarando dinheiro estrangeiro(PT-BR)](https://www.devpleno.com/como-receber-de-empresas-estrangeiras/)
 * [glassdoor](https://www.glassdoor.com)
