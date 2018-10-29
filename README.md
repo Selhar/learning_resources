@@ -1,6 +1,6 @@
 <p align="center">
 	<b>Personal list of learning resources</b> </br>
-    Mostly curated. Ctrl+f a technology or subject and you'll probably find it.
+    Last review: 10/29/2018. Ctrl+f a technology or subject and you'll probably find it.
 </p>
 
 ---
@@ -8,15 +8,14 @@
 
 # Computer science
 ### Languages
-* [x86](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
-* [x86](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-* [Rust book](http://rust-lang.github.io/book/second-edition/index.html)
+* [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+* [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [Rust book](https://doc.rust-lang.org/stable/book/second-edition/index.html)
 * [Regex](https://regexone.com/)
 * [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
 * [solo learn](https://www.sololearn.com/)
 * [codesdope](https://www.codesdope.com/)
 * [learn c++/shell/js/java/etc](https://www.learn-cpp.org/)
-* [code school (it's pretty good, even if the layout is horrible)](http://codeschool.org/)
 * [Automate the boring stuff (python)](https://automatetheboringstuff.com/)
 * [C language FAQ, good explanations](http://c-faq.com/)
 * [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
@@ -45,13 +44,11 @@
 * [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
 * [Codingame](https://www.codingame.com/home)
 * [code eval](https://www.codeeval.com/)
-* [topcoder](https://www.topcoder.com/getting-started/)
 * [codechef](https://www.codechef.com/)
 * [hackerrank](https://www.hackerrank.com/)
 * [hacker earth](https://www.hackerearth.com/)
 * [practice coding interview](https://www.interviewbit.com/)
 * [code fights](https://codefights.com/)
-* [codehunt](https://www.codehunt.com/)
 * [Skullcode](http://skullcode.com/)
 * [project euler](https://projecteuler.net/)
 * [python challenge](http://www.pythonchallenge.com/)
@@ -60,7 +57,7 @@
 
 ### Other aggregators
 * [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-* [Open source society](https://github.com/open-source-society)
+* [Open source society](https://github.com/ossu/computer-science)
 * [Saylor (bunch of courses)](https://learn.saylor.org/course/index.php?categoryid=9)
 
 ### Open source
@@ -81,7 +78,6 @@
 
 ### Algorithms and data structures
 * [Stanford Algorithms courses](https://www.coursera.org/specializations/algorithms)
-* [Algorithms](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
 * [MIT Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 * [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 
@@ -89,11 +85,11 @@
 * [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
 
-### Low level stuff
+### Low level programming / OS development
+* [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [Emulators 101](http://emulator101.com/)
 * [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
-* [Operating Systems and Systems Programming - Video classes](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
 * [Little OS book](http://littleosbook.github.io/)
 * [OS development book](http://www.brokenthorn.com/Resources/)
 * [Project oberon (design a computer system from 0)](http://www.projectoberon.com/)
@@ -102,9 +98,7 @@
 * [Hack the kernel](https://www.ops-class.org/)
 
 ### Linux and the linux environment
-* [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [Introduction to linux and the linux environment](http://ryanstutorials.net/linuxtutorial/)
-* [Installing any distro on any computer](http://www.newnix.space/blog/2015/7/6/installing-nearly-any-distro-on-just-about-any-machine)
 * [Introduction to vim](https://www.linux.com/learn/vim-101-beginners-guide-vim)
 * [debian repos generator](https://debgen.simplylinux.ch/)
 * [shell explanations](http://explainshell.com/)
@@ -128,14 +122,32 @@
 # Infosec
 
 ### Recon
-* [sitedigger](https://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx)
 * [GHDB](https://www.exploit-db.com/google-hacking-database/)
 * [Meta goofil](http://www.edge-security.com/metagoofil.php)
 * [HTTrack](https://www.httrack.com/)
 * [Zap scanner](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [Shodan](https://www.shodan.io/)
 * [Discover](https://github.com/leebaird/discover)
+* [The harvester, scan for subdomains, emails etc](https://github.com/laramies/theHarvester)
+* [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
+* [cached view)](http://cachedview.com/)
+* [cached pages](http://www.cachedpages.com/)
+* [archive.fo](https://archive.fo/)
+* [P0f ip scanner](http://lcamtuf.coredump.cx/p0f3/)
+* [BGP ip scanner](http://bgp.he.net/)
+* [TCP utils](http://www.tcpiputils.com/)
+* [check ip against blocklists](https://www.rbls.org/)
+* [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
+* [URL query - Web-based malware index](http://urlquery.net/)
+* [Google's malware index](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
 * [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
+* [NVD](https://nvd.nist.gov/)
+* [rep check](http://www.urlvoid.com/)
+* [dns check](https://dnsdumpster.com/)
+* [DNS route lookup](https://www.whatsmydns.net/)
+* [dns check](https://intodns.com/)
+* [dns records](https://www.robtex.com/dns/)
+* [whois](https://whois.domaintools.com/)
 
 ### Wargames, exercises, competitions and related material
 * [CTF time](https://ctftime.org/)
@@ -152,30 +164,7 @@
 * [vulnerable vm's](https://www.vulnhub.com/)
 * [Virus total](https://www.virustotal.com/#url)
 
-### Recon
-* [The harvester, scan for subdomains, emails etc](https://github.com/laramies/theHarvester)
-* [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
-* [cached view)](http://cachedview.com/)
-* [cached pages](http://www.cachedpages.com/)
-* [archive.fo](https://archive.fo/)
-* [P0f ip scanner](http://lcamtuf.coredump.cx/p0f3/)
-* [BGP ip scanner](http://bgp.he.net/)
-* [TCP utils](http://www.tcpiputils.com/)
-* [check ip against blocklists](https://www.rbls.org/)
-* [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
-* [URL query - Web-based malware index](http://urlquery.net/)
-* [Google's malware index](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
-
-### Vulnerability DBs
-* [NVD](https://nvd.nist.gov/)
-
 ### Not yet organized
-* [rep check](http://www.urlvoid.com/)
-* [dns check](https://dnsdumpster.com/)
-* [DNS route lookup](https://www.whatsmydns.net/)
-* [dns check](https://intodns.com/)
-* [dns records](https://www.robtex.com/dns/)
-* [whois](https://whois.domaintools.com/)
 * [portswigger](http://blog.portswigger.net/)
 * [rep check](http://www.threatlog.com/)
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
