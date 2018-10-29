@@ -305,6 +305,7 @@
 
 ### Writeups
 * [hack back](http://pastebin.com/raw/cRYvK4jb)
+* [infosec writeups](https://medium.com/bugbountywriteup)
 * [list of bounty writeups](https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137)
 * [Bug bounty reference](https://github.com/ngalongc/bug-bounty-reference)
 * [hack back 2](http://pastebin.com/raw/0SNSvyjJ)
@@ -413,6 +414,7 @@
 * [interact js](http://interactjs.io/)
 
 ### Learning: Cheatsheets, guides, tutorials, courses..
+* [Deploy mern to heroku](https://daveceddia.com/deploy-react-express-app-heroku/)
 * [you might not need jquery](http://youmightnotneedjquery.com/)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Understanding `this` JS keyword](https://toddmotto.com/understanding-the-this-keyword-in-javascript/)
@@ -535,3 +537,4 @@
 
 # Misc
 * [learn japanese](https://www.tofugu.com/learn-japanese/)
+* [draw a box](http://drawabox.com/)
