@@ -1,6 +1,6 @@
 <p align="center">
 	<b>Personal list of learning resources</b> </br>
-    Last review: 10/29/2018. Ctrl+f a technology or subject and you'll probably find it.
+    Last review: 10/29/2018.
 </p>
 
 ---
