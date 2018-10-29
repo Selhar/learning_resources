@@ -518,7 +518,6 @@
 * [weworkremotely](https://weworkremotely.com/)
 * [stack overflow jobs](http://stackoverflow.com/jobs)
 * [fiverr](https://www.fiverr.com/)
-* [fiverr](https://www.fiverr.com/)
 * [Hasjob](https://hasjob.co/)
 * [angel.co](https://angel.co/jobs)
 * [wearehirable](https://wearehirable.com/)
