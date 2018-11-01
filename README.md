@@ -374,7 +374,7 @@
 
 ---
 
-# Web development (unsorted, unlabeled)
+# Web development
 
 ### Tools: performance test, compressors, libraries...
 * [formspree](https://formspree.io/)
