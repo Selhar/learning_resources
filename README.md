@@ -38,6 +38,7 @@
 
 ### Game dev
 * [Godot game engine tutorial](https://fr.flossmanuals.net/godot-game-engine/about-this-book/)
+* [Games from scratch](https://www.gamefromscratch.com/page/Getting-Started.aspx)
 * [awesome gamedev](https://github.com/mbrukman/awesome-gamedev)
 * [awesome gamedev 2](https://github.com/Calinou/awesome-gamedev)
 
