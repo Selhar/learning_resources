@@ -242,6 +242,7 @@
 * [list of ctfs](http://captf.com/practice-ctf/)
 
 ### Lectures: Courses, classes, books, guides, etc..
+* [Illustrated TSL guide](https://tls13.ulfheim.net/)
 * [reverse engie guides](https://www.bigendiansmalls.com/category/security/reverse-engineering/)
 * [reverse engie book](https://beginners.re/RE4B-EN.pdf)
 * [crypto techniques and guides](http://practicalcryptography.com/)
