@@ -541,7 +541,7 @@
 ---
 
 ### Drawing
-[Krita, drawing software](https://krita.org/en/)
+* [Krita, drawing software](https://krita.org/en/)
 * [draw a box](http://drawabox.com/)
 * [beginner guide to 2d/3d art](https://www.gamedev.net/articles/visual-arts/the-total-beginner%e2%80%99s-guide-to-better-2d-game-art-r2959)
 
