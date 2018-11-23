@@ -42,6 +42,10 @@
 * [awesome gamedev](https://github.com/mbrukman/awesome-gamedev)
 * [awesome gamedev 2](https://github.com/Calinou/awesome-gamedev)
 * [godot engine tutorial](https://www.youtube.com/watch?v=eHtIcbrii2Y&index=2&list=PLhqJJNjsQ7KEr_YlibZ3SBuzfw9xwGduK&t=0s)
+* [assets, resources](http://tools.aggydaggy.com/)
+* [freesound](http://freesound.org/browse)
+* [freemusicarchive](http://freemusicarchive.org/)
+* [incompetech, free audio](https://incompetech.com/music/)
 
 ### Software engineering, design and programming paradigms
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
