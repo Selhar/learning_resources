@@ -215,6 +215,7 @@
 * [whois](https://whois.domaintools.com/)
 
 ### Practice: CTFs, exercises, bounties, wargames..
+* [hackthebox](https://www.hackthebox.eu/)
 * [smash the stack](http://smashthestack.org/)
 * [pwnable](http://pwnable.kr/)
 * [challenges](http://3564020356.org/deserve.htm)
