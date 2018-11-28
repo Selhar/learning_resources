@@ -216,6 +216,7 @@
 
 ### Practice: CTFs, exercises, bounties, wargames..
 * [smash the stack](http://smashthestack.org/)
+* [pwnable](http://pwnable.kr/)
 * [challenges](http://3564020356.org/deserve.htm)
 * [0x0539](https://0x0539.net/)
 * [roothack](http://roothack.org/)
@@ -273,6 +274,7 @@
 * [binary exploitation](https://greysec.net/showthread.php?tid=560)
 * [exploit tutorial](https://greysec.net/showthread.php?tid=559)
 * [guide to XSS](https://greysec.net/showthread.php?tid=177)
+* [Hacking from scratch](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 ### Tools: Software, boxes, etc..
 * [watch security cameras](http://www.insecam.org/)
