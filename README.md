@@ -36,17 +36,6 @@
 * [Linux documentation project guides](http://www.tldp.org/guides.html)
 * [Unix toolbox](http://cb.vu/unixtoolbox.xhtml)
 
-### Game dev
-* [Godot game engine tutorial](https://fr.flossmanuals.net/godot-game-engine/about-this-book/)
-* [Games from scratch](https://www.gamefromscratch.com/page/Getting-Started.aspx)
-* [awesome gamedev](https://github.com/mbrukman/awesome-gamedev)
-* [awesome gamedev 2](https://github.com/Calinou/awesome-gamedev)
-* [godot engine tutorial](https://www.youtube.com/watch?v=eHtIcbrii2Y&index=2&list=PLhqJJNjsQ7KEr_YlibZ3SBuzfw9xwGduK&t=0s)
-* [assets, resources](http://tools.aggydaggy.com/)
-* [freesound](http://freesound.org/browse)
-* [freemusicarchive](http://freemusicarchive.org/)
-* [incompetech, free audio](https://incompetech.com/music/)
-
 ### Software engineering, design and programming paradigms
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 * [Programming paradigms](https://see.stanford.edu/Course/CS107)
@@ -558,3 +547,14 @@
 # Misc
 * [learn japanese](https://www.tofugu.com/learn-japanese/)
 
+### Game dev
+* [Godot game engine tutorial](https://fr.flossmanuals.net/godot-game-engine/about-this-book/)
+* [Games from scratch](https://www.gamefromscratch.com/page/Getting-Started.aspx)
+* [awesome gamedev](https://github.com/mbrukman/awesome-gamedev)
+* [awesome gamedev 2](https://github.com/Calinou/awesome-gamedev)
+* [godot engine tutorial](https://www.youtube.com/watch?v=eHtIcbrii2Y&index=2&list=PLhqJJNjsQ7KEr_YlibZ3SBuzfw9xwGduK&t=0s)
+* [assets, resources](http://tools.aggydaggy.com/)
+* [freesound](http://freesound.org/browse)
+* [freemusicarchive](http://freemusicarchive.org/)
+* [incompetech, free audio](https://incompetech.com/music/)
+* [gamedev video tutorials, focused on krita and godot](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ/playlists)
