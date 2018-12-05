@@ -558,3 +558,4 @@
 * [freemusicarchive](http://freemusicarchive.org/)
 * [incompetech, free audio](https://incompetech.com/music/)
 * [gamedev video tutorials, focused on krita and godot](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ/playlists)
+* [opengameart](https://opengameart.org/)
