@@ -546,6 +546,7 @@
 
 # Misc
 * [learn japanese](https://www.tofugu.com/learn-japanese/)
+* [generi courses](https://www.learncafe.com)
 
 ### Game dev
 * [Godot game engine tutorial](https://fr.flossmanuals.net/godot-game-engine/about-this-book/)
