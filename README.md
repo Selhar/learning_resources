@@ -35,6 +35,7 @@
 * [Awesome shell](https://github.com/alebcay/awesome-shell)
 * [Linux documentation project guides](http://www.tldp.org/guides.html)
 * [Unix toolbox](http://cb.vu/unixtoolbox.xhtml)
+* [Terminal.sexy](https://terminal.sexy)
 
 ### Software engineering, design and programming paradigms
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
