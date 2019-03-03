@@ -548,6 +548,7 @@
 
 # Misc
 * [learn japanese](https://www.tofugu.com/learn-japanese/)
+* [Japanese training](https://www.wanikani.com/)
 * [generi courses](https://www.learncafe.com)
 
 ### Game dev
