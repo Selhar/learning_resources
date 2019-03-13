@@ -380,6 +380,7 @@
 # Web development
 
 ### Tools: performance test, compressors, libraries...
+* [Netlify](https://app.netlify.com/drop)
 * [formspree](https://formspree.io/)
 * [tiny png](https://tinypng.com/)
 * [analyse site speed](https://gtmetrix.com/)
