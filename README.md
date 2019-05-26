@@ -418,6 +418,7 @@
 * [interact js](http://interactjs.io/)
 
 ### Learning: Cheatsheets, guides, tutorials, courses..
+* [Amazon in plain english](https://www.expeditedssl.com/aws-in-plain-english)
 * [Deploy mern to heroku](https://daveceddia.com/deploy-react-express-app-heroku/)
 * [you might not need jquery](http://youmightnotneedjquery.com/)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
