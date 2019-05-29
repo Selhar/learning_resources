@@ -68,6 +68,7 @@
 * [python challenge](http://www.pythonchallenge.com/)
 * [codewars](https://www.codewars.com/)
 * [Corewar](http://corewar.co.uk/)
+* [git-school](http://git-school.github.io/visualizing-git/#free)
 
 ### Other aggregators
 * [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
