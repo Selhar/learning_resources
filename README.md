@@ -282,6 +282,7 @@
 * [encode message as spam](http://spammimic.com/encode.cgi)
 * [temporary email](https://10minutemail.com/10MinuteMail/index.html?dswid=9337)
 * [list of problematic strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
+* [boxes](https://www.osboxes.org/)
 
 ### Communities: Forums, zines, blogs..
 * [darkoperator](http://www.darkoperator.com/)
