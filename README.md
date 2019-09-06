@@ -406,6 +406,7 @@
 * [palette inspiration 1](http://www.colourlovers.com/)
 * [palette inspiration 2](https://www.design-seeds.com/)
 * [placeholder images](https://placehold.it/)
+* [placeholder images 2](https://placeimg.com)
 * [favicon](https://favicon.io/)
 * [wirify](https://www.wirify.com/)
 * [Colors.co (palette)](https://coolors.co/)
