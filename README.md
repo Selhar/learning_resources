@@ -419,6 +419,8 @@
 * [Sizzy (test responsive layouts)](http://sizzy.co/)
 * [unplash - placeholder images](http://unsplash.it/)
 * [interact js](http://interactjs.io/)
+* [bundle analyzer](https://www.bundle-analyzer.com/)
+
 
 ### Learning: Cheatsheets, guides, tutorials, courses..
 * [Amazon in plain english](https://www.expeditedssl.com/aws-in-plain-english)
@@ -524,6 +526,7 @@
 * [background patterns](https://www.toptal.com/designers/subtlepatterns/)
 * [fontello](http://fontello.com/)
 * [icomoon](https://icomoon.io/app/)
+* [pure react carousel](https://express-labs.github.io/pure-react-carousel/)
 
 ### Work: Remote jobs boards, freelancing...
 * [weworkremotely](https://weworkremotely.com/)
