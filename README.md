@@ -420,6 +420,7 @@
 * [unplash - placeholder images](http://unsplash.it/)
 * [interact js](http://interactjs.io/)
 * [bundle analyzer](https://www.bundle-analyzer.com/)
+* [Pure react carousel](https://express-labs.github.io/pure-react-carousel/)
 
 
 ### Learning: Cheatsheets, guides, tutorials, courses..
