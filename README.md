@@ -123,6 +123,7 @@
 * [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
 * [Free computer science books](https://github.com/vhf/free-programming-books)
 * [GitHowTo](https://githowto.com)
+* [Deep Learning for Programmers](https://course18.fast.ai/ml)
 
 ### Blogs
 * [Nayuki](https://www.nayuki.io/)
