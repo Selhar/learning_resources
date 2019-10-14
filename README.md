@@ -269,6 +269,7 @@
 * [exploit tutorial](https://greysec.net/showthread.php?tid=559)
 * [guide to XSS](https://greysec.net/showthread.php?tid=177)
 * [Hacking from scratch](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+* [Web security academy](https://portswigger.net/web-security/all-materials)
 
 ### Tools: Software, boxes, etc..
 * [watch security cameras](http://www.insecam.org/)
