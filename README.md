@@ -75,6 +75,7 @@
 * [bachelors level curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 * [Open source society](https://github.com/ossu/computer-science)
 * [Saylor (bunch of courses)](https://learn.saylor.org/course/index.php?categoryid=9)
+* [Self learning modern CS curriculum](https://functionalcs.github.io/curriculum/)
 
 ### Open source
 * [how to contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
