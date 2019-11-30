@@ -562,6 +562,7 @@
 * [learn japanese](https://www.tofugu.com/learn-japanese/)
 * [Japanese training](https://www.wanikani.com/)
 * [generi courses](https://www.learncafe.com)
+* [anonymous file upload](https://anonfile.com/docs/api)
 
 ### Game dev
 * [Godot game engine tutorial](https://fr.flossmanuals.net/godot-game-engine/about-this-book/)
