@@ -125,6 +125,7 @@
 * [Free computer science books](https://github.com/vhf/free-programming-books)
 * [GitHowTo](https://githowto.com)
 * [Deep Learning for Programmers](https://course18.fast.ai/ml)
+* [Books](http://library.uniteddiversity.coop/)
 
 ### Blogs
 * [Nayuki](https://www.nayuki.io/)
