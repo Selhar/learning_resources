@@ -8,6 +8,7 @@
 ## Unsorted
 * [Tailscale](https://tailscale.com/)
 * [serveo](https://serveo.net/)
+* [tldr pages](https://tldr.sh/)
 
 # Computer science
 ### Languages
