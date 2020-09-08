@@ -9,6 +9,7 @@
 * [Tailscale](https://tailscale.com/)
 * [serveo](https://serveo.net/)
 * [tldr pages](https://tldr.sh/)
+https://jakearchibald.github.io/svgomg/
 
 # Computer science
 ### Languages
