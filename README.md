@@ -10,6 +10,7 @@
 * [serveo](https://serveo.net/)
 * [tldr pages](https://tldr.sh/)
 https://jakearchibald.github.io/svgomg/
+https://dragonfly.wpi.edu/
 
 # Computer science
 ### Languages
