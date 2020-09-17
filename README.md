@@ -11,6 +11,7 @@
 * [tldr pages](https://tldr.sh/)
 * https://jakearchibald.github.io/svgomg/
 * https://dragonfly.wpi.edu/
+https://github.com/kewlfft/opennic-up
 
 # Computer science
 ### Languages
