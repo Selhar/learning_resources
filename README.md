@@ -3,217 +3,64 @@
     Ctrl + f a technology or subject. You'll likely find it.
 </p>
 
----
+# Computer Science
+### Blogs, forums and communities
+* [Project Nayuki](https://www.nayuki.io/)
 
-## Unsorted
-* [Tailscale](https://tailscale.com/)
-* [serveo](https://serveo.net/)
-* [tldr pages](https://tldr.sh/)
-* https://jakearchibald.github.io/svgomg/
-* https://dragonfly.wpi.edu/
-https://github.com/kewlfft/opennic-up
-
-# Computer science
-### Languages
-* [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
-* [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-* [Rust book](https://doc.rust-lang.org/stable/book/second-edition/index.html)
-* [Regex](https://regexone.com/)
-* [Introduction to haskell](http://www.seas.upenn.edu/~cis194/fall16/)
-* [Network programming in python](http://www.binarytides.com/python-socket-programming-tutorial/)
-* [teach yourself cs](https://teachyourselfcs.com/#programming)
-* [solo learn](https://www.sololearn.com/)
-* [codesdope](https://www.codesdope.com/)
-* [learn c++/shell/js/java/etc](https://www.learn-cpp.org/)
-* [Automate the boring stuff (python)](https://automatetheboringstuff.com/)
-* [C language FAQ, good explanations](http://c-faq.com/)
-* [Internals of the python interpreter](http://pgbovine.net/cpython-internals.htm)
-* [Creating a Proxy Webserver in Python](http://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
-
-### Linux / linux related
-* [Bash guide for beginners](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
-* [Bash programming guide](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-* [Bash academy](https://www.bash.academy/)
-* [Introduction to linux and the linux environment](http://ryanstutorials.net/linuxtutorial/)
-* [Introduction to vim](https://www.linux.com/learn/vim-101-beginners-guide-vim)
-* [debian repos generator](https://debgen.simplylinux.ch/)
-* [shell explanations](http://explainshell.com/)
-* [learnshell](http://learnshell.org/)
-* [Awesome shell](https://github.com/alebcay/awesome-shell)
-* [Linux documentation project guides](http://www.tldp.org/guides.html)
-* [Unix toolbox](http://cb.vu/unixtoolbox.xhtml)
-* [Terminal.sexy](https://terminal.sexy)
-
-### Software engineering, design and programming paradigms
-* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
-* [Programming paradigms](https://see.stanford.edu/Course/CS107)
-* [Programming methodology](https://see.stanford.edu/Course/CS106A)
-* [Programming Abstractions](https://see.stanford.edu/Course/CS106B)
-* [Software architecture design](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
-* [Software engineering](http://philipmjohnson.org/ics314f13/)
-* [discrete mathematics and functional programming](http://cs.wheaton.edu/~tvandrun/dmfp/)
-* [Software architecture and design](https://br.udacity.com/course/software-architecture-design--ud821/)
-* [CS61A (sicp in python)](http://cs61a.org/)
-
-### Mathematics and networks
-* [network cheatsheets](http://packetlife.net/library/cheat-sheets/)
-* [introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-* [mathematical foundations of computing](http://web.stanford.edu/class/cs103/)
-
-### Practice, challenges and contests
-* [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
-* [Codingame](https://www.codingame.com/home)
-* [code eval](https://www.codeeval.com/)
-* [codechef](https://www.codechef.com/)
-* [hackerrank](https://www.hackerrank.com/)
-* [hacker earth](https://www.hackerearth.com/)
-* [practice coding interview](https://www.interviewbit.com/)
-* [code fights](https://codefights.com/)
-* [exercism](http://exercism.io/)
-* [Skullcode](http://skullcode.com/)
-* [project euler](https://projecteuler.net/)
-* [python challenge](http://www.pythonchallenge.com/)
-* [codewars](https://www.codewars.com/)
-* [Corewar](http://corewar.co.uk/)
-* [git-school](http://git-school.github.io/visualizing-git/#free)
-
-### Other aggregators
-* [MIT courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-* [bachelors level curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+### Learning material
+* [The architecture of open source applications](https://www.aosabook.org/en/index.html)
+* [Automate the boring stuff](https://automatetheboringstuff.com/)
+* [Explainshell](https://explainshell.com/)
 * [Open source society](https://github.com/ossu/computer-science)
-* [Saylor (bunch of courses)](https://learn.saylor.org/course/index.php?categoryid=9)
-* [Self learning modern CS curriculum](https://functionalcs.github.io/curriculum/)
 
-### Open source
-* [how to contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-* [first timers only](http://www.firsttimersonly.com/)
-* [up for grabs](http://up-for-grabs.net/#/)
-* [Choose a license](https://choosealicense.com/)
-* [open hatch](https://openhatch.org/)
-* [Good quality open source code](https://www.quora.com/Computer-Programming/Where-can-one-find-examples-of-good-quality-open-source-coding/answer/Toby-Thain)
-* [open source software construction](https://github.com/mikeizbicki/ucr-cs100)
+### Practice
+* [Codewars](https://www.codewars.com/)
+* [First timers only - Open source contributions](https://www.firsttimersonly.com/)
 
-### Tools and services
-* [Firebase (cloud db)](https://firebase.google.com/)
-* [mLab (cloud db)](https://mlab.com/)
-* [gcc godbolt (visualization of c++ to x86)](https://gcc.godbolt.org/)
-* [Regexr](http://regexr.com/)
-* [Self hosted alternatives to popular services](https://github.com/juandecarrion/awesome-self-hosted)
-* [Codepad](http://codepad.org/)
+### Tools
+* [Regexpr](https://regexr.com/)
 
-### Algorithms and data structures
-* [Stanford Algorithms courses](https://www.coursera.org/specializations/algorithms)
-* [MIT Intro to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
-* [Design and analysis of algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+# Webdev
+### Articles
+* [Criando content loaders confiáveis](https://blog.taller.net.br/criando-content-loaders-confiaveis/)
+### Programming
+* [What the fuck is...](https://whatthefuck.is/)
+### Learning material
+* [What happens when..](https://github.com/alex/what-happens-when)
+### devOps
+* [Tailscale - private networks as a service](https://tailscale.com/)
+### Tools
+* [SVG editor](https://jakearchibald.github.io/svgomg/)
 
-### Databases
-* [Databases course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
-* [Intro to mongodb using mean stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0)
+# Infosec
+### Tools
+* [Exploit db](https://www.exploit-db.com/)
+* [Shodan](https://www.shodan.io/)
 
-### Low level programming / OS development
-* [Linux from scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
-* [Stanford compilers course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-* [Emulators 101](http://emulator101.com/)
-* [Operating Systems and Systems Programming - Reading material](https://cs162.eecs.berkeley.edu/)
-* [Little OS book](http://littleosbook.github.io/)
-* [OS development book](http://www.brokenthorn.com/Resources/)
-* [Project oberon (design a computer system from 0)](http://www.projectoberon.com/)
-* [Intro to OS design and implementation](https://www.ops-class.org/slides/2016-01-25-intro/)
-* [OS development: three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [Hack the kernel](https://www.ops-class.org/)
 
-### Misc
-* [Computer science book reviews](https://accu.org/index.php/book_reviews_redirect)
-* [what happens when you type in google and press enter](https://github.com/alex/what-happens-when)
-* [software licenses tl;dr](https://tldrlegal.com/)
-* [Programmer competency checklist](http://sijinjoseph.com/programmer-competency-matrix/)
-* [symbolhound - search engine with symbols enabled](http://symbolhound.com/)
-* [Books and articles for download](https://www.mediafire.com/folder/y952n2935ocnf/Documents)
-* [Free computer science books](https://github.com/vhf/free-programming-books)
-* [GitHowTo](https://githowto.com)
-* [Deep Learning for Programmers](https://course18.fast.ai/ml)
-* [Books](http://library.uniteddiversity.coop/)
 
-### Blogs
-* [Nayuki](https://www.nayuki.io/)
+# Gamedev
+### Game engine development
+* [Dragonfly](https://dragonfly.wpi.edu/book/)
+
+# Misc
+### Tools
+* [Slides](https://slides.com/)
+* [TL;DR manpages](https://tldr.sh/)
+* [OpenNIC, automatically update DNS](https://github.com/kewlfft/opennic-up)
+* [Terminal.sexy - theme editor](https://terminal.sexy/)
+* [???????????????](http://skullcode.com/)
+* [Choose a software license](https://choosealicense.com/)
+* [Simplified software licenses](https://tldrlegal.com/)
+* [Wayback machine](https://archive.org/)
+
+### Learning material
+* [Vim 101](https://www.linux.com/training-tutorials/vim-101-beginners-guide-vim/)
+
 
 ---
 
 # Infosec
-
-### Recon
-* [GHDB](https://www.exploit-db.com/google-hacking-database/)
-* [Meta goofil](http://www.edge-security.com/metagoofil.php)
-* [HTTrack](https://www.httrack.com/)
-* [malware check](https://sitecheck.sucuri.net/)
-* [check health of a website](http://www.isithacked.com/)
-* [Webscantest](http://www.webscantest.com/)
-* [check bunch of blacklists framework](https://github.com/stamparm/maltrail)
-* [network sensor](https://github.com/stamparm/tsusen)
-* [malware list](http://malwaredb.malekal.com/)
-* [botnet wiki](https://www.botnets.fr/wiki/Main_Page)
-* [botnets](http://www.exposedbotnets.com/)
-* [bunch of malware binaries](https://github.com/ytisf/theZoo/tree/master/malwares/Binaries)
-* [virushare](https://virusshare.com/)
-* [wayback machine](https://archive.org/)
-* [Zap scanner](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
-* [Shodan](https://www.shodan.io/)
-* [Discover](https://github.com/leebaird/discover)
-* [The harvester, scan for subdomains, emails etc](https://github.com/laramies/theHarvester)
-* [expired domains search engine](https://www.expireddomains.net/backorder-expired-domains/)
-* [cached view)](http://cachedview.com/)
-* [cached pages](http://www.cachedpages.com/)
-* [get info about an ip](https://github.com/hiddenillusion/ipinfo)
-* [shared logins](http://bugmenot.com/)
-* [archive.fo](https://archive.fo/)
-* [P0f ip scanner](http://lcamtuf.coredump.cx/p0f3/)
-* [BGP ip scanner](http://bgp.he.net/)
-* [TCP utils](http://www.tcpiputils.com/)
-* [check ip against blocklists](https://www.rbls.org/)
-* [CVE details](http://www.cvedetails.com/)
-* [CVE mitre](http://cve.mitre.org/)
-* [cx security](https://cxsecurity.com/)
-* [secunia research](https://secuniaresearch.flexerasoftware.com/community/research/)
-* [VULN DB FFS](https://www.vulnerability-lab.com/)
-* [literally named "vuln db"](https://vuldb.com/?archive.2016)
-* [vuln db](https://vulners.com/search?query=order:published)
-* [krypt3ia](https://krypt3ia.wordpress.com/)
-* [vuln db](https://www.rapid7.com/db/modules/)
-* [vuln db](http://www.exploitalert.com/)
-* [vuln db](http://www.securityfocus.com/vulnerabilities)
-* [vuln db](https://cve.mitre.org/compatible/country.html)
-* [vuln db](https://nmap.org/mailman/listinfo/fulldisclosure)
-* [lots of ip checks](http://www.ipvoid.com/)
-* [ip check](http://www.blacklistalert.org/)
-* [honeypots check](http://www.nothink.org/honeypots.php)
-* [check for antispam](http://whatismyipaddress.com/blacklist-check/)
-* [list of tools for malware lookup](https://zeltser.com/lookup-malicious-websites/)
-* [URL query - Web-based malware index](http://urlquery.net/)
-* [Google's malware index](https://www.google.com/transparencyreport/safebrowsing/diagnostic/)
-* [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)
-* [general tools](http://www.dfir.training/index.php/tools)
-* [NVD](https://nvd.nist.gov/)
-* [rep check](http://www.urlvoid.com/)
-* [dns check](https://dnsdumpster.com/)
-* [DNS route lookup](https://www.whatsmydns.net/)
-* [threat miner](https://www.threatminer.org/)
-* [dns check](https://intodns.com/)
-* [malware sample analysis](https://totalhash.cymru.com/)
-* [blacklist](http://cybercrime-tracker.net/)
-* [blacklist](http://malc0de.com/database/)
-* [malware list](http://vxvault.net/ViriList.php)
-* [malware domain list](https://www.malwaredomainlist.com/)
-* [vuln db](http://0day.today/)
-* [vuln db](https://cwe.mitre.org/data/index.html)
-* [vuln db](https://github.com/offensive-security/exploit-database)
-* [vuln db](https://www.rapid7.com/db/)
-* [vuln db](https://www.exploit-db.com/google-hacking-database/)
-* [vuln db](https://www.vigilante.pw/)
-* [rep check](http://www.threatlog.com/)
-* [router vulns](http://routerpwn.com/)
-* [dns records](https://www.robtex.com/dns/)
-* [National vulnerability db](https://nvd.nist.gov/)
-* [whois](https://whois.domaintools.com/)
 
 ### Practice: CTFs, exercises, bounties, wargames..
 * [microcorruption](https://microcorruption.com/login)
