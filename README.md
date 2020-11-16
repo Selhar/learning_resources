@@ -20,45 +20,41 @@
 ### Tools
 * [Regexpr](https://regexr.com/)
 
+---
+
 # Webdev
 ### Articles
 * [Criando content loaders confiáveis](https://blog.taller.net.br/criando-content-loaders-confiaveis/)
+
 ### Programming
 * [What the fuck is...](https://whatthefuck.is/)
+
 ### Learning material
 * [What happens when..](https://github.com/alex/what-happens-when)
+* [AWS in plain english](https://expeditedsecurity.com/aws-in-plain-english/)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Freecodecamp](https://www.freecodecamp.org/)
+* [CSS reference](https://cssreference.io/)
+* [Color theory for people who code](https://tallys.github.io/color-theory/)
+
+
 ### devOps
 * [Tailscale - private networks as a service](https://tailscale.com/)
+
 ### Tools
 * [SVG editor](https://jakearchibald.github.io/svgomg/)
+* [Code my ui](https://codemyui.com/)
+* [Favicon generator](https://favicon.io/)
+* [Bundle analyzer](https://www.bundle-analyzer.com/)
+* [Favicon generator](https://realfavicongenerator.net/)
+* [Can i use](https://caniuse.com/)
+
+---
 
 # Infosec
 ### Tools
 * [Exploit db](https://www.exploit-db.com/)
 * [Shodan](https://www.shodan.io/)
-
-# Gamedev
-### Game engine development
-* [Dragonfly](https://dragonfly.wpi.edu/book/)
-
-# Misc
-### Tools
-* [Slides](https://slides.com/)
-* [TL;DR manpages](https://tldr.sh/)
-* [OpenNIC, automatically update DNS](https://github.com/kewlfft/opennic-up)
-* [Terminal.sexy - theme editor](https://terminal.sexy/)
-* [???????????????](http://skullcode.com/)
-* [Choose a software license](https://choosealicense.com/)
-* [Simplified software licenses](https://tldrlegal.com/)
-* [Wayback machine](https://archive.org/)
-* [Temporary email](https://getnada.com/)
-
-### Learning material
-* [Vim 101](https://www.linux.com/training-tutorials/vim-101-beginners-guide-vim/)
-
----
-
-# Infosec
 
 ### Practice
 * [Microcorruption](https://microcorruption.com/login)
@@ -75,6 +71,8 @@
 * [Hack all the things](http://howto.hackallthethings.com/)
 * [Binary exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 * [Bounty writeups](https://medium.com/bugbountywriteup)
+* [Defcon reading list](https://www.defcon.org/html/links/book-list.html)
+* [Malware museum](https://archive.org/details/malwaremuseum)
 
 ### Community
 * [Dark operator](https://www.darkoperator.com/)
@@ -87,66 +85,34 @@
 * [Insecure magazine](https://www.helpnetsecurity.com/insecuremag-archive/)
 * [Sinisterly](https://sinister.ly/index.php)
 
-### Reading: Articles, lists, recommendations, cheatsheets, etc..
-* [file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
-* [file signatures 2](http://www.filesignatures.net/index.php?page=all)
-* [file signatures 3](http://www.garykessler.net/library/file_sigs.html)
-* [Pentesting tools list](https://github.com/sbilly/awesome-security)
-* [Reading list](http://dfir.org/?q=node/8)
-* [getting started with infosec](https://github.com/gradiuscypher/infosec_getting_started)
-* [Linux post-op cheatsheet](https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List)
-* [linux blue team list](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
-* [DEFCON recommended books](https://www.defcon.org/html/links/book-list.html)
-* [pentest cheatsheets](https://zeltser.com/cheat-sheets/#)
-* [pentest cheatsheet 2](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
-* [sqli cheatsheet](http://websec.ca/kb/sql_injection)
-* [Hack back 1](http://pastebin.com/raw/0SNSvyjJ)
-* [vulnerability scanner](https://github.com/future-architect/vuls)
-* [free shells](http://www.freeshells.info/)
-* [hack back 2](http://pastebin.com/raw/cRYvK4jb)
-* [forensic resources](https://github.com/Cugu/awesome-forensics)
-* [hacking tools](https://github.com/Laxa/HackingTools)
-* [List similar to this one](https://github.com/zbetcheckin/Security_list)
-* [Pentest cheatsheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)
-* [LFI cheatsheet](https://highon.coffee/blog/lfi-cheat-sheet/)
-* [pentest resource list](https://github.com/nixawk/pentest-wiki)
-* [incident response list](https://github.com/meirwah/awesome-incident-response/)
-* [threat intelligence list](https://github.com/hslatman/awesome-threat-intelligence)
-* [ioc list](https://github.com/sroberts/awesome-iocs)
-* [linux kernel exploitation resources](https://github.com/xairy/linux-kernel-exploitation)
-* [appsec list](https://github.com/paragonie/awesome-appsec)
-* [Grey hat list](https://github.com/bt3gl/My-Gray-Hacker-Resources)
-* [malware analysis list](https://github.com/rshipp/awesome-malware-analysis/)
-* [bug bounty list](https://github.com/djadmin/awesome-bug-bounty)
-* [ctf list](https://github.com/apsdehal/awesome-ctf)
-* [pentesting resources](https://github.com/joe-shenouda/awesome-cyber-skills)
-* [exploit development list](https://github.com/FabioBaroni/awesome-exploit-development)
-* [fuzzing list](https://github.com/secfigo/Awesome-Fuzzing)
-* [hacking list](https://github.com/carpedm20/awesome-hacking)
-* [honeypots list](https://github.com/paralax/awesome-honeypots)
-* [infosec resources](https://github.com/onlurking/awesome-infosec)
-* [pentest list](https://github.com/enaqx/awesome-pentest)
-* [mobile resources](https://forum.bugcrowd.com/t/researcher-resources-mobile-focused/1376)
-* [pentest list](https://github.com/infoslack/awesome-web-hacking)
-* [windows exploit](https://github.com/enddo/awesome-windows-exploitation)
-* [wifi tools](https://github.com/0x90/wifi-arsenal)
-* [thick client resources](https://forum.bugcrowd.com/t/researcher-resources-thick-client-focused/1772)
-* [tutorials](https://forum.bugcrowd.com/t/researcher-resources-tutorials/370)
-* [resources to learn exploit dev](https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-development)
-* [sec list](https://github.com/danielmiessler/SecLists)
-* [pentest resources](https://in-addr.nl/security-links.php)
+---
 
-### Malware downloads
-* [malware](http://www.malware.pl/)
-* [malware](https://www.scumware.org/)
-* [malware](https://malware.lu/)
-* [malware museum](https://archive.org/details/malwaremuseum)
-* [malware](http://www.offensivecomputing.net/)
-* [malware](http://www.malwaredomains.com/)
-* [malware crawler](https://github.com/krmaxwell/maltrieve)
-* [malware](http://thezoo.morirt.com/)
-* [malware repo](http://malshare.com/)
+# Gamedev
+### Game engine development
+* [Dragonfly](https://dragonfly.wpi.edu/book/)
 
+# Misc
+### Tools
+* [Slides](https://slides.com/)
+* [TL;DR manpages](https://tldr.sh/)
+* [OpenNIC, automatically update DNS](https://github.com/kewlfft/opennic-up)
+* [Terminal.sexy - theme editor](https://terminal.sexy/)
+* [???????????????](http://skullcode.com/)
+* [Choose a software license](https://choosealicense.com/)
+* [Simplified software licenses](https://tldrlegal.com/)
+* [Wayback machine](https://archive.org/)
+* [Temporary email](https://getnada.com/)
+* [Ẁhat's build with](https://builtwith.com/)
+* [Generate mock data](https://www.mockaroo.com/)
+* [Cupcake ipsum](http://www.cupcakeipsum.com/)
+* [Pallete sharing](https://www.colourlovers.com/)
+* [Placeholder images](https://placeholder.com/)
+* [PNG and jpg compression](https://tinypng.com/)
+* [Image compression](https://compressor.io/)
+* [SVG optimizer](https://petercollingridge.appspot.com/svg-optimiser)
+
+### Learning material
+* [Vim 101](https://www.linux.com/training-tutorials/vim-101-beginners-guide-vim/)
 
 ---
 
@@ -161,7 +127,6 @@
 * [flat color palette](http://www.flatuicolorpicker.com/)
 * [Online JS dev environment](https://glitch.com/)
 * [find what a website is built with](https://builtwith.com/)
-* [codeyui - design inspiration](https://codemyui.com/)
 * [muz.li](https://muz.li/)
 * [Accessibility test](https://achecker.ca/checker/index.php)
 * [URL encoder for svg](http://yoksel.github.io/url-encoder/)
