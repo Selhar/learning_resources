@@ -12,6 +12,7 @@
 * [Automate the boring stuff](https://automatetheboringstuff.com/)
 * [Explainshell](https://explainshell.com/)
 * [Open source society](https://github.com/ossu/computer-science)
+* [Automount linux partition](https://archived.forum.manjaro.org/t/wiki-howto-permanent-mount-for-partition/26187)
 
 ### Practice
 * [Codewars](https://www.codewars.com/)
