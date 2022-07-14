@@ -17,6 +17,7 @@
 ### Practice
 * [Codewars](https://www.codewars.com/)
 * [First timers only - Open source contributions](https://www.firsttimersonly.com/)
+* [How to build X](https://github.com/codecrafters-io/build-your-own-x)
 
 ### Tools
 * [Regexpr](https://regexr.com/)
