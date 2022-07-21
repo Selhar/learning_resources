@@ -21,6 +21,7 @@
 
 ### Tools
 * [Regexpr](https://regexr.com/)
+* [Sequence diagrams](https://sequencediagram.org/)
 
 ---
 
