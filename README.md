@@ -100,6 +100,9 @@
 # Gamedev
 ### Learning material
 * [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ/playlists)
+* [Awesome computer graphics](https://github.com/waitin2010/awesome-computer-graphics)
+* [Awesome computer graphics 2](https://github.com/luisdnsantos/awesome-computer-graphics)
+* [Computer graphics resources](https://legends2k.github.io/note/cg_resources/)
 
 ### Game engine development
 * [Dragonfly](https://dragonfly.wpi.edu/book/)
